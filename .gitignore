@@ -1,2 +1,17 @@
-/QQ空间爬取插件
-/实验室官方QQ号的QQ空间
+# QQ 空间备份与爬取工具
+/QQ空间爬取插件/
+/实验室官方QQ号的QQ空间/
+
+# 原始徽章与未采用的 Logo
+/stackfarm-logo-v2.png
+/StackFarm徽章.jpg
+
+# 本地编辑器与系统临时文件
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
