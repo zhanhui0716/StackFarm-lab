@@ -28,9 +28,9 @@ function heading(title, description) {
   return header;
 }
 
-function projectGrid() {
+function projectGrid(projects = lab.projects) {
   const grid = element("div", "", "project-grid");
-  for (const project of lab.projects) {
+  for (const project of projects) {
     const card = link("", "#project/" + encodeURIComponent(project.id), "project");
     const cover = element("div", "", "cover");
     if (project.image) {
@@ -233,7 +233,7 @@ function render() {
       const article = element("article", "", "news-body");
       const paragraphs = post.body || (post.description ? post.description.split("\n") : []);
       for (const paragraph of paragraphs) article.append(element("p", paragraph));
-      if (post.excerptOnly && !post.body) {
+      if (post.excerptOnly && (!post.body || !post.sourceUrl)) {
         article.append(element("p", "仅收录 QQ 空间备份中的原帖摘要。", "entry-meta"));
       }
       if (post.sourceUrl) {
@@ -275,13 +275,23 @@ function render() {
       main.append(image);
     }
     if (project.body) main.append(element("p", project.body, "project-body"));
+    if (project.members?.length) {
+      indexSection("项目成员", element("p", project.members.join("、")));
+    }
     for (const [title, entries] of Object.values(collections)) {
       const related = entries.filter(entry => entry.projects?.includes(project.id));
       if (related.length) indexSection(title, list(related, "", entries === lab.news));
     }
   } else if (route === "research") {
     heading("研发项目", "浏览实验室的项目方向、研发计划与相关组会。");
-    main.append(projectGrid());
+    const featured = lab.projects.filter(project => project.featured);
+    if (featured.length) {
+      indexSection("核心研发项目", projectGrid(featured));
+      const otherProjects = lab.projects.filter(project => !project.featured);
+      if (otherProjects.length) indexSection("其他研发与历史项目", projectGrid(otherProjects));
+    } else {
+      main.append(projectGrid());
+    }
   } else if (Object.hasOwn(collections, route)) {
     const [title, entries] = collections[route];
     heading(title, route === "news" ? "整理自实验室官方 QQ 空间及金陵科技学院官网。部分动态为原帖摘要。" : undefined);
@@ -313,7 +323,7 @@ function render() {
     const highlights = element("div", "", "highlights");
     const features = [
       ["竞赛成果", "从中国软件杯到大学生计算机设计大赛，浏览实验室团队的参赛记录与获奖成果。", "查看竞赛成果", "#publications", "awards"],
-      ["研发项目", lab.projects.map(item => item.title).join("、") + "。", "浏览研发项目", "#research", "software"],
+      ["研发项目", "从智能文档处理、开源 AI 教学到物联网与智慧农业，了解实验室的研发方向与项目进展。", "浏览研发项目", "#research", "software"],
       ["实验室团队", "了解指导教师，以及他们参与指导的学生研发项目。", "认识团队", "#people", "team"]
     ];
     for (const [title, description, label, href, artwork] of features) {
