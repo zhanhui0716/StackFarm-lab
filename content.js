@@ -21,7 +21,7 @@ window.labContent = {
         "葛家诚"
       ],
       "featured": true,
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqW4Z0BK5Ndxb6CcEecEO8kPDuX3tNLIrPaf6yebtlZI*1nyLkvMexhOW3r5q*WK6Pv2j8oq1X3zKeCLIAWKjACA!/c&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=3213fb9fc9c91c36443ab1756cf66562&sce=60-2-2&rf=0-0-0",
+      "image": "assets/images/qzone/ab3f9b376478158e763d.webp",
       "imageAlt": "新学期项目分享组会现场"
     },
     {
@@ -39,8 +39,8 @@ window.labContent = {
         "冯雅彦"
       ],
       "featured": true,
-      "image": "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM89SVBEl*i0fsrlyswe.Iq6fDbSU606Jw9zCR619eksaTzjJACVP1STv7a8ur9eo1A!/b&bo=Tgg6Bk4IOgYWADA!",
-      "imageAlt": "核心项目推进会现场"
+      "image": "assets/images/qzone/3daccfc87e727d9fe3ad.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "agri-iot",
@@ -57,8 +57,8 @@ window.labContent = {
         "张馨月"
       ],
       "featured": true,
-      "image": "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.NqXzAmdAlcTxINJbQCTT76kTxyMlcUJcNexJONnGdNnGlgDpepkUQgoPSyrNq0nY!/b&bo=Tgg6Bk4IOgYWADA!",
-      "imageAlt": "核心项目推进会现场"
+      "image": "assets/images/qzone/ac402f3f4364d22c7aa4.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "teaching-agent",
@@ -75,8 +75,8 @@ window.labContent = {
         "梦骁焓"
       ],
       "featured": true,
-      "image": "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.RZRh8tmHtjzkqiD5Boi2xV25fLZ8Pq1nKBuOavh*d58klDH9iLjP*oFRIcClg2aE!/b&bo=Tgg6Bk4IOgYWADA!",
-      "imageAlt": "核心项目推进会现场"
+      "image": "assets/images/qzone/984ee86d6321a68f90db.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "conveyor-control",
@@ -93,23 +93,23 @@ window.labContent = {
         "赵淮婷"
       ],
       "featured": true,
-      "image": "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHtZmWud0zWpk7w5t1aq92*p5tqdTaqcDCHAJ2LY5v4lC1bRNEZtgBtvgWQqP6*nuCYBsFgZYSGHk7nfc9YICp0!/b&bo=Tgg6Bk4IOgYWADA!",
-      "imageAlt": "核心项目推进会现场"
+      "image": "assets/images/qzone/cd6e1ea7dac504bf6f35.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "memoir",
       "title": "智能回忆录",
       "description": "探索面向银发群体的 AI 回忆录制作。",
       "body": "2025年12月17日的研发研讨会提出，通过 AI 探索字迹仿真、老照片修复和回忆录生成，以有声书、实体纪念册等形式整理个人经历。该方向处于项目研讨与开发规划阶段。",
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkC829Q8kZjBkTxLJkghQIPMGTcdLs4Mz7b5Nu7Jxd1DgiXwEc9zWUdAPg.Y2h*0BuM!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=65cb755332ffbb152fb62a1b91c070da&sce=60-4-3&rf=0-0-0",
-      "imageAlt": "洪蕾老师和朱皖宁老师带领24级学生同步推进多项智能科技项目"
+      "image": "assets/images/qzone/5acb249edd8dde74c6f3.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "pet-care",
       "title": "智能宠物喂食器",
       "description": "探索联网的移动投食装置，推进移动与投食功能。",
       "body": "2025年12月17日的研讨会提出，智能宠物投喂设备拟结合识别与定量投喂，面向多宠物饲养需求。12月24日进一步讨论 Wi-Fi 与 SIM 卡联网方案，计划先实现“移动＋投食”1.0 版本。",
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoW5RLtjeHuL*H4O2cehVb2TnmDVpBw08BbwaazaGieX1lOAIkGyUkcm0lHCfkZr9hrfUQB*Auv.*c5FT.iliI!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=eafb77b946a70cf24a28b0419c536a2e&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/5cd332376ffb62c01f78.webp",
       "imageAlt": "移动喂食器等项目研发研讨会现场"
     },
     {
@@ -117,7 +117,7 @@ window.labContent = {
       "title": "智能填表与软件应用",
       "description": "围绕成绩录入、模板复用、数据库与字体识别开展研发。",
       "body": "2025年12月10日的项目汇报讨论成绩录入与表格模板复用。12月24日的研讨会提出使用 MongoDB 等文档数据库保存非结构化数据；字体识别方向拟采用 DeepSeek OCR 工具与 GAN 网络技术，并同步推进移动端与 Web 端 UI 开发。这些内容属于组会提出的研发计划。",
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDXJYpSIo0jkggF8tmomoQZ*hDgmVQzYNSB1CkEwqpLpI6K1y7iCHEOAahCBTinsai4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=473b6ce8ab9ba5e0a9b73a652987353a&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/54ba0cd21f1761a79cb8.webp",
       "imageAlt": "数据库、字体识别与 UI 项目研讨会现场"
     },
     {
@@ -125,15 +125,15 @@ window.labContent = {
       "title": "开源博客与 AI 视频",
       "description": "探索开源存储与 AI 视频生成在博客平台中的应用。",
       "body": "2025年12月10日的项目汇报提出，博客平台项目结合开源存储与 AI 视频生成技术，并讨论银发经济传记服务合作。",
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq3XODkSrwqkj5duiNdkg1H97uVj.00Y8XBLaxZtGhZila8hwCKnauBfNYOXKRKVsWA!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=163ded16ccb8b76813f8efb2b0aa4c64&sce=60-4-3&rf=0-0-0",
-      "imageAlt": "洪蕾老师带领24级学生聚焦赛事活动与项目创新"
+      "image": "assets/images/qzone/f77ce1b2b526cd508dc6.webp",
+      "imageAlt": "实验室项目研发组会现场"
     },
     {
       "id": "infusion-monitor",
       "title": "智能输液监测",
       "description": "参与开源技术赛事路演的智能输液监测项目。",
       "body": "历史项目记录显示，智能输液监测小组于2023年12月15日前往无锡，参加2023开放原子开发者大会相关赛事的决赛路演。动态记录小组在该次决赛路演中获二等奖。",
-      "image": "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5vc1S4bmGiZpIfwO11Z5CZ632*phLRGxHw5mP5gl.cD7F0CRHAxLO9dgaVKpyoyI4AP4U.F*R.puox9NNcn2wkA!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063408&dis_k=e30b45117f99e485a25334ee2a903940&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/620bcce13c35f91cd30b.webp",
       "imageAlt": "金科开放原子开源社  ： 2023年12月15日，智能输液监测小组抵达无锡参加2023开放原子开发者大会进行OH RISV-V决…"
     },
     {
@@ -154,7 +154,7 @@ window.labContent = {
         "陈嘉伟",
         "陈桑誉文"
       ],
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=40f038b5ddc84d484a84fe8fb6b1aa00&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/73e7fb848b3380b8002f.webp",
       "imageAlt": "热烈祝贺StackFarm软件创新实验室团队荣获2024年全国大学生创新发明大赛国家一等奖与省级一等奖！"
     },
     {
@@ -169,7 +169,7 @@ window.labContent = {
         "虞博文",
         "丁可一"
       ],
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEDcWjaLSW4PTMGtOwfOCRGaJRV297ktrdD9ixVn47WRgivQKMMyFLpv86ElxAByrSzkS0WsSmoDGz8rJp2GiIwg!/m&ek=1&kp=1&pt=0&bo=ogPYBKID2AQDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=0782848484c5d47999f4a17d47e44809&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/0ebcfc1e77a0cc25770c.webp",
       "imageAlt": "开源社在第十六届全国大学生服务外包创新创业大赛中斩获佳绩"
     },
     {
@@ -184,7 +184,7 @@ window.labContent = {
         "韩悦",
         "马奕晨"
       ],
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3z*QbhS1ITjdHGEbYEkNUFSp8kEV260.oyGX6k96uhSh1xGgyLnNoTEik8dK5MPTwo!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=0e92e9ab53362c011ebabca1a556eea5&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/6511dbdbc48f11a8b707.webp",
       "imageAlt": "全国大学生数字媒体科技作品及创意竞赛原帖配图"
     },
     {
@@ -197,7 +197,7 @@ window.labContent = {
         "施瑞昭",
         "苏宁"
       ],
-      "image": "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3wSsgsbWQRlHcWt8MSZE6FexoVhsApscm36ynWxlDLPlSBK7Tl1Rs*i.zGCZmfAfNY!/m&ek=1&kp=1&pt=0&bo=nwU4BJ8FOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=92ead15e789aa49dbc78039edb9e8f85&sce=60-4-3&rf=0-0-0",
+      "image": "assets/images/qzone/b24000f39c2d96199515.webp",
       "imageAlt": "全国大学生数字媒体科技作品及创意竞赛原帖配图"
     }
   ],
@@ -452,12 +452,12 @@ window.labContent = {
       ],
       "description": "近日，StackFarm软件创新实验室顺利召开了新学期核心项目推进会。本次组会旨在明确各研发小组的阶段性目标，敲定核心技术路径，进一步激发同学们的工程实践与创新热情。\n会上，各项目负责人及团队成员针对当前的研发进度进行了详细汇报。本次组会重点聚焦以下五大核心项目，涵盖了AI大模型、物联网、智能文档处理等多个前沿领域：\n…",
       "images": [
-        "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM89SVBEl*i0fsrlyswe.Iq6fDbSU606Jw9zCR619eksaTzjJACVP1STv7a8ur9eo1A!/b&bo=Tgg6Bk4IOgYWADA!",
-        "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.NqXzAmdAlcTxINJbQCTT76kTxyMlcUJcNexJONnGdNnGlgDpepkUQgoPSyrNq0nY!/b&bo=Tgg6Bk4IOgYWADA!",
-        "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.RZRh8tmHtjzkqiD5Boi2xV25fLZ8Pq1nKBuOavh*d58klDH9iLjP*oFRIcClg2aE!/b&bo=Tgg6Bk4IOgYWADA!",
-        "https://m.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHtZmWud0zWpk7w5t1aq92*p5tqdTaqcDCHAJ2LY5v4lC1bRNEZtgBtvgWQqP6*nuCYBsFgZYSGHk7nfc9YICp0!/b&bo=Tgg6Bk4IOgYWADA!"
+        "assets/images/qzone/3daccfc87e727d9fe3ad.webp",
+        "assets/images/qzone/ac402f3f4364d22c7aa4.webp",
+        "assets/images/qzone/984ee86d6321a68f90db.webp",
+        "assets/images/qzone/cd6e1ea7dac504bf6f35.webp"
       ],
-      "meta": "2026年11月18日 14:21",
+      "meta": "2026年11月18日 13:49",
       "qzoneId": "fct_3597948372_311_0_1794980984_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "projects": [
@@ -473,15 +473,15 @@ window.labContent = {
       "title": "走进鸿蒙生态园 共探开源生态与人才成长路径",
       "description": "金陵科技学院开放原子开源社团开展企业参访活动\n11月3日，金陵科技学院开放原子开源社团走进深圳市讯方技术股份有限公司南京分公司，开展“走进鸿蒙生态园”企业参访活动。活动由江苏软件产业人才发展基金会、江苏“芯火”行动开源信创产教融合基地、金陵科技学院软件工程学院主办，金陵科技学院、江苏开源创新实验室与讯方技术南京分公司共…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqV*ESYSDzkX.6NTyTxELwHunlySXI8R0GqEGH2PbQlAU.UibikIXS87cudgSdH3*Ev9D0AdadCbf.R0WUW8rzp4!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=9c88124bb5a4d12577e766cf422e2997&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqV*ESYSDzkX.6NTyTxELwHsu6gouRTW8SsbTdfvfiAxLq7PzCZezDeFfvlJKN6nagQtVPK5Xxzl5RJZHpc3n1xk!/m&ek=1&kp=1&pt=0&bo=oQU4BKEFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=69bb00899a90cb1e218679880b0ef631&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqUcQ4Dk27vrDxVMRpqZRvHB.GU7lARzX3GvO*n5IQfJz9*Jo4Zo6DX5r4K0vG2wXFYD11L4rMRAXdoda9RvLY*0!/m&ek=1&kp=1&pt=0&bo=gAc4BIAHOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=68eb8af453f7fbb3af1169d855a41eb5&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqUcQ4Dk27vrDxVMRpqZRvHD8vFfaMV65FtWIUob.CFyXhTKuHnY6NN.fMdy2hTO22EECMf5ek4bId5aUE0jZlCA!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=4aa2369461c7ba868dc7a1190e8d41e2&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqUcQ4Dk27vrDxVMRpqZRvHAPSSmjZZFWl3STXoQGGS2338oiEcx.Rx1rJ74ixCKloZNhAzNkg4Gx*Zu417pC.zM!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=d830c4b1f1d2abd8070ff5bd6852b3a7&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqUcQ4Dk27vrDxVMRpqZRvHC5JkqqH0ynyLl79vvRNnMDz8spqKNSvO96cA6ttnd14UAd2koFcqb28FIUtb*vMz8!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=9585472764db53d3d394762c4c8a2dc3&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqcO.NxQ4fvByUq6KcXB3Hi6aH9r1IoWI.99XO1FwWLgxD9G2UCKNY5gFrkOf4J8tzj*2KDdZJwhS7m6QcTRj.o8!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=1313f8aa134a55fa266e41e04c4c1922&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqcO.NxQ4fvByUq6KcXB3Hi4NsE8T5jxISORaUWDc9*eW7PrMtMXk*duzYLLoYjcQVvEZr7v*8ig4oE1eCytq1dk!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=74909c2b61139ea1f166e5796e5b66e9&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqcO.NxQ4fvByUq6KcXB3Hi43OFhf9gvxT.pH0KZy.SuiirWZd7MU5t3EQk0yG8piilW5BfxfdYKEdJ8Zf0gf5NQ!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&tl=1&tm=1795064400&dis_t=1795066331&dis_k=fab89a8e578986412fd66d9cab47c2b2&sce=0-12-12&rf=0-0-18"
+        "assets/images/qzone/4d8cdbe8a6a71d635e73.webp",
+        "assets/images/qzone/601388174273255b84f7.webp",
+        "assets/images/qzone/e1f9599065504f9570ec.webp",
+        "assets/images/qzone/52df27a2c33aecf0a430.webp",
+        "assets/images/qzone/c909fadd296264c3a708.webp",
+        "assets/images/qzone/c5c14b84b0a710c48f28.webp",
+        "assets/images/qzone/ecdb9a0fe5523ffbaf2c.webp",
+        "assets/images/qzone/84cfc43eabe24e82bdf0.webp",
+        "assets/images/qzone/e17011d84b54d9be69cd.webp"
       ],
       "eventDate": "2026年11月3日",
       "sourceUrl": "https://www.jit.edu.cn/info/1006/158503.htm",
@@ -493,17 +493,18 @@ window.labContent = {
         "现场展示环节中，工程师通过鸿蒙实验箱介绍软硬件协同开发的实践路径。实验箱涵盖核心控制、数据采集、人机交互和受控设备等模块，可用于设备开发、应用调试等教学实践，让抽象的操作系统、物联网和开源技术知识变得更加可感、可操作。"
       ],
       "qzoneId": "fct_3597948372_311_0_1793952199_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2026年11月06日 16:03"
     },
     {
       "id": "qzone-2",
       "title": "新学期第一次组会",
       "description": "由本年度获奖学长廖思杰、郭奇展、李京儒、研究生刘哲甫分别介绍了各自的项目，25级和26级同学认真聆听了项目介绍，后续将根据各自兴趣分组继续完善项目。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqaoLD3QsmYS5S8oxnHQ49Xq5dV5l2jX3svi5vhfZ2RqQBuRBdhwmSQQo0H5I2Z7i.RHKTk6Jb97B8IJVsvLwz7w!/c&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=df2cc74e9747d942bd98664bac3ed7c6&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqW4Z0BK5Ndxb6CcEecEO8kPDuX3tNLIrPaf6yebtlZI*1nyLkvMexhOW3r5q*WK6Pv2j8oq1X3zKeCLIAWKjACA!/c&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=3213fb9fc9c91c36443ab1756cf66562&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqW4Z0BK5Ndxb6CcEecEO8kMY2fzmrrerapBveqVD3uErheOGxeaoPwXjPqyBFD.qREdCfm3yLnGmEDW5IqoEvqE!/c&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=9fd4a1a289ab9f817d8e3e393cccb867&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqW4Z0BK5Ndxb6CcEecEO8kPlzIT1fHd.Z1tqjdeJLK.0zrJOS5Ta4LdLmoVMQ2jga.2tQchSVkuCfR9GIOXMjlY!/c&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=30dcf496b11f556ad66e4c27bc3383b0&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/b2ded47e527f51e348c7.webp",
+        "assets/images/qzone/ab3f9b376478158e763d.webp",
+        "assets/images/qzone/e2218d82627eb7712fcb.webp",
+        "assets/images/qzone/e019d748342359bf178e.webp"
       ],
       "body": [
         "由本年度获奖学长廖思杰、郭奇展、李京儒、研究生刘哲甫分别介绍了各自的项目，25级和26级同学认真聆听了项目介绍，后续将根据各自兴趣分组继续完善项目。"
@@ -512,16 +513,17 @@ window.labContent = {
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "projects": [
         "memoirscore"
-      ]
+      ],
+      "meta": "2026年10月21日 20:28"
     },
     {
       "id": "qzone-3",
       "title": "行稳致远 进而有为——StackFarm软件创新实验室在第十五届“中国软件杯”大学生软件设计大赛中取得重大突破",
       "description": "2026年8月23日，第十五届“中国软件杯”大学生软件设计大赛全国总决赛圆满落幕。金陵科技学院StackFarm软件创新实验室参赛队伍与来自全国各地高校的优秀团队同台竞技，最终在本届大赛中表现优异，软件工程学院研究生团队斩获全国一等奖，实现该赛事国家级总决赛一等奖的重大突破；实验室两支本科生队伍双双荣获全国二等奖，充分…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqZl4oogZmMh6TtriowwIbnUZj3yJjKQCHK2OzrcZ51S2yVskzmzW3cOHiWIBNwxvuVgIsvMltXYcexsU1sDIVf8!/m&ek=1&kp=1&pt=0&bo=AQpABgEKQAYDACU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=bdff4c1983d421c21f15b1336c35ff72&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqZl4oogZmMh6TtriowwIbnWdtMUK**iC9pySiU7k*AIJurJtTJX1MZGPHvo8kOU8kPGvhgLc0KoAw*FGDSwcG9o!/m&ek=1&kp=1&pt=0&bo=cgoSBnIKEgYDACU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=c37adc78294bbe07015dc8c688c88f4c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqZl4oogZmMh6TtriowwIbnX4CwotlsB1la0EFnJqP5EKCB6vDJ5gS.1o9h5tMYgXf2j1vdCz3A0ZX2sxa1kgkp0!/m&ek=1&kp=1&pt=0&bo=9AX5A*QF.QMDACU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=0e6e0f2d69d5056d2f5f9a6d51dd73de&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/7e38ddad0addb5be7391.webp",
+        "assets/images/qzone/51c9f0f0c021ef1c3744.webp",
+        "assets/images/qzone/ae0444b0489c5784f6bc.webp"
       ],
       "eventDate": "2026年8月23日",
       "sourceUrl": "https://www.jit.edu.cn/info/1006/153363.htm",
@@ -532,16 +534,17 @@ window.labContent = {
         "此次成绩的取得，不仅体现了学生优秀的专业素养和创新能力，也反映出实验室在应用型人才培养、实践教学改革等方面的扎实成效。面向未来，StackFarm软件创新实验室将持续深耕学科竞赛这片育人沃土，不断优化实践教学体系，激励学生敢想敢为、善作善成，在实干中增长本领，在创新中成就卓越，为社会输送更多高素质应用型人才。"
       ],
       "qzoneId": "fct_3597948372_311_0_1787574052_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2026年08月24日 20:20"
     },
     {
       "id": "qzone-4",
       "title": "奋楫争先 载誉而归——我校“一院一品”项目于第十七届中国大学生服务外包创新创业大赛中再创佳绩",
       "description": "2026年8月22日，第十七届中国大学生服务外包创新创业大赛全国总决赛在江苏省无锡市圆满落幕。我校参赛队伍与来自哈尔滨工业大学、上海交通大学、北京邮电大学等全国知名高校的团队同台竞技，最终在本届大赛中表现优异，共荣获全国总决赛二等奖1项、三等奖4项，充分展现了我校学子的创新实践能力与团队协作精神。其中，软件工程学院共斩…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqSirW71iNrE*Y3uHoxBBGepQzC9ESVKg24lEcawymMIE5tctI.TurBUxWfXPxE0iVEs2.WzQNY*lKeZkltXy684!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=d8f7705bfd7f088ae582cab8641b7403&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqSirW71iNrE*Y3uHoxBBGepyjzXijnrltRSK7CtFG2RciVY76xdMiw7b3e.eek6qfdYPYLzPUVHDAsh5h7ZAplk!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=a519794eeb37c3601efb1397f849e1fe&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqRFn3OJDLrU.sqqPM0WPlN3QoYzaLhg4G80*VUHNw*1CoWQqG6e3PDhgA1HBkajGMvN9htURmVEdO7jFDUwO4JE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=3f9194db6c7d58be306ff0c5856f4f0f&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/03bb410650613608fa1e.webp",
+        "assets/images/qzone/2647a589435225fe2a0f.webp",
+        "assets/images/qzone/fa27c2a0ea36943665d1.webp"
       ],
       "eventDate": "2026年8月22日",
       "qzoneId": "fct_3597948372_311_0_1787540313_0_1",
@@ -550,17 +553,18 @@ window.labContent = {
         "2026年8月22日，第十七届中国大学生服务外包创新创业大赛全国总决赛在江苏省无锡市圆满落幕。我校参赛队伍与来自哈尔滨工业大学、上海交通大学、北京邮电大学等全国知名高校的团队同台竞技，最终在本届大赛中表现优异，共荣获全国总决赛二等奖1项、三等奖4项，充分展现了我校学子的创新实践能力与团队协作精神。其中，软件工程学院共斩获二等奖1项、三等奖3项，取得了很好的成绩。",
         "中国大学生服务外包创新创业大赛是由教育部、商务部与无锡市人民政府联合主办的国家级A类赛事，被列入中国高等教育学会“全国高校学科竞赛排行榜评估体系”。在2024年首次发布的普通高校大学生计算机竞赛指数中，大赛被评为仅有的3个五星级竞赛之一。大赛紧贴服务外包、创新创业主题，以应用为导向，加强产学互动，旨在搭建大学生服务外包创新创业能力展示平台。第十七届大赛设置企业命题类（A类）、创业实践类（B类）、OPC创客类（C类）和人工智能专项赛道（D类）四个竞赛类别，于2026年2月至8月期间举办。",
         "竞赛是磨砺的舞台，成长是真正的收获。此次服务外包创新创业大赛，不仅是一次专业技能的较量，更是一场知行合一的修行。我校学子在与全国优秀团队的切磋中，眼界得以开阔，能力得到淬炼，创新创业的种子在心中扎根更深。面向未来，学校将持续深耕学科竞赛这片育人沃土，不断优化实践教学体系，激励学生敢想敢为、善作善成，在实干中增长本领，在创新中成就卓越，为社会输送更多高素质应用型人才。"
-      ]
+      ],
+      "meta": "2026年08月24日 10:58"
     },
     {
       "id": "qzone-5",
       "title": "StackFarm软件创新实验室在2026年中国大学生计算机设计大赛中斩获佳绩",
       "description": "2026年7月至8月，第19届中国大学生计算机设计大赛全国决赛六大赛区圆满落幕。金陵科技学院StackFarm软件创新实验室选送的两支队伍表现突出，凭借优秀的创意能力、扎实的专业水平和出色的团队协作，在全国总决赛中双双荣获全国三等奖，充分展现了实验室学子的创新精神和实践能力。\n中国大学生计算机设计大赛创办于2008年，…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqYPBbpcrRBelsRjzGXEfQX.PQh*lJtrOBiJ*CF0NbA*44oJPKaFTFVEPwqbudu.xZwmqjsA1ag1ejLumzbSAy1U!/b&ek=1&kp=1&pt=0&bo=HAtABhwLQAYBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=cd22793441aa7be0fd1d0bf7e9294d69&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqYPBbpcrRBelsRjzGXEfQX*fw0uQlyhFupQlbO96TIMXdzWSlDRCNO6CLQIJjwd2eBvFUfaxv9HAtYGbBHt.T4c!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUBACc!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=fcecb28fee18aa3c115085a68396aafd&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqYPBbpcrRBelsRjzGXEfQX9x8BI1iyEl9BZKszymqG8nOd91AmmpjzvelL5RmAXaFafqa54F10EhUEgk3iiCqlo!/c&ek=1&kp=1&pt=0&bo=VQKqAVUCqgEDACU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=738094e8eddd455c4e5caa259499e796&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqUFHnY.Hpx4M4fgDpVJdCPS0C8PBZudup*TpjdOiXo98nmJmvAhYA2p*4OJOHz*YYAXqsxmTkHFTvXsbHBWtNEs!/c&ek=1&kp=1&pt=0&bo=YQKzAWECswEDACU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=66e8e56c9935c676bfd7dbe679422c7c&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/eaecdfcf0cd95c8ae968.webp",
+        "assets/images/qzone/1b29e876b661625315f0.webp",
+        "assets/images/qzone/05beca8abb72221cbe45.webp",
+        "assets/images/qzone/e8ec7438eceb490b8966.webp"
       ],
       "eventDate": "2026年7月至8月",
       "sourceUrl": "https://soft.jit.edu.cn/info/1141/19362.htm",
@@ -571,31 +575,17 @@ window.labContent = {
         "中国大学生计算机设计大赛创办于2008年，是由教育部计算机相关教学指导委员会等多家单位主办的面向本科生的国家级高水平学科竞赛，也是教育部A类学科竞赛赛事之一。本届大赛共设11个大类，经校赛、省赛层层选拔，全国共有4411件优秀作品入围国赛，分赴六个决赛区开展线下答辩评审。",
         "2026年8月11日至14日，第19届中国大学生计算机设计大赛济南决赛区于青岛农业大学举行，来自全国32个省（自治区、直辖市）560余所高校、940支参赛队伍、3000余名师生参赛。实验室的两支队伍代表学校奔赴该赛区，与全国各地优秀学子同台竞技。在比赛过程中，同学们沉着应对现场答辩，充分展示了项目的创新性与应用价值，最终两支队伍均荣获全国三等奖。",
         "此次成绩的取得，不仅体现了学生优秀的专业素养和创新能力，也反映出实验室在应用型人才培养、实践教学改革等方面的扎实成效。未来，StackFarm软件创新实验室将继续深化“以赛促学、以赛促教、以赛促创”的育人机制，为学生提供更加宽广的学习实践与能力展示平台，进一步推动产学研用融合，助力更多优秀人才脱颖而出。"
-      ]
+      ],
+      "meta": "2026年08月21日 15:23"
     },
     {
       "id": "qzone-6",
       "title": "奋楫争先 载誉而归——我校学子在第十七届中国大学生服务外包创新创业大赛东部区域赛决赛中取得优异成绩",
       "description": "2026年6月5日至7日，第十七届中国大学生服务外包创新创业大赛东部区域赛决赛在南京“环南大经济知识圈国际人才社区·启航港”圆满落幕。本次大赛吸引了来自东部地区众多高校的优秀团队同台竞技，参赛作品涵盖人工智能、企业服务、智慧农业、教育科技等多个前沿领域，竞争异常激烈。我校最终荣获一等奖1项、二等奖3项，充分展现了我校学…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEAxmEaio5mdA.BnjGdI6uFOwmyH*n3jKDh.8NcDnzuq90WU3IRFqTKehbEDvD4L506YABssGOKPrJRsn5JQAG5g!/m&ek=1&kp=1&pt=0&bo=iALmAYgC5gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=e40c959341e9e9d85065c87457168323&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEAxmEaio5mdA.BnjGdI6uFPUg.Apg5k8oi.hwEd9KsvpyoD1OKbY2NFsOhL36TdJ5RMlOg1cqmSBJFP5goQutcg!/m&ek=1&kp=1&pt=0&bo=AAXAAwAFwAMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=63970081565a441ffcf4d69110e584de&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMODkAaVcTnQDehuHp.zAWp4uI1U073ocobFkCTN8kuuvxaFCVqGspMobHJWmBBbuM4Tlo6XyjW3HYkfQg2DqYs!/m&ek=1&kp=1&pt=0&bo=iALmAYgC5gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=383dc313638da5b635dacd0418f9a843&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOMJGamXgfdwUaQ1WpacKarhNP6LnV*zMQ4yrPn.97or72tx5nY3CEFrfxno3OKyhyT3uLgPoysZ2jRwQdFm6PQ!/m&ek=1&kp=1&pt=0&bo=0AIFBdACBQUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063317&dis_k=29791f993f1994d8948e74f8a15e94fa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.FZ7jGBxIvCbqQ3ZxW1lvKSbVnYej84kewlT3lGvtePxomDcP6ExHTE9o.EYfmOU0!/m&ek=1&kp=1&pt=0&bo=gAc4BIAHOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063317&dis_k=9654ff52ef6e76059a400bb62cb91ced&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM9p*QhNjHnqFfl0CLDOCDGzcbTPS0nCvcmaNzMlMzaW9r3R1TswA9tG3ovkx7dPWdE!/m&ek=1&kp=1&pt=0&bo=yAroBMgK6AQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063317&dis_k=71dcc842bdfadbfb9b35c2e129a53a14&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSWrFNMag3FRXJviQL9zvwq46it7bMip0K9JD0b1H3wvsA9WopYCHYURdmpv2qFXjQ!/m&ek=1&kp=1&pt=0&bo=zQlABs0JQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=8818f5910596d44e1e7ebe16520a73e4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jRy8DDlVLI1.AhoU60T2DhboHsjAqg1.PGp201VFXi*ysnee0R2HW3vt0NsuLqa*lg!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=1ebc4368ed2c2331ffa670504cb562c6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoMuRrqGe4.AFmMXuXjV4rDSmznxRQvH2BouPLzRhWPnlkQ93XOLr9ie7hMIaDJZoq2RYuFwkcKnxPmMyekVjg!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=30038f8ce3bceb4a08b911f15bf6545b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq3XODkSrwqkj5duiNdkg1H97uVj.00Y8XBLaxZtGhZila8hwCKnauBfNYOXKRKVsWA!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=163ded16ccb8b76813f8efb2b0aa4c64&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0JAi.liDpUQUip68y.F*fNnjhiyyax6zB7glwiL37AafyjmPZZXi97RcLQtyEJkjc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=54da87a0dec7fdc815f4778aaa154ffb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAm11OflSnFJtenJf*bm14oMIebK6WhpL3A*HFb8X5jF1OlKMT.gKdhdEQEXCWH2Wj8!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=6bdababeddb5578ad938d87d1212ca1c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkC829Q8kZjBkTxLJkghQIPMGTcdLs4Mz7b5Nu7Jxd1DgiXwEc9zWUdAPg.Y2h*0BuM!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=65cb755332ffbb152fb62a1b91c070da&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkDkn0pmf9FMSPhAOkZhI3*p1AJCEiOBTF.KJ11Xph4Nig3iR*EHDjyQBTCIBFgaPJs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=ff1f93430318600881ab0d7d774c1ec6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEIFg5Zsf6ASCf6GWsdd5RITW0Aj22DchNcUZCMTsYp6mzI2vvqm8wOtaWtU*zoDstr.b0CO0Je8xh6O23Ls6UOc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=ad89ee5c434e2963a3b532ce089548ec&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoW5RLtjeHuL*H4O2cehVb2TnmDVpBw08BbwaazaGieX1lOAIkGyUkcm0lHCfkZr9hrfUQB*Auv.*c5FT.iliI!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=3f95f70eed6842464851d18e08f1995f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDXJYpSIo0jkggF8tmomoQZ*hDgmVQzYNSB1CkEwqpLpI6K1y7iCHEOAahCBTinsai4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=0b9ec7ccd517e28b3b830f70aefceab3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDXuN4T.uPnH*qvr*whv8OqjAHK9fv5gqmTama9uoq83jQM6g27yKGlVXDg2FTsEpjE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=d5afef21c27f7208530101194e739d5f&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/23d2ce573fcd0fdf74ad.webp",
+        "assets/images/qzone/163aa5a088339d118204.webp",
+        "assets/images/qzone/562050efe436b12968e6.webp"
       ],
       "eventDate": "2026年6月5日至7日",
       "qzoneId": "fct_3597948372_311_0_1780999210_0_1",
@@ -604,18 +594,17 @@ window.labContent = {
         "2026年6月5日至7日，第十七届中国大学生服务外包创新创业大赛东部区域赛决赛在南京“环南大经济知识圈国际人才社区·启航港”圆满落幕。本次大赛吸引了来自东部地区众多高校的优秀团队同台竞技，参赛作品涵盖人工智能、企业服务、智慧农业、教育科技等多个前沿领域，竞争异常激烈。我校最终荣获一等奖1项、二等奖3项，充分展现了我校学生的创新实践能力与团队协作精神。经东部区域赛组委会推荐，我校3个作品成功入围全国总决赛。",
         "本次大赛中，我校参赛团队在智能文档管理系统、多模态AI教学内容智能生成平台、多模态AI互动式教学智能平台以及智慧农业领域的“云耕智联”等方向上，展现了扎实的技术功底与创新意识。其中，智能文档管理系统聚焦企业非结构化数据的高效处理，通过自然语言处理与知识图谱技术实现了文档的智能分类与检索；多模态AI教学平台则融合文本、图像、语音等多种模态，辅助教师快速生成个性化教学资源，探索了人工智能赋能教育的新路径；“云耕智联”项目面向智慧农业，利用物联网与边缘计算技术，实现农田环境的实时监测与智能决策。备赛期间，各团队在教师指导下反复打磨作品，优化算法模型、完善界面交互，并多次进行模拟答辩演练。决赛现场，面对评委的提问，同学们沉着应对，通过清晰的逻辑讲解和流畅的实物演示，充分展示了项目的应用价值与技术可行性。",
         "中国大学生服务外包创新创业大赛不仅是一次技能的比拼，更是一次宝贵的成长历练。通过与全省及东部地区高校优秀学子的交流与竞技，同学们拓宽了视野、检验了能力，进一步激发了探索服务外包与创新创业领域的热情。未来，我校将继续以学科竞赛为抓手，搭建更多优质的实践创新平台，鼓励学生大胆创新、勇于实践，不断提升专业素养和创新能力，努力培养更多适应新时代发展需求的高素质应用型人才。"
-      ]
+      ],
+      "meta": "2026年06月09日 18:00"
     },
     {
       "id": "qzone-7",
       "title": "喜报｜2026 年江苏省大学生计算机设计大赛中斩获佳绩！",
       "description": "2026年5月22日，“新大陆杯” 2026 年江苏省 大学生计算机设计大赛决赛在淮安大学顺利收官。我校软件创新工作室（STACKFARM）的学子们凭借扎实的专业能力与创新的设计理念，在本次大赛中脱颖而出，斩获一等奖 1 项、二等奖 1 项、三等奖 1 项的优异成绩，充分展现了我校学生的创新实践能力与团队协作精神。\n自…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVQbS4aziVd4zGyr*efXEjQIRqyl3rwTJCoew2qlqp.djGs2WzPswTI7jjA3olnmslc!/m&ek=1&kp=1&pt=0&bo=AAXAAwAFwAMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=a34ce267d236cb9de325c9a0330afc1d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVS8CuLfecrYyntcIECYXENqkRbAGUyd9pzn5aORxlmrGd3MgfXWetfHiQm7LpuVod0!/m&ek=1&kp=1&pt=0&bo=AAWrBgAFqwYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=1c853a17746cb90191c2c78b0aa45aae&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRz3MEud.1XyPqGdqaiE8hKwsIi6FBoVbpC8G.vD1T3UWy4Fbga*j5HzDGtD3I6e2E!/m&ek=1&kp=1&pt=0&bo=AAXAAwAFwAMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066307&dis_k=28289ed5050d2b6e90756e2ae47ca2d9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq0FY13iFt7yyQ7YgwDE*GP8rkcSbXyLlOQqgYeKbz4MPEHfgAJvPVKvxjovDdUPVaA!/c&ek=1&kp=1&pt=0&bo=owR6A6MEegMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=487b6abe680df41cb829d704ed194a18&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1nzz2IzhCqtpJHchdyyeXduEbUUA53BtWc8iMVoetXg5XXB*CIV.zdmPHeGU90zQg!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=9467ab5dae8af67def584a1016607039&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/34091c5de1bb24b19641.webp",
+        "assets/images/qzone/256a0941f85f670d353b.webp",
+        "assets/images/qzone/3c64f5d0e65c86b0aa09.webp"
       ],
       "eventDate": "2026年5月22日",
       "qzoneId": "fct_3597948372_311_0_1779849180_0_1",
@@ -625,16 +614,17 @@ window.labContent = {
         "自赛事启动以来，我校学子积极响应、踊跃参与。在备赛阶段，参赛团队以问题为导向，将课堂所学与实际应用深度结合，反复打磨项目方案、优化技术实现，在一次次调试与迭代中攻克技术难题；指导老师全程跟进，为团队提供专业的技术指导与方向把控，助力同学们不断提升作品的创新性、实用性与完整性。",
         "决赛现场，我校学子沉着自信，带着精心打磨的作品亮相赛场。在答辩环节中，他们清晰阐述项目思路、技术亮点与应用价值，从容应对评委的提问与挑战，展现了金陵科技学院学子严谨务实的专业态度与昂扬向上的精神风貌。经过激烈角逐，我校团队最终取得亮眼成绩：廖思杰团队（软件应用与开发赛道）荣获江苏省一等奖，李京儒团队（软件应用与开发赛道）荣获江苏省二等奖，韩宗傲团队（物联网应用赛道）荣获江苏省三等奖。",
         "此次参赛，不仅是一次技能的比拼，更是一次宝贵的成长历练。同学们在与全省高校优秀学子的交流竞技中拓宽了视野、检验了能力，也进一步激发了对计算机领域的探索热情。未来，我校将继续以学科竞赛为抓手，搭建更多优质的实践创新平台，鼓励学生大胆创新、勇于实践，不断提升专业素养与创新能力，培养更多适应新时代发展需求的高素质应用型人才。"
-      ]
+      ],
+      "meta": "2026年05月27日 10:33"
     },
     {
       "id": "qzone-8",
       "title": "开源大模型实践讲座线上开讲，告别“纸上谈兵”",
       "description": "12月26日17:30-19:30，由金陵科技学院、江苏“芯火”行动开源信创产教融合创新实践教育基地联合呈现的AtomGit开源大模型实践指南专题讲座线上举办。\n本次讲座特邀AtomGit AI社区技术专家陈林担任主讲嘉宾，围绕AtomGit“开放、中立、公益”的核心理念，讲解其代码托管、模型共享等功能整合优势，并带领…",
       "images": [
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOMJGamXgfdwUaQ1WpacKarhNP6LnV*zMQ4yrPn.97or72tx5nY3CEFrfxno3OKyhyT3uLgPoysZ2jRwQdFm6PQ!/b&bo=0AIFBdACBQUWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM.FZ7jGBxIvCbqQ3ZxW1lvKSbVnYej84kewlT3lGvtePxomDcP6ExHTE9o.EYfmOU0!/b&bo=gAc4BIAHOAQWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPSgy4m8U2iQC*mWpUgffM9p*QhNjHnqFfl0CLDOCDGzcbTPS0nCvcmaNzMlMzaW9r3R1TswA9tG3ovkx7dPWdE!/b&bo=yAroBMgK6AQWECA!"
+        "assets/images/qzone/5b907de50413a888c6cf.webp",
+        "assets/images/qzone/5da6b677bedada4cf7eb.webp",
+        "assets/images/qzone/70089c3c3e18dc52b1c5.webp"
       ],
       "eventDate": "12月26日",
       "qzoneId": "fct_3597948372_311_0_1766745718_0_1",
@@ -642,7 +632,8 @@ window.labContent = {
       "body": [
         "12月26日17:30-19:30，由金陵科技学院、江苏“芯火”行动开源信创产教融合创新实践教育基地联合呈现的AtomGit开源大模型实践指南专题讲座线上举办。",
         "本次讲座特邀AtomGit AI社区技术专家陈林担任主讲嘉宾，围绕AtomGit“开放、中立、公益”的核心理念，讲解其代码托管、模型共享等功能整合优势，并带领观众开展开源大模型基础入门实操教学，让开发者告别“纸上谈兵”，切实掌握开源大模型应用技能。"
-      ]
+      ],
+      "meta": "2025年12月26日 18:41"
     },
     {
       "id": "qzone-9",
@@ -654,7 +645,8 @@ window.labContent = {
         "网页链接"
       ],
       "qzoneId": "fct_3597948372_311_0_1766659319_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年12月25日 18:41"
     },
     {
       "id": "qzone-10",
@@ -665,9 +657,9 @@ window.labContent = {
         "software-applications"
       ],
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoW5RLtjeHuL*H4O2cehVb2TnmDVpBw08BbwaazaGieX1lOAIkGyUkcm0lHCfkZr9hrfUQB*Auv.*c5FT.iliI!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=eafb77b946a70cf24a28b0419c536a2e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDXJYpSIo0jkggF8tmomoQZ*hDgmVQzYNSB1CkEwqpLpI6K1y7iCHEOAahCBTinsai4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=473b6ce8ab9ba5e0a9b73a652987353a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDXuN4T.uPnH*qvr*whv8OqjAHK9fv5gqmTama9uoq83jQM6g27yKGlVXDg2FTsEpjE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=52bf3a129d7cea7ad3d0ac599a655e19&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/5cd332376ffb62c01f78.webp",
+        "assets/images/qzone/54ba0cd21f1761a79cb8.webp",
+        "assets/images/qzone/50469e87e3bef8529332.webp"
       ],
       "eventDate": "2025年12月24日",
       "qzoneId": "fct_3597948372_311_0_1766555143_0_1",
@@ -676,7 +668,8 @@ window.labContent = {
         "2025年12月24日，研讨会聚焦移动喂食器、数据库应用、字体识别与UI设计三大项目，敲定核心开发路径。",
         "移动喂食器项目将优先适配WiFi/SIM卡联网方案，先实现“移动+投食”1.0版本；数据库项目确定改用MongoDB等文档数据库，满足非结构化数据存储需求；字体识别项目拟采用Deepseek OCR工具与GAN网络技术，同步推进“移动端+Web端”UI开发。",
         "会议强调，研发需遵循“需求导向、迭代攻坚”原则，重视技术适配与实验价值，各团队将按分阶段计划推进，每周反馈进展，高效推进产品落地。"
-      ]
+      ],
+      "meta": "2025年12月24日 13:45"
     },
     {
       "id": "qzone-11",
@@ -688,9 +681,9 @@ window.labContent = {
         "software-applications"
       ],
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkC829Q8kZjBkTxLJkghQIPMGTcdLs4Mz7b5Nu7Jxd1DgiXwEc9zWUdAPg.Y2h*0BuM!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=079f16a4193453378b539d9cd8c22def&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkDkn0pmf9FMSPhAOkZhI3*p1AJCEiOBTF.KJ11Xph4Nig3iR*EHDjyQBTCIBFgaPJs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=a4e365fc752f7d5ae99c1fb633ac6c03&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEIFg5Zsf6ASCf6GWsdd5RITW0Aj22DchNcUZCMTsYp6mzI2vvqm8wOtaWtU*zoDstr.b0CO0Je8xh6O23Ls6UOc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=bfdc9261eb090724adc2b09a9d369e03&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/5acb249edd8dde74c6f3.webp",
+        "assets/images/qzone/f168d1b28ee33f54d036.webp",
+        "assets/images/qzone/b0112005916bdf837f3e.webp"
       ],
       "eventDate": "2025年12月17日",
       "qzoneId": "fct_3597948372_311_0_1765951800_0_1",
@@ -699,7 +692,8 @@ window.labContent = {
         "2025年12月17日中午，一场技术研讨会明确多项智能项目开发规划，覆盖银发经济、教育、宠物关怀三大领域。",
         "银发经济项目聚焦回忆录智能生成，通过AI实现字迹仿真、照片修复等功能，低成本输出有声书、实体纪念册；教育类移动端软件将集成智能数字人与AR实训指导，适配师生教学与实操需求；智能宠物投喂设备则搭载识别与定量投喂技术，解决多宠物饲养痛点。",
         "各项目将按版本迭代推进，借助跨平台开发、开源资源等提升效率，后续将逐步完成原型开发与功能优化。"
-      ]
+      ],
+      "meta": "2025年12月17日 14:10"
     },
     {
       "id": "qzone-12",
@@ -712,9 +706,9 @@ window.labContent = {
         "open-source-blog"
       ],
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq3XODkSrwqkj5duiNdkg1H97uVj.00Y8XBLaxZtGhZila8hwCKnauBfNYOXKRKVsWA!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=c8b78a102dcfae789a04ffcd2e7e3609&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0JAi.liDpUQUip68y.F*fNnjhiyyax6zB7glwiL37AafyjmPZZXi97RcLQtyEJkjc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=f6203b1257c78c3fb7af364da2d5c6e4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAm11OflSnFJtenJf*bm14oMIebK6WhpL3A*HFb8X5jF1OlKMT.gKdhdEQEXCWH2Wj8!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=2835f5f7e1541fa352358d4f24d1b265&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/f77ce1b2b526cd508dc6.webp",
+        "assets/images/qzone/f564d54ee8ed2b072176.webp",
+        "assets/images/qzone/d35d040837c5be8631c9.webp"
       ],
       "eventDate": "2025年12月10日",
       "qzoneId": "fct_3597948372_311_0_1765347032_0_1",
@@ -722,16 +716,17 @@ window.labContent = {
       "body": [
         "2025年12月10日，四组学生团队分别汇报项目进展。项目各有侧重：智能填表项目聚焦办公痛点，实现成绩录入与模板复用；智能宠物项目需深化调研，聚焦真实需求优化功能；博客平台项目融合开源存储与AI视频生成技术，同步推进银发经济传记服务合作；老年智能家居项目复用既有技术，重点挖掘1-3个银发经济特色创新点。",
         "团队将通过技术复用、跨组协作、资源对接等方式推进项目，为后续比赛提前筹备，全力冲刺国家级荣誉！"
-      ]
+      ],
+      "meta": "2025年12月10日 14:10"
     },
     {
       "id": "qzone-13",
       "title": "洪蕾老师和朱皖宁老师带领实验室的2425级同学进行明年项目调研",
       "description": "【洪蕾老师和朱皖宁老师带领实验室的2425级同学进行明年项目调研】\n2025年12月3日，同学们经过一周的调研，向两位老师汇报项目的进展情况，洪蕾老师和朱皖宁老师与2425级同学一起研讨明年的项目内容需求",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWCATCZmnrMJ5gXgMo6vlm4cCL0zUxH0vJ41s4SJluzw0mVy9zyeoc42oyHVa.Yp*2w!/m&ek=1&kp=1&pt=0&bo=6ATFAugExQIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=f858c0abd6fa9261e66f29be2e015e67&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWBcV9TPECUhvGSx6kpNYmMyDtxVHv7iBj63VcUhcl6HYx8X41iO6l95AooLsGaEArA!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=c09dba90a19e3d5376dc680703f297b0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWCAuQwBbmUGZZcbbYtRb3ZoLxpdNuH.EFKSexxUNW5TlaGolax6oxuTRq8DV2yPzkk!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=8f1c6f88c007e31274efa662e1a23eb6&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/ce3ca7bb68359c50cb44.webp",
+        "assets/images/qzone/c99619784813a6d20d3b.webp",
+        "assets/images/qzone/2d4641c5563b9083a757.webp"
       ],
       "eventDate": "2025年12月3日",
       "body": [
@@ -739,31 +734,33 @@ window.labContent = {
         "2025年12月3日，同学们经过一周的调研，向两位老师汇报项目的进展情况，洪蕾老师和朱皖宁老师与2425级同学一起研讨明年的项目内容需求"
       ],
       "qzoneId": "fct_3597948372_311_0_1764779901_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年12月04日 00:38"
     },
     {
       "id": "qzone-14",
       "title": "2010级学长经验分享会",
       "description": "2025年12月3日，金陵科技学院2010级学长就自身10年的就业经验，给开源社的同学们详细分享了自己踩过的坑，几次跳槽经历，在外包公司的实习过程以及自己曾经的迷茫，给开源社的同学们提供了很多现实建议，干货满满，让同学对未来更有目标与方向感",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR0pz5N19V2t5Qfh1uJbq4w92d63.cmzuMn4h7bKBom5Yg35O6shZLjgeaXYgoT7rOk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=b2ae49d84755504b9c0b812d39e4cefe&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR3U8qpiNHw3ujIRS*v3.ceJr02ZiLE.COppsUvjsAzBXCIFCJ7nUFE3Fto.m9CMWmQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=23db47056a0c6e34676cd41f9727692c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJqbKzkYJtXmgKvFnYuTVQbq6*c7nd8lQaTwHcp9TeBpvZnlc8Ja4nKJb87ofoCztuNvJsohmdC.*p.20eucEl0!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=88ab0c55ecacf8d0d1274a2d224f81a9&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/cc647039493e66a21cd4.webp",
+        "assets/images/qzone/aeda02aab32e363262e8.webp",
+        "assets/images/qzone/eab913416e985a132cc9.webp"
       ],
       "eventDate": "2025年12月3日",
       "body": [
         "2025年12月3日，金陵科技学院2010级学长就自身10年的就业经验，给开源社的同学们详细分享了自己踩过的坑，几次跳槽经历，在外包公司的实习过程以及自己曾经的迷茫，给开源社的同学们提供了很多现实建议，干货满满，让同学对未来更有目标与方向感"
       ],
       "qzoneId": "fct_3597948372_311_0_1764770555_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年12月03日 22:02"
     },
     {
       "id": "qzone-15",
       "title": "软件工程学院举办创智开源讲座系列一“开源：从认知到实践”",
       "description": "2025年11月28日18时30分，软件工程学院在科技楼报告厅开展了创智开源讲座系列活动第一期。本次讲座以“开源：从认知到实践”为核心主题，由徐秀云老师担任主讲嘉宾，王娜老师统筹策划并全程参与，为师生带来兼具理论深度与实践价值的专业分享，24级本科生和研究生参加了本次讲座。\n徐秀云老师清晰拆解开源核心知识，界定开源本质…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq0FY13iFt7yyQ7YgwDE*GP8rkcSbXyLlOQqgYeKbz4MPEHfgAJvPVKvxjovDdUPVaA!/c&ek=1&kp=1&pt=0&bo=owR6A6MEegMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=406cd53ef2dd46ba9345d7fd0ec96a93&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1nzz2IzhCqtpJHchdyyeXduEbUUA53BtWc8iMVoetXg5XXB*CIV.zdmPHeGU90zQg!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=80a53c2d330e13295a080abb359f890e&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/6d5c7e68cce7efbb596b.webp",
+        "assets/images/qzone/c7ff400842837d42daf3.webp"
       ],
       "eventDate": "2025年11月28日",
       "qzoneId": "fct_3597948372_311_0_1764551255_0_1",
@@ -772,16 +769,17 @@ window.labContent = {
         "2025年11月28日18时30分，软件工程学院在科技楼报告厅开展了创智开源讲座系列活动第一期。本次讲座以“开源：从认知到实践”为核心主题，由徐秀云老师担任主讲嘉宾，王娜老师统筹策划并全程参与，为师生带来兼具理论深度与实践价值的专业分享，24级本科生和研究生参加了本次讲座。",
         "徐秀云老师清晰拆解开源核心知识，界定开源本质是开放源代码供他人自由查看、使用、修改与分发，且需遵循特定开源许可证规范。她以Linux内核为案例，展现开源生态进化：1991年初版由Linus Torvalds个人开发，仅1万行代码；2025年6.14版本已达4000万行代码，拥有2.3万全球贡献者，直观呈现开源从个人创作到全球协同的生态价值。她还梳理了1960-1980年代初开源“史前时代”，回顾MIT、贝尔实验室早期软件共享氛围，以及Unix闭源与自由软件运动的行业背景，帮助师生构建完整知识体系。针对参与价值与入门路径，她强调开源能转化课本知识、提升求职竞争力、培养协作思维，并分享修改文档错别字、修复简单bug等新手友好型参与方式，搭配“Good First Issues”网站使用技巧，降低入门门槛。王娜老师明确系列活动核心定位，称其是学院深化产教融合的重要举措，旨在联动行业顶尖机构，弥补课堂教学与产业实践的衔接空白。首期聚焦“认知与实践”帮助学生建立基础认知，后续将围绕开源生态深化、项目实战进阶等主题展开。她提到，活动策划始终以学生需求为核心，主题筛选、嘉宾邀请均经多轮调研，确保内容兼具专业性与实用性。",
         "本次讲座既传递了系统开源知识，也明确了系列活动规划，为后续讲座奠定良好基础，助力学生链接产业资源、提升实操能力，推动高校人才培养与行业需求精准对接。"
-      ]
+      ],
+      "meta": "2025年12月01日 09:07"
     },
     {
       "id": "qzone-16",
       "title": "金陵科技学院开放原子开源社赴DevFest 2025上海站交流学习",
       "description": "近日，金陵科技学院开放原子开源社成员奔赴DevFest 2025上海站活动现场，沉浸式参与这场技术盛宴。活动中，社员们积极投身主会场前沿分享、三大分会场深度交流及五大主题工作坊实操，从大模型训推、AI Agent开发到移动应用适配等热门领域汲取养分。\n在Nano Banana创意营、AI工具实操等环节，社员们主动与行业…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSWrFNMag3FRXJviQL9zvwq46it7bMip0K9JD0b1H3wvsA9WopYCHYURdmpv2qFXjQ!/m&ek=1&kp=1&pt=0&bo=zQlABs0JQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=05fbcae7e950fbfd1150cc700e32e1a5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jRy8DDlVLI1.AhoU60T2DhboHsjAqg1.PGp201VFXi*ysnee0R2HW3vt0NsuLqa*lg!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=cfe77f00c00cdaced7999549e095bf10&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoMuRrqGe4.AFmMXuXjV4rDSmznxRQvH2BouPLzRhWPnlkQ93XOLr9ie7hMIaDJZoq2RYuFwkcKnxPmMyekVjg!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=399eda53901a5b329337c47309239d11&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/a8771dea85abdb48b90c.webp",
+        "assets/images/qzone/50d820616d0f0a4b9a00.webp",
+        "assets/images/qzone/d69cbbf85f3bcfb2c6f8.webp"
       ],
       "eventDate": "2025年",
       "qzoneId": "fct_3597948372_311_0_1763974175_0_1",
@@ -789,25 +787,20 @@ window.labContent = {
       "body": [
         "近日，金陵科技学院开放原子开源社成员奔赴DevFest 2025上海站活动现场，沉浸式参与这场技术盛宴。活动中，社员们积极投身主会场前沿分享、三大分会场深度交流及五大主题工作坊实操，从大模型训推、AI Agent开发到移动应用适配等热门领域汲取养分。",
         "在Nano Banana创意营、AI工具实操等环节，社员们主动与行业大咖、同行交流探讨，亲手实践“创意落地”全流程，不仅深化了对开源技术与AI应用的理解，更积累了宝贵的实战经验。此次参与让大家开阔了技术视野，坚定了深耕开源、探索科技前沿的决心，未来将把所学所得融入社团实践与学业成长中。"
-      ]
+      ],
+      "meta": "2025年11月24日 16:49"
     },
     {
       "id": "qzone-17",
       "title": "2025开放原子开发者大会在京举办",
       "description": "11月21日、11月22日，2025开放原子开发者大会在北京举办。大会以“一切为了开发者——AI共智，开源共享”为主题，聚焦人工智能与开源技术的深度融合，全面展现开源生态在推动产业创新、培育新质生产力方面的核心价值。\n大会同期举办15场前沿技术分论坛，覆盖开源项目创新实践、创新人才培养、前沿创新技术等方向，为广大开发者…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqV*ESYSDzkX.6NTyTxELwHsRs1jn*43G8twreOEpngf5rnY0uolIHLjEL*.mU9ZXKYrQ6WnPu4nJE0qoaFNQbVM!/m&ek=1&kp=1&pt=0&bo=AAXQAgAF0AIWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=8fa10876370c7becac6c2c5a3d5cd4d4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqb2KPYndobbfhJrVzeHklnbaieItBXrxVEh*5SbEg6jwUCFUGLJHItskfyOqjY2cXmM6ojaGkQMSWRT0Yb5cRC0!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=8b576757e12ea8198e8f4af376a3ae0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqW4Z0BK5Ndxb6CcEecEO8kN1rbLOR1EtO9pTvolYQNtYDZLcnxUsSnrvvBC4gbeh5hAs2uLKpRE0als8GEyxLOE!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=3c42e3e6313fef41ef4a55c32d26308a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqaoLD3QsmYS5S8oxnHQ49XowHfAISNojJJ7wgj.Vjw440n.srbXXk98YUx1HDFrA4H3QSUoHh5ad39F0u4dN4SY!/m&ek=1&kp=1&pt=0&bo=oAXAA6AFwAMWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=f31f0cc784e730e22ef8a9b26ca41d18&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqe7xGs4B39xaM7r*HWs1*13MyDZfUueNnLwugkUJUnM8kJF*OAoEc3Ai5cr0J67qjcVfOd8gAJrIc7ky4FtM7UQ!/m&ek=1&kp=1&pt=0&bo=MwY4BDMGOAQWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=e4802af1b34d3d0b4e02da84052f7937&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/bqQfVz5yrrGYSXMvKr.cqQulnjb.06tWQTzjW3B5XxNPxxyr9uY7HyaZz5M6eFKIE6e48UkC2aLVXF8GQrNYhPM6aFAImLnAuRZFmSHROE0!/m&ek=1&kp=1&pt=0&bo=QAaEA0AGhAMWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=75e5d5c67abb96d6602043ded4dc7dee&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIWv184nlO.3vASBK3nTQbvS1ejjyW6JBGoZGPZ4WCr1odU6RzyjkUb*gdCj.hnQq0g!!/m&ek=1&kp=1&pt=0&bo=AAXQAgAF0AIWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=8a740ec38397d20c0dcc7da1d12094a0&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIfvFAyhVTQTQsRDmN71vf6Zhy7FPhm2o*nJ4CWSUmC0gQEBIhBnf63UlIq.saUoyVg!!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=1bf28b8dd54de0c27f7a8bc38f406b1b&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIfgIL*6IDlvDWRovbA4np.PAH1bdXV4ArwDxPEFVkDi9opG41VWgJSGi6RfTlmYDeQ!!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=678b8095bc1c1b368c6c317e6b51eb2c&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIR43Pa6RvGQEuhvQmmdij6aaYlpLs.DYz7xjIv.0VfKB9BXV2kTEf7em3*c1StBYzw!!/m&ek=1&kp=1&pt=0&bo=oAXAA6AFwAMWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=4ded4ccaebcb64db9c363bce12ea5fae&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIT3*GRAg.cUe5iyojyBxiVQ2IwQhCuGNFxjGSxPJ*8RoxPaTjlpMAI4VnGpB15kIvw!!/m&ek=1&kp=1&pt=0&bo=MwY4BDMGOAQWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=98a5fdcbec9c2001376d4727bd199df4&sce=0-12-12&rf=0-0-18",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/IoAt0TAZs8Yc38Jr9jGXIUMxAxXQFa23AiWv50cxnfI.mRiqvfedLaPhrRfSmrDg2crdLSOMAin29Gi3m48rWw!!/m&ek=1&kp=1&pt=0&bo=QAaEA0AGhAMWADA!&tl=1&tm=1795064400&dis_t=1795066362&dis_k=438980ab586dcf824502ae737dd12823&sce=0-12-12&rf=0-0-18"
+        "assets/images/qzone/580bb90b97da079effb0.webp",
+        "assets/images/qzone/f2211badae9550e23930.webp",
+        "assets/images/qzone/554005314097ba88f8b6.webp",
+        "assets/images/qzone/11165aa5ad0681bd5c3e.webp",
+        "assets/images/qzone/ebfd53db53e2702cef8f.webp",
+        "assets/images/qzone/95ecab205058656c8ffb.webp"
       ],
       "eventDate": "2025年11月21日至22日",
       "body": [
@@ -816,34 +809,23 @@ window.labContent = {
         "我校是开源的先行者，数年来积极拥抱开源、投身开源、贡献开源，洪蕾老师作为演讲嘉宾受邀参加，洪蕾老师围绕开源人才培养阐述培养方案，培养目标，并带领开放原子开源社代表上台领奖。未来我校开放原子开源社将继续围绕开源开展相关活动，参与相关比赛，开放原子行，我们在路上。"
       ],
       "qzoneId": "fct_3597948372_311_0_1763974115_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年11月24日 16:48"
     },
     {
       "id": "qzone-18",
       "title": "共赴开源鸿蒙技术大会2025，共鉴技术进阶之路",
       "description": "为开源而聚，为鸿蒙而来。9月27日，开源鸿蒙技术大会2025于湖南长沙国际会议中心隆重举办。在此前，开源鸿蒙社区已成功举办三届技术大会，吸引了数百位技术专家及数千位开发者共同探讨开源鸿蒙技术创新。\n大会设置主论坛及二十余个技术分论坛，涵盖OS内核、编译器与编程语言、OS原生智能等多个前沿技术议题。此外，同步设置展示、竞…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPnr*f19*RbPb.5eBBHZtYYqT1Awk7.*a7GNeKOJBbqle6*8hI3*z8r.x78JXdLU7Ws!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=f33cdc0fde868eefc3f7534cf1cfb286&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmSxObnY0nu9fK2DwiUntgueOhlcwcN4msdUJ1sHUSbj48bJ2y.OiaA5HycfWYc9Is!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=306d7205478df2bc4b52e44445591a84&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8u9DobNWcVQvBMzJ7odtNGCRo9vc*WFoLh5ahmU9IY6ZICYOUt5K0QU5dZaSkQTUyM!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=091a64513d60dd55578c0faf3f5dfb1f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tGNg7igGUKtBOtZIzyxfSOLqQ*i9JFa*NqXz66zGb6rfQrj99AmZZW6BhFPHsAf.g!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=866036f0cafc291f648e597eea0d51b8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8vlFuvrs7bbx1MzPrhzba.Zar8oohkBwkmgI.p8tBeGBNQ8b5H9weEO4z8BVuBDyGo!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=3a22967c73a21d89f9c840e714a1e6a4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8uClJT8ON7NQg4aPfYAyU5HtUoNFqBzULq2ilcijogKIbri0IV6kib*XlnvjLtmqMw!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=85281ba13582e589302eb549b342be9b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt4IVSMiy9keOKsIUWhRQtfczmxBRImAYNIlpmrYsWaKyJp6JSshjq9g5hmGXY*xcbk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=15517505cafad5470b24bcdc3523f774&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt6po.JwocAVm0aRYJnoz.bCrQatQINVgoI1Ge.cxffMoF7ztRq0HceltgEOaWBat2Q!/m&ek=1&kp=1&pt=0&bo=oAOQBaADkAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=d447ea290885c41db40d20c4f54d7811&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5vOVvz*JgcfRzglfsf1FdyAaSyKkzJuWUgMEay6elgOW3v*PGmvplWzz7fNaktxWg!/m&ek=1&kp=1&pt=0&bo=sARABrAEQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066352&dis_k=090a7f2e2ceb606fc44c443a78e55bb1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.WDhjzfT*X7aTXnfoHbGpqO8OVzEu3DRjI9Abcm.kyvtsDF9v35uWeIhQUx868KMM!/m&ek=1&kp=1&pt=0&bo=NQlABjUJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=3fa483fecd16f6865a4a719ff3c2c275&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.EFNlHjcALlKL5AYfCBBEHoM5V75fldDIUHyDOlSLY92yrJkCQHtv72yRhGhfIoHQ!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=571d604d5303004a1885d915e5fadcbd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc*LMv2PDzDe9EqQ8*mPFpWx5zn7US.STEDh17AqCzFmpksnw8VbGOZzSZcPuLK8VCU!/m&ek=1&kp=1&pt=0&bo=QAY7CUAGOwkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=683ade7268a56804571d2a020fb17728&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc9q6PJ9fWdt6BjFcu66c8CcdPSTgKS5Tb8qclPdx7wbDfMDll81rvAqQ2XbEv7jRSM!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=375d79bd355c51babcb52068c278c198&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jRBz.vKpEMoIdI80fBEhIe37Wk*fFNlCamuSgyHijLG7Rv07ia*fpFXVrO6t3wNJxw!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=b87f7286c496741187007049437ae48f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jTrDop6UIGZ2YDgMnm5EJQgu9kjJ6aRLdINo9bQDwc63Fp3e.4mvI6PHGa0w41WJ3A!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063390&dis_k=513e9d5be618b5f36076dc267c37829c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyuLyP5O4AOuGZzZdMksVzmVUmvvOS6uP2eZxeejL67iQBLoQwq*7GtD5dCd*spDkuQ!/m&ek=1&kp=1&pt=0&bo=6ATeBugE3gYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9dbc749f7ea612dc05ac17feb94a99aa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyu2Gky*wEw1iS1XevZrrELk*vm9Y.t1aIaFWzlhlDuEGnr2QaxZ2B5Doux.cfyOgxw!/m&ek=1&kp=1&pt=0&bo=2AS2BtgEtgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=21d682329d1e25d10608a8c50c955948&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09w4MKCb5nuQ8OTA0DYGxAU5yAt92okcOfn9*qFCXSMXHLD8ZrvkWHXuToqhUGALBhk!/m&ek=1&kp=1&pt=0&bo=zgS6Bs4EugYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=137948dcc05049ca5d96f71008ecc967&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09wIWsmXlX*MhbDHxVywW7H*c0RHpENkb8mCjEgfqyoqvYH4wHpC3WukuaaQvDh.Rm8!/m&ek=1&kp=1&pt=0&bo=xgS8BsYEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=475a6cd4cd830048931fe5b7de7690b6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09yy1*ZyqS8yeoWc1NRNXISwfyIhC2f5aRLqhPxuAlAot9Ai.8u6Aw5Nx*sJJbtkI5s!/m&ek=1&kp=1&pt=0&bo=zAS8BswEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=4bb5fdf74446de13c519864916e8bffa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAmgntuBDcYllZPBha.2VDCuQfzntgKepZgefTd2T5eEEzBIfLrEwFJh.4T4sxnJiB8!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=aa14077a7419a7eda172f23d58d9ac50&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/3b2f1045987a59c2a681.webp",
+        "assets/images/qzone/b8c726a1c176d8ec3fd3.gif",
+        "assets/images/qzone/928ce001141082a6d149.webp",
+        "assets/images/qzone/7f94ea3b1660c65fb36f.webp",
+        "assets/images/qzone/d5e3071f1292b12d977c.webp",
+        "assets/images/qzone/1179c86d741a657decfe.webp",
+        "assets/images/qzone/90e84dc1559c839b815e.webp",
+        "assets/images/qzone/32cd252dce3b1bf30604.webp",
+        "assets/images/qzone/25e02402489073a67a53.webp"
       ],
       "eventDate": "2025年9月27日",
       "body": [
@@ -852,28 +834,22 @@ window.labContent = {
         "我校数年来积极拥抱开源、投身开源、贡献开源，对于此次大会，我校张燕副校长、洪蕾教授、王娜老师受邀参加，并带队StackFarm软件创新实验室两位同学一同赶赴长沙，围绕开源鸿蒙前沿技术展开研讨，共襄盛会。同时，软件工程学院StackFarm软件创新实验室项目——基于开源鸿蒙的智能家居场景控制系统也在大会展厅展出，彰显我校开源活力，展现我校开源风采。",
         "从底层技术突破到生态场景落地，从人才培养到全球协作，开源鸿蒙技术大会2025既是对过去一年技术进步与生态进展的盘点，更旨在展望以开源推动生态繁荣、以技术赋能产业转型的新未来。"
       ],
-      "meta": "2025年8月30日 11:38",
+      "meta": "2025年09月27日 18:29",
       "qzoneId": "fct_3597948372_311_0_1758968976_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
     {
       "id": "qzone-19",
       "title": "金陵科技学院科技社成员荣获第十四届“中国软件杯”全国总决赛二等奖",
-      "meta": "2025年8月30日 11:38",
+      "meta": "2025年08月30日 11:33",
       "description": "2025年8月28日，第十四届“中国软件杯”大学生软件设计全国总决赛在苏州落下帷幕。来自金陵科技学院科技社的李文权、郭奇展、于佩仪三位同学组成“一起去看更大的世面”代表队，凭借扎实的专业功底与出色的团队协作能力，历经多轮激烈角逐，最终荣获全国二等奖！\n本届大赛自启动以来，共吸引全国5604余支队伍报名参赛。经过线上初评…",
       "images": [
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.WDhjzfT*X7aTXnfoHbGpqO8OVzEu3DRjI9Abcm.kyvtsDF9v35uWeIhQUx868KMM!/b&bo=NQlABjUJQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.EFNlHjcALlKL5AYfCBBEHoM5V75fldDIUHyDOlSLY92yrJkCQHtv72yRhGhfIoHQ!/b&bo=VQhABlUIQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc*LMv2PDzDe9EqQ8*mPFpWx5zn7US.STEDh17AqCzFmpksnw8VbGOZzSZcPuLK8VCU!/b&bo=QAY7CUAGOwkWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc9q6PJ9fWdt6BjFcu66c8CcdPSTgKS5Tb8qclPdx7wbDfMDll81rvAqQ2XbEv7jRSM!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jRBz.vKpEMoIdI80fBEhIe37Wk*fFNlCamuSgyHijLG7Rv07ia*fpFXVrO6t3wNJxw!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jTrDop6UIGZ2YDgMnm5EJQgu9kjJ6aRLdINo9bQDwc63Fp3e.4mvI6PHGa0w41WJ3A!/b&bo=VQhABlUIQAYWECA!",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyuLyP5O4AOuGZzZdMksVzmVUmvvOS6uP2eZxeejL67iQBLoQwq*7GtD5dCd*spDkuQ!/m&ek=1&kp=1&pt=0&bo=6ATeBugE3gYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9dbc749f7ea612dc05ac17feb94a99aa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyu2Gky*wEw1iS1XevZrrELk*vm9Y.t1aIaFWzlhlDuEGnr2QaxZ2B5Doux.cfyOgxw!/m&ek=1&kp=1&pt=0&bo=2AS2BtgEtgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=21d682329d1e25d10608a8c50c955948&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09w4MKCb5nuQ8OTA0DYGxAU5yAt92okcOfn9*qFCXSMXHLD8ZrvkWHXuToqhUGALBhk!/m&ek=1&kp=1&pt=0&bo=zgS6Bs4EugYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=137948dcc05049ca5d96f71008ecc967&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09wIWsmXlX*MhbDHxVywW7H*c0RHpENkb8mCjEgfqyoqvYH4wHpC3WukuaaQvDh.Rm8!/m&ek=1&kp=1&pt=0&bo=xgS8BsYEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=475a6cd4cd830048931fe5b7de7690b6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09yy1*ZyqS8yeoWc1NRNXISwfyIhC2f5aRLqhPxuAlAot9Ai.8u6Aw5Nx*sJJbtkI5s!/m&ek=1&kp=1&pt=0&bo=zAS8BswEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=4bb5fdf74446de13c519864916e8bffa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAmgntuBDcYllZPBha.2VDCuQfzntgKepZgefTd2T5eEEzBIfLrEwFJh.4T4sxnJiB8!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=aa14077a7419a7eda172f23d58d9ac50&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/5454a6f9dacf99f9c713.webp",
+        "assets/images/qzone/b05e29fc312e4ffa32ce.webp",
+        "assets/images/qzone/3fd13f60b3fe2bb1f1c8.webp",
+        "assets/images/qzone/6230e8b8f50053b93371.webp",
+        "assets/images/qzone/79f60c6d79dfb75095e5.webp",
+        "assets/images/qzone/b535c29c2bdbaabd6fdc.webp"
       ],
       "eventDate": "2025年8月28日",
       "body": [
@@ -893,12 +869,11 @@ window.labContent = {
       "title": "科技社与开源社斩获第十六届全国大学生服务外包创新创业大赛多项荣誉",
       "description": "2025 年 5 月 24 日，第十六届 “全国大学生服务外包创新创业大赛” 东部赛区总决赛在南京市鼓楼区智梦园圆满收官。本届大赛规模空前，吸引了来自浙江大学、复旦大学、上海交通大学等 904 所全国院校的 9502 支团队报名，其中 5667 支团队选题通过审核进入初赛，东部赛区共有来自江苏、上海、浙江等 9 个省（…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyuLyP5O4AOuGZzZdMksVzmVUmvvOS6uP2eZxeejL67iQBLoQwq*7GtD5dCd*spDkuQ!/m&ek=1&kp=1&pt=0&bo=6ATeBugE3gYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=83783dd0d0c140b52a9a55af87f76558&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyu2Gky*wEw1iS1XevZrrELk*vm9Y.t1aIaFWzlhlDuEGnr2QaxZ2B5Doux.cfyOgxw!/m&ek=1&kp=1&pt=0&bo=2AS2BtgEtgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=afa0f8d118369b079ebe1a392bd365fe&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09w4MKCb5nuQ8OTA0DYGxAU5yAt92okcOfn9*qFCXSMXHLD8ZrvkWHXuToqhUGALBhk!/m&ek=1&kp=1&pt=0&bo=zgS6Bs4EugYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=332af17b5f99ce8d86d82126bd8d329d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09wIWsmXlX*MhbDHxVywW7H*c0RHpENkb8mCjEgfqyoqvYH4wHpC3WukuaaQvDh.Rm8!/m&ek=1&kp=1&pt=0&bo=xgS8BsYEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=50f9a589a8381a6c90d55994dfebaef2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09yy1*ZyqS8yeoWc1NRNXISwfyIhC2f5aRLqhPxuAlAot9Ai.8u6Aw5Nx*sJJbtkI5s!/m&ek=1&kp=1&pt=0&bo=zAS8BswEvAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=2c8d8d16d310f29a249263f823e4d9d7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAmgntuBDcYllZPBha.2VDCuQfzntgKepZgefTd2T5eEEzBIfLrEwFJh.4T4sxnJiB8!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=aa14077a7419a7eda172f23d58d9ac50&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/4a35b9f8f56f83861bb1.webp",
+        "assets/images/qzone/bd5cf36dfe649b73698b.webp",
+        "assets/images/qzone/b7f22d645c2f385b14bc.webp",
+        "assets/images/qzone/87db3fdfb9aa9ea5dea2.webp",
+        "assets/images/qzone/67593eacb0dc95f7b87c.webp"
       ],
       "eventDate": "2025年5月24日",
       "body": [
@@ -913,43 +888,17 @@ window.labContent = {
         "这些荣誉不仅是对参赛师生数百个日夜攻坚的肯定，更是学校深化教育教学改革、推动 “产学研用” 深度融合的重要里程碑。期待科技社与开源社以此次突破为起点，持续培育兼具技术前瞻性与社会价值的创新项目，为高水平应用型人才培养注入新动能！"
       ],
       "qzoneId": "fct_3597948372_311_0_1751459916_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年07月02日 20:38"
     },
     {
       "id": "qzone-21",
       "title": "开源社在第十六届全国大学生服务外包创新创业大赛中斩获佳绩",
       "description": "2025年5月24日，第十六届“全国大学生服务外包创新创业大赛”东部赛区总决赛在南京市鼓楼区智梦园圆满落下帷幕。经过多轮激烈比拼，开源社的“眼疾保卫队”团队凭借《基于眼科疾病的智能AI医疗诊断系统》项目，从众多参赛队伍中脱颖而出，荣获大赛A类企业命题类区域二等奖、国家级三等奖。\n“眼疾保卫队”项目聚焦当下医疗资源分配不…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEDcWjaLSW4PTMGtOwfOCRGaJRV297ktrdD9ixVn47WRgivQKMMyFLpv86ElxAByrSzkS0WsSmoDGz8rJp2GiIwg!/m&ek=1&kp=1&pt=0&bo=ogPYBKID2AQDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=0782848484c5d47999f4a17d47e44809&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEDcWjaLSW4PTMGtOwfOCRGbEI6.qu1KFipKTu3fN10klDG2VnOETHUSqLOjADl0k1d*fEtytP3lojZsqmeXw.5E!/m&ek=1&kp=1&pt=0&bo=SAM4AkgDOAIDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=ef925e9342625fcaead577a1a3edb278&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECCIFOMTVHop9IlOG7eqG8t0CtKFTiHBetX3n7Xw2jp.FNsaDQ3LtP85L7Nr1KZH.dBpb8puycsrlGGB4EkYhKA!/m&ek=1&kp=1&pt=0&bo=SAN0AkgDdAIDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=0efe0b63ba889748efab31c97625ed29&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWBSVvxaZxXbgrDw4s2zY2WAcOjz3KK2EKeDGykIVfeXvToJZJrtqonDHzLITVvL6SQ!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=4da0bbf7fd7f655b846ebcc0fd8b488b&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWBpAoYYLyuRh.VgLEdosT1FMe9uCguZ*S1XeE0zt5qVUHHmecyhc.OwMdb4Xr5iMn0!/b&ek=1&kp=1&pt=0&bo=5ATMAuQEzAIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=1cf5fd6f1f50a807ec4b69e3a78c354c&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmb5MRqcx5c3b6gI0XBaz2XkzWauS5XafX*nCDuWfbgERTvFEAfteMcSbbK.3ufwn0!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3c30f6451cdc3575b1bd8e06f7d1c21c&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPlivw9iHxW6iSQXIx0OX1KR0yT*wtgg7PG6z8iOmZ2DsbS6MSAwFuUcZc7iH0Avwf8!/c&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7d847c96a87f7f75406dc3a3f368a7ca&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tyH4F0j4.BKtsEK8pIAElPKPWdr1bqGtWo5IyzzZxrOOo8IzxzFkVRo802HkTIiEU!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=6c317fcdb1402c0f461424a3bf216bf5&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8v*7N55BlWdnVue7cG2V7L1Jx6hTqiEHZeNCHZhiGwinCq0.7*UY.KhhDlhkW*RtBg!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=8a687f92532f64bd90c42f0759bf445d&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmRr5mp.aQP1WakbWN9t5TEmH29DUZRCOmTc31lXkI1yTpmWb15CnVMkQfx3ISBKL4!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7bb569b6378ee0683b2205b574d9b797&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPkH9GXPjQeNoI1wMrRlW7HBYu0puMAyFaW6GA2bWXS0BuFuDHfKKcojR0SkGfWG4Rs!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a387edc4fb6bf2c82748593f6e12f150&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8uif2q10SvO*S5YM.LWWwv54*UY6YNZO29*vbKkAWdrcMpyaddlnAym7F*s*1R08ek!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=d8f881c813c69dd5dc94a7ad5713d0bb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8stoJ33csdsWcJUnYjBCp0tvF7mKGYe8e4yhqAZzRuSqOK49qNhpAYiv9isefK9RHU!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=ee1fdc7386fa28eda205913946dd5be6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8t8ubIKtWp6dayxLh0Kaw7.FXl6nTq6Nw5fahms3Npds*BAtMiDSbZoVRbJhg0Z.bE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=62b74a825a4d80ca8ca3f0e7e9d1022c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tK6Ope0S9zv8iCMoner**2TRNUi1pRvNW8hngQUMrvmg5UZozVIvlxDrOWZRrF4Tw!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7cfb30823a7168b12501225b84b71014&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5SYZPZdTXAn.FQOgMNbgddlPPFKxsjkRwcRJ1Cel4ueymU3C4ruGW3hjH2dlMudeg!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=e991786dfdd2ff462cfd866230fd22d4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5oD9enqj13d4l4FWOfvpLU*Nkq*Nn5.BgRvvro6*QEySeOWmmNe97.rrMAwwMwFlo!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=24205826fb8baf492acd41f6992558f5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt62P4AeQ8hl7VrwaKJzPs3ELNRwCfZPZ5Uw9VZoTzeVU2BIurE3RQiuF2cykIbD4QI!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=44838e1a42fd4b953d329b7c5544c92b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxh87uZHD9DJQeUmY3J55CTpemB*5EP0Cnt4VFNf.0PQQVey0Zr1gKsQRQ8.tjl3AD0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=b8ac38eb45bf2637f2c77b3d3e1d29af&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxhTqtdUKDJOx88Wq*r98GvsVJD8fOQCqQydXZOnVwlDQJmEyQCgjMAir5wi52UELus!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9df6dfba70a9ae7e2ad18b4fe54f9a8a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgSMSThBGHEqz3TZ8qlaDP3PFkpWS10T9buELt3oZUjHic.xRDsZKAl7PgnMEUv1rw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=58fb42c1761509f2a78c8efb4c8d79f8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1kOlwCX4dL87dxgsQIjv49LtyXd5BFoQtBL6yOpQUAsvuNgt5NuSlEL5sRn1bSvs4!/m&ek=1&kp=1&pt=0&bo=SgdABkoHQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3afc08cab2b4fd68652bd95f452bcf9d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2XJnURcZXscvpQrXqOCQY3yeGjhdgZe0hMxX1bbgFHBB9pC4Owb7oyP0fbQVI1m8U!/m&ek=1&kp=1&pt=0&bo=AAVKBAAFSgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=1418dda712e6058f3da4872e3ff9599e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3BpEMyI.glwsPVZrFGztKYcjKlEn4mmeo9hOfbmQakWAMyL0vK*YEKIOGoEuf2M6s!/m&ek=1&kp=1&pt=0&bo=QAZUCEAGVAgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=513c9ae10a671b546aac8a5efd48985e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=96e16ea1c38633a6b8f9380fed672c2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=80f032cd8c40328e9ebd6262a00c6d0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3ef185c45b2e3b3bd0a9ed5536fe994a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=fc72857268edf60244bec07f28519277&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=f37b04664170d00d7da3f8b19843ecf0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a3465817e987a0690444186431d54871&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/0ebcfc1e77a0cc25770c.webp",
+        "assets/images/qzone/cfd9ef2a7a1b6f559ed2.webp",
+        "assets/images/qzone/94b7207d93f9dc46fc75.webp"
       ],
       "eventDate": "2025年5月24日",
       "body": [
@@ -959,7 +908,7 @@ window.labContent = {
         "一直以来，我校高度重视学生创新创业能力的培养，将学科竞赛视为实践育人的关键路径。在本次大赛备赛过程中，社团负责老师与实验室老师全力支持，不仅提供专业的技术指导，帮助团队攻克技术难题，还积极对接各类资源，为项目的推进创造有利条件。此外，老师们还组织多轮模拟答辩，从答辩技巧、问题应对等方面对团队成员进行全方位训练，助力团队在赛场上自信发挥。",
         "此次大赛中取得的优异成绩，是我校深化教育教学改革、推动产学研用融合的有力见证。未来，学校将持续优化创新创业生态，搭建更多优质平台，鼓励更多学子投身科技创新与实践，为服务国家战略与产业发展贡献青春力量与智慧方案。"
       ],
-      "meta": "2024年12月8日 21:05",
+      "meta": "2025年06月02日 14:37",
       "qzoneId": "fct_3597948372_311_0_1748846235_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "projects": [
@@ -971,47 +920,23 @@ window.labContent = {
       "title": "开放原子开源社获评十佳社团",
       "description": "恭喜开源社作为校级社团，自创办以来屡创佳绩，在多个国家级，省级赛事中斩获名次！今年，开源社再次获得十佳社团称号，开源社成员丁可一获得“优秀社员”称号，再接再厉大家",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoMuRrqGe4.AFmMXuXjV4oQLMfAb.SPixQkDNpIVI4Tb7Ws6QRyyga8nlb.BRBTNZuZwCrecmUND5eqqDasWj4!/c&ek=1&kp=1&pt=0&bo=YAOAB2ADgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=1485f6ba1d14ea21d40824c3936f72a7&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJoMuRrqGe4.AFmMXuXjV4qdB1x9DdCIZkxhIBjiwrSS6piRez95st4w18Ncz.sxc8tkT7.*PdQMSsJciUQRBcg!/c&ek=1&kp=1&pt=0&bo=YAOAB2ADgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=aaae4339779de3d2b919068ab68de7b6&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/bf6207cb7c4a776307ac.webp",
+        "assets/images/qzone/9442d7653ab1b356aba2.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1748846109_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2025年06月02日 14:35"
     },
     {
       "id": "qzone-23",
       "title": "师生齐心，逐梦赛场：2025年学科竞赛备战纪实",
       "description": "2025年，大学生服务外包创新创业大赛、计算机设计大赛与挑战杯大赛相继启幕，再度点燃了高校学子的创新激情。StackFarm软件创新实验室积极响应，组建了四支学生团队投身服创大赛与计算机设计大赛，另有一支团队向挑战杯大赛发起冲击 。\n备赛的征程充满挑战，各团队虽有序推进，但困难也接踵而至。面对这些阻碍，实验室的指导老师…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWBSVvxaZxXbgrDw4s2zY2WAcOjz3KK2EKeDGykIVfeXvToJZJrtqonDHzLITVvL6SQ!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=da91109541286778294f68122ecbf700&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWBpAoYYLyuRh.VgLEdosT1FMe9uCguZ*S1XeE0zt5qVUHHmecyhc.OwMdb4Xr5iMn0!/b&ek=1&kp=1&pt=0&bo=5ATMAuQEzAIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=91b2af2251dccb04620cb492d8d8022a&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmb5MRqcx5c3b6gI0XBaz2XkzWauS5XafX*nCDuWfbgERTvFEAfteMcSbbK.3ufwn0!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3c30f6451cdc3575b1bd8e06f7d1c21c&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPlivw9iHxW6iSQXIx0OX1KR0yT*wtgg7PG6z8iOmZ2DsbS6MSAwFuUcZc7iH0Avwf8!/c&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7d847c96a87f7f75406dc3a3f368a7ca&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tyH4F0j4.BKtsEK8pIAElPKPWdr1bqGtWo5IyzzZxrOOo8IzxzFkVRo802HkTIiEU!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=6c317fcdb1402c0f461424a3bf216bf5&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8v*7N55BlWdnVue7cG2V7L1Jx6hTqiEHZeNCHZhiGwinCq0.7*UY.KhhDlhkW*RtBg!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=8a687f92532f64bd90c42f0759bf445d&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmRr5mp.aQP1WakbWN9t5TEmH29DUZRCOmTc31lXkI1yTpmWb15CnVMkQfx3ISBKL4!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7bb569b6378ee0683b2205b574d9b797&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPkH9GXPjQeNoI1wMrRlW7HBYu0puMAyFaW6GA2bWXS0BuFuDHfKKcojR0SkGfWG4Rs!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a387edc4fb6bf2c82748593f6e12f150&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8uif2q10SvO*S5YM.LWWwv54*UY6YNZO29*vbKkAWdrcMpyaddlnAym7F*s*1R08ek!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=d8f881c813c69dd5dc94a7ad5713d0bb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8stoJ33csdsWcJUnYjBCp0tvF7mKGYe8e4yhqAZzRuSqOK49qNhpAYiv9isefK9RHU!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=ee1fdc7386fa28eda205913946dd5be6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8t8ubIKtWp6dayxLh0Kaw7.FXl6nTq6Nw5fahms3Npds*BAtMiDSbZoVRbJhg0Z.bE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=62b74a825a4d80ca8ca3f0e7e9d1022c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tK6Ope0S9zv8iCMoner**2TRNUi1pRvNW8hngQUMrvmg5UZozVIvlxDrOWZRrF4Tw!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7cfb30823a7168b12501225b84b71014&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5SYZPZdTXAn.FQOgMNbgddlPPFKxsjkRwcRJ1Cel4ueymU3C4ruGW3hjH2dlMudeg!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=e991786dfdd2ff462cfd866230fd22d4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5oD9enqj13d4l4FWOfvpLU*Nkq*Nn5.BgRvvro6*QEySeOWmmNe97.rrMAwwMwFlo!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=24205826fb8baf492acd41f6992558f5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt62P4AeQ8hl7VrwaKJzPs3ELNRwCfZPZ5Uw9VZoTzeVU2BIurE3RQiuF2cykIbD4QI!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=44838e1a42fd4b953d329b7c5544c92b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxh87uZHD9DJQeUmY3J55CTpemB*5EP0Cnt4VFNf.0PQQVey0Zr1gKsQRQ8.tjl3AD0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=b8ac38eb45bf2637f2c77b3d3e1d29af&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxhTqtdUKDJOx88Wq*r98GvsVJD8fOQCqQydXZOnVwlDQJmEyQCgjMAir5wi52UELus!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9df6dfba70a9ae7e2ad18b4fe54f9a8a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgSMSThBGHEqz3TZ8qlaDP3PFkpWS10T9buELt3oZUjHic.xRDsZKAl7PgnMEUv1rw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=58fb42c1761509f2a78c8efb4c8d79f8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1kOlwCX4dL87dxgsQIjv49LtyXd5BFoQtBL6yOpQUAsvuNgt5NuSlEL5sRn1bSvs4!/m&ek=1&kp=1&pt=0&bo=SgdABkoHQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3afc08cab2b4fd68652bd95f452bcf9d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2XJnURcZXscvpQrXqOCQY3yeGjhdgZe0hMxX1bbgFHBB9pC4Owb7oyP0fbQVI1m8U!/m&ek=1&kp=1&pt=0&bo=AAVKBAAFSgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=1418dda712e6058f3da4872e3ff9599e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3BpEMyI.glwsPVZrFGztKYcjKlEn4mmeo9hOfbmQakWAMyL0vK*YEKIOGoEuf2M6s!/m&ek=1&kp=1&pt=0&bo=QAZUCEAGVAgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=513c9ae10a671b546aac8a5efd48985e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=96e16ea1c38633a6b8f9380fed672c2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=80f032cd8c40328e9ebd6262a00c6d0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3ef185c45b2e3b3bd0a9ed5536fe994a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=fc72857268edf60244bec07f28519277&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=f37b04664170d00d7da3f8b19843ecf0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a3465817e987a0690444186431d54871&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/498dfdc401e31b9bce4f.webp",
+        "assets/images/qzone/cb1160a7b9f5ec8b0f21.webp"
       ],
       "eventDate": "2025年",
-      "meta": "2024年12月8日 21:05",
+      "meta": "2025年04月15日 17:06",
       "qzoneId": "fct_3597948372_311_0_1744707964_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1029,34 +954,13 @@ window.labContent = {
         "memoir"
       ],
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmb5MRqcx5c3b6gI0XBaz2XkzWauS5XafX*nCDuWfbgERTvFEAfteMcSbbK.3ufwn0!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=a33fc3878d933035b8d2e631ad50f6ba&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPlivw9iHxW6iSQXIx0OX1KR0yT*wtgg7PG6z8iOmZ2DsbS6MSAwFuUcZc7iH0Avwf8!/c&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=302b38445ec32bad65a7c202c3ba9241&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tyH4F0j4.BKtsEK8pIAElPKPWdr1bqGtWo5IyzzZxrOOo8IzxzFkVRo802HkTIiEU!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=8acbe3a7ae85917b3f8eca6446029285&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8v*7N55BlWdnVue7cG2V7L1Jx6hTqiEHZeNCHZhiGwinCq0.7*UY.KhhDlhkW*RtBg!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=160a6d5238d52e296489c23f7057e7a5&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmRr5mp.aQP1WakbWN9t5TEmH29DUZRCOmTc31lXkI1yTpmWb15CnVMkQfx3ISBKL4!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7bb569b6378ee0683b2205b574d9b797&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPkH9GXPjQeNoI1wMrRlW7HBYu0puMAyFaW6GA2bWXS0BuFuDHfKKcojR0SkGfWG4Rs!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a387edc4fb6bf2c82748593f6e12f150&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8uif2q10SvO*S5YM.LWWwv54*UY6YNZO29*vbKkAWdrcMpyaddlnAym7F*s*1R08ek!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=d8f881c813c69dd5dc94a7ad5713d0bb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8stoJ33csdsWcJUnYjBCp0tvF7mKGYe8e4yhqAZzRuSqOK49qNhpAYiv9isefK9RHU!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=ee1fdc7386fa28eda205913946dd5be6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8t8ubIKtWp6dayxLh0Kaw7.FXl6nTq6Nw5fahms3Npds*BAtMiDSbZoVRbJhg0Z.bE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=62b74a825a4d80ca8ca3f0e7e9d1022c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tK6Ope0S9zv8iCMoner**2TRNUi1pRvNW8hngQUMrvmg5UZozVIvlxDrOWZRrF4Tw!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=7cfb30823a7168b12501225b84b71014&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5SYZPZdTXAn.FQOgMNbgddlPPFKxsjkRwcRJ1Cel4ueymU3C4ruGW3hjH2dlMudeg!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=e991786dfdd2ff462cfd866230fd22d4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5oD9enqj13d4l4FWOfvpLU*Nkq*Nn5.BgRvvro6*QEySeOWmmNe97.rrMAwwMwFlo!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=24205826fb8baf492acd41f6992558f5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt62P4AeQ8hl7VrwaKJzPs3ELNRwCfZPZ5Uw9VZoTzeVU2BIurE3RQiuF2cykIbD4QI!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=44838e1a42fd4b953d329b7c5544c92b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxh87uZHD9DJQeUmY3J55CTpemB*5EP0Cnt4VFNf.0PQQVey0Zr1gKsQRQ8.tjl3AD0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=b8ac38eb45bf2637f2c77b3d3e1d29af&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxhTqtdUKDJOx88Wq*r98GvsVJD8fOQCqQydXZOnVwlDQJmEyQCgjMAir5wi52UELus!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9df6dfba70a9ae7e2ad18b4fe54f9a8a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgSMSThBGHEqz3TZ8qlaDP3PFkpWS10T9buELt3oZUjHic.xRDsZKAl7PgnMEUv1rw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=58fb42c1761509f2a78c8efb4c8d79f8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1kOlwCX4dL87dxgsQIjv49LtyXd5BFoQtBL6yOpQUAsvuNgt5NuSlEL5sRn1bSvs4!/m&ek=1&kp=1&pt=0&bo=SgdABkoHQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3afc08cab2b4fd68652bd95f452bcf9d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2XJnURcZXscvpQrXqOCQY3yeGjhdgZe0hMxX1bbgFHBB9pC4Owb7oyP0fbQVI1m8U!/m&ek=1&kp=1&pt=0&bo=AAVKBAAFSgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=1418dda712e6058f3da4872e3ff9599e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3BpEMyI.glwsPVZrFGztKYcjKlEn4mmeo9hOfbmQakWAMyL0vK*YEKIOGoEuf2M6s!/m&ek=1&kp=1&pt=0&bo=QAZUCEAGVAgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=513c9ae10a671b546aac8a5efd48985e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=96e16ea1c38633a6b8f9380fed672c2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=80f032cd8c40328e9ebd6262a00c6d0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3ef185c45b2e3b3bd0a9ed5536fe994a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=fc72857268edf60244bec07f28519277&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=f37b04664170d00d7da3f8b19843ecf0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a3465817e987a0690444186431d54871&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/4af34f1d04ac4ca64bab.webp",
+        "assets/images/qzone/bbbdc52743203f4e8488.webp",
+        "assets/images/qzone/f5d6cb29c1922557fd46.webp",
+        "assets/images/qzone/4d6e09fa13667d69ba41.webp"
       ],
       "eventDate": "2025年3月20日",
-      "meta": "2024年12月8日 21:05",
+      "meta": "2025年03月27日 15:47",
       "qzoneId": "fct_3597948372_311_0_1743061646_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1072,30 +976,18 @@ window.labContent = {
       "title": "开源文化进校园：金陵科技学院\"校源行\"活动激发创新活力",
       "description": "2025年3月21日，一场别开生面的开源主题活动在金陵科技学院拉开帷幕。本次活动由开放原子开源基金会与金陵科技学院联合主办，旨在搭建开源理念与实践的交流平台，为高校学子开启通往开源世界的大门。\n活动伊始，金陵科技学院副校长张燕在致辞中强调了开源文化在当代科技创新中的重要意义，她指出：\"开源不仅是技术共享的平台，更是培养…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPmRr5mp.aQP1WakbWN9t5TEmH29DUZRCOmTc31lXkI1yTpmWb15CnVMkQfx3ISBKL4!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=d66f3cea184ab1feae067646506d42c9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMI8U1q8w9Nedy16RESVTPkH9GXPjQeNoI1wMrRlW7HBYu0puMAyFaW6GA2bWXS0BuFuDHfKKcojR0SkGfWG4Rs!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=1766477498e9a73136efd6546b458f5a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8uif2q10SvO*S5YM.LWWwv54*UY6YNZO29*vbKkAWdrcMpyaddlnAym7F*s*1R08ek!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=ebc03373a25b8744632163b0f9cdc965&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8stoJ33csdsWcJUnYjBCp0tvF7mKGYe8e4yhqAZzRuSqOK49qNhpAYiv9isefK9RHU!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=651527576a4e34d723594fc9790e9a8f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8t8ubIKtWp6dayxLh0Kaw7.FXl6nTq6Nw5fahms3Npds*BAtMiDSbZoVRbJhg0Z.bE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=ce859a872a13eae976eb41d34d194a8c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECd5f*vm37qtLvRgXoSrc8tK6Ope0S9zv8iCMoner**2TRNUi1pRvNW8hngQUMrvmg5UZozVIvlxDrOWZRrF4Tw!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=1bef7c52e7dbe32657a61182899dc9f1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5SYZPZdTXAn.FQOgMNbgddlPPFKxsjkRwcRJ1Cel4ueymU3C4ruGW3hjH2dlMudeg!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=31c255f50e1217eb78fc99212ac2ed97&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt5oD9enqj13d4l4FWOfvpLU*Nkq*Nn5.BgRvvro6*QEySeOWmmNe97.rrMAwwMwFlo!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=62e660e628db765f72d9d88f8bcc830a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE17C5RfznLy8tLQJfj2bt62P4AeQ8hl7VrwaKJzPs3ELNRwCfZPZ5Uw9VZoTzeVU2BIurE3RQiuF2cykIbD4QI!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=6c7c293d0d1b3e6553a5b8317a035b2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxh87uZHD9DJQeUmY3J55CTpemB*5EP0Cnt4VFNf.0PQQVey0Zr1gKsQRQ8.tjl3AD0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=b8ac38eb45bf2637f2c77b3d3e1d29af&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxhTqtdUKDJOx88Wq*r98GvsVJD8fOQCqQydXZOnVwlDQJmEyQCgjMAir5wi52UELus!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=9df6dfba70a9ae7e2ad18b4fe54f9a8a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgSMSThBGHEqz3TZ8qlaDP3PFkpWS10T9buELt3oZUjHic.xRDsZKAl7PgnMEUv1rw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=58fb42c1761509f2a78c8efb4c8d79f8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1kOlwCX4dL87dxgsQIjv49LtyXd5BFoQtBL6yOpQUAsvuNgt5NuSlEL5sRn1bSvs4!/m&ek=1&kp=1&pt=0&bo=SgdABkoHQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3afc08cab2b4fd68652bd95f452bcf9d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2XJnURcZXscvpQrXqOCQY3yeGjhdgZe0hMxX1bbgFHBB9pC4Owb7oyP0fbQVI1m8U!/m&ek=1&kp=1&pt=0&bo=AAVKBAAFSgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=1418dda712e6058f3da4872e3ff9599e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3BpEMyI.glwsPVZrFGztKYcjKlEn4mmeo9hOfbmQakWAMyL0vK*YEKIOGoEuf2M6s!/m&ek=1&kp=1&pt=0&bo=QAZUCEAGVAgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=513c9ae10a671b546aac8a5efd48985e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=96e16ea1c38633a6b8f9380fed672c2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=80f032cd8c40328e9ebd6262a00c6d0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3ef185c45b2e3b3bd0a9ed5536fe994a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=fc72857268edf60244bec07f28519277&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=f37b04664170d00d7da3f8b19843ecf0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a3465817e987a0690444186431d54871&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/f5d5897fb9b32d2b6fce.webp",
+        "assets/images/qzone/304090659fe403e35a34.webp",
+        "assets/images/qzone/f6094231fc8fde743737.webp",
+        "assets/images/qzone/be6ef6413884cae3b93a.webp",
+        "assets/images/qzone/9b5533bfe178bb83e8fb.webp",
+        "assets/images/qzone/519530732292a7afffba.webp",
+        "assets/images/qzone/9990cf34eac048081d47.webp",
+        "assets/images/qzone/9436f91ef345fedcdd62.webp",
+        "assets/images/qzone/cde9b0b773c59393a84a.webp"
       ],
       "eventDate": "2025年3月21日",
-      "meta": "2024年12月8日 21:05",
+      "meta": "2025年03月27日 15:43",
       "qzoneId": "fct_3597948372_311_0_1743061392_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1113,20 +1005,14 @@ window.labContent = {
       "title": "实验室举行迎新年活动",
       "description": "祥龙贺岁，福满人间。2024 年 12 月 29 日，StackFarm 软件创新实验室张灯结彩，一场以 “龙跃九霄展宏图，创新筑梦谱新篇” 为主题的新年活动拉开序幕。实验室成员们齐聚一堂，携手迎接2025的璀璨新程！\n“人的思想是了不起的，只要专注于某一项事业，就一定会做出使自己感到吃惊的成绩来。”过去一年，面对诸多…",
       "images": [
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxh87uZHD9DJQeUmY3J55CTpemB*5EP0Cnt4VFNf.0PQQVey0Zr1gKsQRQ8.tjl3AD0!/b&bo=VQhABlUIQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxhTqtdUKDJOx88Wq*r98GvsVJD8fOQCqQydXZOnVwlDQJmEyQCgjMAir5wi52UELus!/b&bo=VQhABlUIQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgSMSThBGHEqz3TZ8qlaDP3PFkpWS10T9buELt3oZUjHic.xRDsZKAl7PgnMEUv1rw!/b&bo=VQhABlUIQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq1kOlwCX4dL87dxgsQIjv49LtyXd5BFoQtBL6yOpQUAsvuNgt5NuSlEL5sRn1bSvs4!/b&bo=SgdABkoHQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2XJnURcZXscvpQrXqOCQY3yeGjhdgZe0hMxX1bbgFHBB9pC4Owb7oyP0fbQVI1m8U!/b&bo=AAVKBAAFSgQWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3BpEMyI.glwsPVZrFGztKYcjKlEn4mmeo9hOfbmQakWAMyL0vK*YEKIOGoEuf2M6s!/b&bo=QAZUCEAGVAgWECA!",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=96e16ea1c38633a6b8f9380fed672c2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=80f032cd8c40328e9ebd6262a00c6d0b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=3ef185c45b2e3b3bd0a9ed5536fe994a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=fc72857268edf60244bec07f28519277&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=f37b04664170d00d7da3f8b19843ecf0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063395&dis_k=a3465817e987a0690444186431d54871&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/72a08df684cbe7892b94.webp",
+        "assets/images/qzone/65b7a8f2ef57939351fa.webp",
+        "assets/images/qzone/e927be155660227631b3.webp",
+        "assets/images/qzone/e5d85cc6e515e164ecd6.webp",
+        "assets/images/qzone/49d6e9b6a60fd9b7ed48.webp",
+        "assets/images/qzone/b90b65cd733821964e8d.webp"
       ],
-      "meta": "2024年12月8日 21:05",
+      "meta": "2025年01月04日 16:33",
       "qzoneId": "fct_3597948372_311_0_1735979629_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1138,15 +1024,15 @@ window.labContent = {
     {
       "id": "qzone-27",
       "title": "热烈祝贺StackFarm软件创新实验室团队荣获2024年全国大学生创新发明大赛国家一等奖与省级一等奖！",
-      "meta": "2024年12月8日 21:05",
+      "meta": "2024年12月08日 21:02",
       "description": "为全面贯彻落实国家创新驱动发展战略，推动我国新质生产力的加速发展，全国大学生创新发明大赛（前身为iCAN大学生创新创业大赛）自创立以来，始终致力于激发和培育在校大学生的创新与发明能力。该赛事已被纳入《2023全国普通高校大学生竞赛分析报告》竞赛目录，成为全国高校学生展示创新才智的重要平台。\n在董如婵老师的悉心指导下，S…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEE4Spe7iiaim90KXdQ2wMVRrARptOZespc28hFmj7cE1fXey0QXGbde8tRoVHf702ed9JvZRYR.WFWLkNyKX7ts!/m&ek=1&kp=1&pt=0&bo=7ASpA.wEqQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=40f038b5ddc84d484a84fe8fb6b1aa00&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq1NYV8ZB8u3egExE5TdCdlBN23igxkGFGMEMG9t8rCCTVGwP8ydA4NT3GMn5GFERBY!/m&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=7ce40b9f782d569880483da3a363e4e3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq0hamAf10pYwD*3WyDpdpUD4DCjOdnyphZKGRrra.E5cNtSTFRBQX*ePyWxDJKsnLo!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=aec512aae915c49be9cb5c2ba1487522&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq2C2uI2nc9c7awuFQLC9kUCnn*.kmEfd6q.5agkHQgVMj6d3gxVURWT6qkxBgXl7Ag!/m&ek=1&kp=1&pt=0&bo=QAapBkAGqQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=3f4dd47eb875b8cea6159bf1f2cc0676&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEC*nxYadUNbNeOeBaYoDdq24lPsISMamLniEB3AWKfLk8.xwWTQalYbu7ll7zU.9r*j50quqm4iObSKDJ*txhRM!/m&ek=1&kp=1&pt=0&bo=AQYuCAEGLggWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=2981ecbc37843854036d7a8336cbd81c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAkTYBhKG1ChVXhF078hNpQTRsI*l7sEVZU*YSb*MpWoRwOHe1Ku3fRl6KESTdfTlhI!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=0c8b3073d9f44231727e5110b52ea993&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/73e7fb848b3380b8002f.webp",
+        "assets/images/qzone/730c6a080be2926f937b.webp",
+        "assets/images/qzone/ae3d3d0fcd4cd86a880e.webp",
+        "assets/images/qzone/97fc4a5d222b51fcb247.webp",
+        "assets/images/qzone/5949035c8e1042b0a979.webp",
+        "assets/images/qzone/fb35547b8706bb1cc48a.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1733662940_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
@@ -1164,12 +1050,12 @@ window.labContent = {
     {
       "id": "qzone-28",
       "title": "C 语言答疑 · 第六季收官",
-      "meta": "2024年12月8日 15:44",
+      "meta": "2024年12月08日 15:26",
       "description": "[Taffeit科技社C语言答疑活动，助力24级学子编程技能飞跃！]\n学长开课了第六季系列课程圆满收官！\n为了持续深化2024级同学对C语言的理解，进一步推动编程能力的提升，Taffeit科技社学长开课啦！\n2024年12月6日，最后一次C语言答疑活动在积极热烈的学习氛围中圆满落幕。此次活动聚焦数据结构栈和结构体的使用…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEAZNn.gdEWdH4vBDE6jG3CMhkPNQfnmSo1TDKl8SqGRM1E*PTaXgtyGGWBMOezqK4QAGOEOAZDeWcorHUAYSBXw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=3ec875a4e6f3efe9ad29d0e4f3633109&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECpnmTfZs9SIt3VvRkQ1eIFqzUqAUwd4FjYToc2R0DxgAV39BtSBjZ9FYK4Tl2R5i8uJosTixToWCr49qM.Cz*E!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=bfe3ed8659e803d9772a23dca7643b31&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECpnmTfZs9SIt3VvRkQ1eIE0t0rsckRfDf6vvIjBSHl1dZbQnoBcFtIrSb6HMfM5nai2Ev69cC17xMV8a2vNOT0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066356&dis_k=2e6eccffb1ac1aaf9e98bbf4ab32cabf&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/863e100f75d47ce034ff.webp",
+        "assets/images/qzone/b8e74a352a9307b94a30.webp",
+        "assets/images/qzone/575221cdc384214165f1.webp"
       ],
       "eventDate": "2024年12月6日",
       "qzoneId": "fct_3597948372_311_0_1733642768_0_1",
@@ -1188,7 +1074,7 @@ window.labContent = {
       "title": "C 语言答疑 · 第六季第三期",
       "description": "[Taffeit科技社C语言答疑活动，助力24级学子编程技能飞跃！]\n学长开课了第六季第三期\n为了持续深化2024级同学对C语言的理解，进一步推动编程能力的提升，Taffeit科技社学长开课啦！\n2024年11月29日，第三次C语言答疑活动在积极热烈的学习氛围中圆满落幕。此次活动聚焦贪心算法与指针入门两大主题，为同学们…",
       "images": [
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOitg9lgn8MN6Kt0c7rMyAmgntuBDcYllZPBha.2VDCuQfzntgKepZgefTd2T5eEEzBIfLrEwFJh.4T4sxnJiB8!/b&bo=gAegBYAHoAUWECA!"
+        "assets/images/qzone/73ad33658e8e72e43a15.webp"
       ],
       "eventDate": "2024年11月29日",
       "qzoneId": "fct_3597948372_311_0_1732949206_0_1",
@@ -1199,16 +1085,17 @@ window.labContent = {
         "为了持续深化2024级同学对C语言的理解，进一步推动编程能力的提升，Taffeit科技社学长开课啦！",
         "2024年11月29日，第三次C语言答疑活动在积极热烈的学习氛围中圆满落幕。此次活动聚焦贪心算法与指针入门两大主题，为同学们提供了详尽的解答与指导，为黄金考与以后的学习打下坚实基础！",
         "我们相信，通过此次答疑活动，同学们的学习热情将被进一步点燃，编程技能也将迎来显著提升。未来，Taffeit科技社将继续致力于搭建学习交流的平台，与大家探索编程的魅力！"
-      ]
+      ],
+      "meta": "2024年11月30日 14:46"
     },
     {
       "id": "qzone-30",
       "title": "C 语言答疑 · 第六季第二期",
-      "meta": "2024年11月16日 05:47",
+      "meta": "2024年11月15日 21:16",
       "description": "[Taffeit科技社C语言答疑活动，助力24级学子编程技能飞跃！]\n学长开课了第六季第二期\n为了持续深化2024级同学对C语言的理解，进一步推动编程能力的提升，Taffeit科技社学长开课啦！\n2024年11月15日，第二次C语言答疑活动在热烈的氛围中圆满结束。活动中，我们围绕输入输出、选择结构、循环、函数、二维数组…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrED9zziczS90jUQbCoywAwtVjU4GH1JEAlDMbsLx6EbImU.*MfFD4ATQ4pJRIr7i8KwbkZrBCRuW*HCX51QQNUCo!/c&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=53bdc8b9a8a1af2377129624c5b6d1f6&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrED9zziczS90jUQbCoywAwtWRdAD.o88NSnU1kQeI5zT47mH1WA7LgOoqIyJap1Wdxu9Ffo*vkWdHv3EvvuiUyIY!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=bc83f94e9bff73a56b3653123700c151&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/ab41f20085d4ebad21c6.webp",
+        "assets/images/qzone/9fc581f8f8a2081e7080.webp"
       ],
       "eventDate": "2024年11月15日",
       "qzoneId": "fct_3597948372_311_0_1731676593_0_1",
@@ -1225,10 +1112,10 @@ window.labContent = {
     {
       "id": "qzone-31",
       "title": "科技社招新啦！",
-      "meta": "2024年11月9日 21:23",
+      "meta": "2024年11月09日 13:00",
       "description": "科技社是一个致力于提升个人编程能力、促进共同学习与成长的温馨家庭，一直以来都秉持着开放、包容、进取的社团文化。我们鼓励每一位成员勇敢追求自己的梦想，通过不断学习和实践，成为编程领域的佼佼者！\n加入科技社，你将获得：\n1. 实践机会与项目经验：通过参与社团内部的编程项目和比赛，你将有机会将所学知识应用于实际，积累宝贵的项…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECYaz68kzB02I.i64zVzynwax8.NkL9CVFypp*6*LLee3q1ZpWQbDW8wVEsPk7v9hXtzBN3UgC*wPTO5.O6oJlI!/c&ek=1&kp=1&pt=0&bo=RAVdCUQFXQkWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=5dc9a54342062582c22c3ebed9f03598&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/5aaec5486cbf707bde7f.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1731128418_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
@@ -1243,12 +1130,12 @@ window.labContent = {
     {
       "id": "qzone-32",
       "title": "C 语言答疑 · 第六季第一期",
-      "meta": "2024年11月9日 10:26",
+      "meta": "2024年11月09日 10:05",
       "description": "[Taffeit科技社C语言答疑活动，助力24级学子编程技能飞跃！]\n学长开课了第六季第一期\n为了助力2024级同学深入探索C语言的奥秘，全面提升编程能力，Taffeit科技社学长开课啦！\n2024年11月8日，本次C语言答疑活动圆满落幕。在活动中，我们针对同学们在近期周测中频繁遇到的难点与易错点，进行了全面且深入的剖…",
       "images": [
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEBJMsoBZ9*gbvNAkaBOkxu1iMaf.xz3KpHN0Mcoh3h0NBr8KTMM4Rz4yfRgSemm7bMM*yXbn2sqXkXak9VpewbA!/b&bo=tg1ABrYNQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECYaz68kzB02I.i64zVzynwL1qhQ7SLQakIbSpHQeViEZ7*rCyj19BpebFOViBbgHqW1lGzduTm0VAK7Jai8Rlw!/b&bo=VQhABlUIQAYWECA!",
-        "https://photonjmaz.photo.store.qq.com/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECYaz68kzB02I.i64zVzynxDKgUy27O.HKOuHRI7yygKS3znA4K*CTLKtwwKzEYnGgANTGgbck9osXQ7TbG2ULs!/b&bo=tg1ABrYNQAYWECA!"
+        "assets/images/qzone/f1a3e99789f87b2dff04.webp",
+        "assets/images/qzone/421002295624bae6323e.webp",
+        "assets/images/qzone/a8e2c2871b15b6878449.webp"
       ],
       "eventDate": "2024年11月8日",
       "qzoneId": "fct_3597948372_311_0_1731117924_0_1",
@@ -1267,63 +1154,36 @@ window.labContent = {
       "title": "科技社与开放原子开源社赴佘村团建",
       "description": "2024年11月2日，StackFarm创新软件实验室科技社与开放原子开源社的22名成员齐聚风景如画的佘村，共同开展了一场别开生面的团建活动！\n佘村，这个远离城市喧嚣的世外桃源，以其独特的自然风光和古朴的明清建筑风格，为团建活动增添了一份别样的韵味。上午10点，团队成员们驱车前往佘村，一抵达便被这里错…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECYaz68kzB02I.i64zVzynx33lIBgMCf0pujtBrf3o15quFgjgdJikwbFOLkdm0TsJjuTQlt*R1vrb04qiW2B7M!/m&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=ea841982c97f35a81b454202960ddce3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgJcxKof1Q3aV*NHuqTVDaFfhyFyJT5B7J..1ozeyhKm8UbvBiVlWvBYQRHkDdEaZY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=555197ce7fe6c71451fb38b95136cdb6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxgTV0St*XWl*dI*wxka6B0ttQpwzedUojdjc8*rtes3QuFJfXH4VHFv3xRH22mXySA!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=69dee8c026430c985a825f647caf92fb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxjhOyhhC.IxKxJaI9hwXp9CaWpCozpgNMkz7euQqw2eOOepidtkYMJZGV620E.RmPY!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=f61a283274e905ed8a96bec4d0ff2d23&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELpBYJK5de2ZbSDlyhBIUxg2*oozt4Uf*gfs1qHj9Mlh*Aq7qOYZByNrA5w4wdyjXyhxkUiDOFKrtAELSN4FdJ4!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=046d77e489eadbc56166ec8a7dcd1f0a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq0tTt86NRx9jIPH.Nue1ImZXSnImvLdPYo3URDnyFvA3WbRG1ta31f6.rOSou97ArM!/m&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=927750a80edcd5212fc1023640abb2df&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3TERKjxTe4OaFQVz7cbzjstmYVu2RIkHEp4yIdOrnFqhdABOTnmCA72vppPAeT0d8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=050359b67c46b57ba5cd0b6a99e5e8d0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq3i9KcwQyrujmWC..JNYkVCochWqtch7LJKyfzEUNM4a.SccZ3AO1MR2qg5Xkoft*I!/m&ek=1&kp=1&pt=0&bo=gAc4BIAHOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=aa84d531e3e55a8cd34038be29826895&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrELzsgUvb7UwVL46u3stDpq2tBcQMnNDFbwYC90Z*x2s5jzrOhk1Ca1VfidnsIXzJEJJMmODN45uA2mm5*8YaO7k!/m&ek=1&kp=1&pt=0&bo=QAZABkAGQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=96e7d78953f155ad9bc214efb4dbb2b4&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/b2f99af17acf44c9a1cd.webp",
+        "assets/images/qzone/2684568ba4bfeb9d071b.webp",
+        "assets/images/qzone/448a9211ed1e8f72ff79.webp",
+        "assets/images/qzone/72eda8dc207fbaa0b4b4.webp",
+        "assets/images/qzone/c86d253c33fe4aab17bb.webp",
+        "assets/images/qzone/8093e80851d0abd57d19.webp",
+        "assets/images/qzone/4b0d077290cefc5cb7d6.webp",
+        "assets/images/qzone/d08583ee0f3c154c34b6.webp",
+        "assets/images/qzone/281c535a1b7916cba4bd.webp"
       ],
       "eventDate": "2024年11月2日",
       "excerptOnly": true,
       "qzoneId": "fct_3597948372_311_0_1730867808_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年11月06日 12:36"
     },
     {
       "id": "qzone-34",
       "title": "人工智能与生成式 AI 的产业实践讲座",
       "description": "10月30日，我校于科技楼2-311举办了“人工智能与生成式AI的产业实践”讲座。\n讲座上，我校副教授董如婵老师作为主持人首先向我校全体与会学生作出引入，随后由百度飞浆开发者技术专家、百度星河社区认证教师、南京航空航天大学企业导师、上海先睹科技有限公司总经理——王华老师，向全体学生介绍人工智能各方各面的知识。\n王华老师…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkCA2EzetiwsDT.s*QqyO5qolNnzjsfPUEpn2JLYThSld07bcdNNt7vJ8MR1lmHp*3Y!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=a87efa6167eb0d77d80619036c53cdd3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkD7YXyfZgc3uYy5r6XV.*NYstydVIGh2dSMCUeiEK0l6SaqS6oFNHvKuMfxp*alSos!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=853c15ea50466610595d1c1ea0e7c102&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkD1mf05Kqr5oSSYEcZqpl9M.BJ4NLYqGtDoRoaB8oQYb42zzKEJRHy3inTZlnf088k!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=3a36cad0948954816b06edc3c5cd3cc1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrECEgZgaXu0Bxoj*GNzMaWkCSCgdHe2VSBl0M2LAgj.7.YVCYQjmKA5eJul4PIJBmIDtnqGvikpncJn4.LazDq*4!/m&ek=1&kp=1&pt=0&bo=wAOAAsADgAIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=490febafcef61d0bf54a0f7fcf364b79&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEIFg5Zsf6ASCf6GWsdd5RIRtoc0S.OnVtGzhGL0iQ6V5fDUNBY4MBcI2Ixv1cAQbIubnZV4xIarAJyvDtJ61Bm8!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=9509c24cb41b7d4876a5ef2eba95d96c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEIFg5Zsf6ASCf6GWsdd5RIQtLq38Ckf.c.LHRgV29vcnE9oS9V.plXiXZgKLBIPP1KUd.rOuGirEXm3WflCi*2A!/m&ek=1&kp=1&pt=0&bo=wAOAAsADgAIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=30da48df5719f22e45341783c29df868&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09x.bIpC1yLtxlWMdXQ.Y0DDv*C1iPH3koBKCGsE9f7dVqHffs.Q.PfZfPBomPq7M.k!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=e639a729251d58ef710d7dbe1984eab3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09yJv*59uy6c.axU1xadSUBlS1AdDJbm10waPvhKXCH.ad861BVzOE0xgezkd1P5afs!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=f4a3b33d1ad1e1b7d347e9a438b06f65&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09wbVCiv4yHSBMqGrPB0Mc.8koNaakbrp0A8Ihb45qqVIjV1wiay18Mq70lrFkQI2ms!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=2d8e06b29ce322594038a748602290a8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09xmlqCAVHVy7yMCodDmYfPYaZIZJvKG4xE0hJ49rCayRlq1ysncSbUuYfhFDyLuz88!/m&ek=1&kp=1&pt=0&bo=dAhABnQIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=aa5a5ed240f9f58b2d623751e149af9b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsTciXkhwyrytjAw.vbXRteWDBDnanGl19RHLfHaCdG.x9*u1Z6x1QYsJHcqZY9lliw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=e58ee8da3a30e3168f090775ebead498&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsSLNoiyM8E6HrfvDFYuVRQNdZNdIOmh43IKPsEnYNA9Qy2xVO06DkIbFTlg5JGmSCU!/m&ek=1&kp=1&pt=0&bo=awhABmsIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=b17b75cec2bc61fef150178751ecc305&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsTmawPT.Sbg4x.5caeaoyuQU.36YFi4oNHkrU.5d7bfUTH3CpbdO1UMTuAj5ZLnbSs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=f21de9d31605f392012d9a78088deae4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsRNaDBdRX8Ha28J8d.hBsI54Hazs5t0cD1xAxpsqpCB87TLci.S2.aa6K9qoKOoL1o!/m&ek=1&kp=1&pt=0&bo=yw1ABssNQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=0e3058b8a379e3a18a14548c60d4d076&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWDlOt1NBYhX4rv*tX8.FyssbHVWquFbLty43cTSvy5ICempFQYRZigyvWvqKniGwkU!/m&ek=1&kp=1&pt=0&bo=uAZ0BLgGdAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=b04c284c2b3a671405e8edb461c8e1a2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWCPJorf42h8uNbwQ3ebdDrpp6C62dj9AUXki33U.bxsh1eB82iPtCM2WsA.oa58AJY!/m&ek=1&kp=1&pt=0&bo=6AT2BOgE9gQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=e6cb80ab2f82189e8c33605c9eb0df44&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOMJGamXgfdwUaQ1WpacKaogDnzUxczZgsxdsUnZPUPnqS9Btoes1ssNTgtrUhRKqZaduuUMN9ehPb05RHhWYVk!/m&cut=0_162_200_360&ek=1&kp=1&pt=0&bo=OARvDjgEbw4WECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=c0806a119c6212654ceaee5975e14e21&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPhNQrW84.GiZMyRLFULlsJ*Uv3oirXCXEGcLARj5mM0k.YE9CNuf9E1Myl6QyFRIPH4VFtoDSk8cK2TcsYsv7c!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=1750a7da209baabb6bd036ef78c8ba9f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWneB7m2pgsj7cgYCSJVSqmPEI8gsqkw5mE5qPuD5Oef.PnWzfWt3C4Y5BaooIqTFY!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9df3764aa805e8350b39ab4b7d5784a3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWXfuAG5UFEkz1oaNOnvUC8PeZL7RidofiTWQaLZs0aw4*EaxGMHgK8i*81MF0vGAw!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=a02c05600ddedc5d26a5061cfe87ea08&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUPH38YYCXSKDVxM9IJfWEuN8AZgwUisA*zzEkh2kSKl0XNkQKbcY7sMSUt3RJIDSc!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=2c5102dfec0f37e50e218280c158e8f0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUZpxZQtLm7HLwDRkIOye2Uil62KHHRnoPMGn3KJ9NHPsh8AqQ8TRfT27rZUtk9la8!/m&ek=1&kp=1&pt=0&bo=IAMWAiADFgIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=737cf1d23b156d263dcf4724ceedf283&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXys8PF6f7VtF6N900EKm9KgXdh9CA.ko3Ur2eA1fnTJwsUrAB2VcCOHJqYa7*Fb9MBQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=4a2dea27a7faf5eb093d71d1dc5c9980&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysRC0kjNVuGQtIVqg0UC1oRBSqDHeUwa0G0EgqZZxShULv3Fbs4CGrQc45EDYIWRBU!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=035ae8605fccf04dde3859a5cde21aa9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXytRpnjjtW4nOLhwu9hLkXLgmAPgmYFKAz7XzdxouZC28GPDvUQUSuv1XjMaNbBR2JU!/m&ek=1&kp=1&pt=0&bo=OATSAjgE0gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=c7261da892643f0c1dd1cb416f596f0c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysTUMeU9GzJOHRdwc8F3PEBG6NMxvx797AFFdaL61yNIKSUVUM3KHR5fFm22iJWEoU!/m&ek=1&kp=1&pt=0&bo=OAT2AjgE9gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9cc5e64c26cc98090cd04d2bde99c02e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8EDvGoxXenMbDMzlH*qPDcJPT8zbTI0R2FKeeZHMzle3PSsVvp9qZgBgFdQn98VzR4!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=df3f95c23d308ecf03fa2de6956a0eab&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8HbSmrrm7oL78VzfAEt18bnwaOXLlnyr3tIXULXj2SmTU22dndiQrW3gqXG3acyBnY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=e17ddbcb6b4700f9cd0224ab257376e8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVFZWm4lQGMMtnyqPSflT8wAzTkadhVj*hyfwmkVTzDFjFURcX6.qL6Bg.ipEtp9ek!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=80137321eb3ea1059b3c3f3f358cd8b8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAWdYxaJ3Oy*oT1QY3NvUjJrJDWFodIkXtiypNST8Dyh7Avpxm4DVzidaEK8meVh0cQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=027a06547f1583a7783d67211c00e7ed&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVEJHkevpsB7*OGrq4SK3X9V4acC95gKa994euqWgK47kqg4APrDXRFFr1SqTaLFMU!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=1375e5ed8648d9c070a25874281b4359&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVIdFGMZIrh73GOzXnlPMAmo7nODJatlwWc*0xSeg4Kc93qx0An1QWQ8RczEv5TXME!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=eb0cf6ed19dc515216bd9cad0c25bede&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmFb*slPLXub2z6NLrG1jKOXRXWpFfTexvot293hjgjw8ViDDNn7xibJDk1nXf5RobE!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063407&dis_k=03bdf1fd17cbc0d077f4c7752a799a43&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmH21p0klZQmDsz9kUeiLbL4Kq9cjUuuYQZwvG8W*PHcJa3YtGd21BS4t235QQQxDdk!/c&ek=1&kp=1&pt=0&bo=gAeiBYAHogUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063407&dis_k=49967ad5d15d294ba42150a22bd428cc&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/09c9e7246db49bff2341.webp",
+        "assets/images/qzone/71d6c26da768c775ce78.webp",
+        "assets/images/qzone/c96fa71e2f4163ccc116.webp",
+        "assets/images/qzone/dd8ac0f0fcf6e2c274d1.webp",
+        "assets/images/qzone/873c21d6ba2489088a4b.webp",
+        "assets/images/qzone/92fe70c362e8af4be21d.webp"
       ],
       "eventDate": "10月30日",
-      "meta": "2024年3月10日 20:57",
+      "meta": "2024年11月04日 17:30",
       "qzoneId": "fct_3597948372_311_0_1730712633_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1337,37 +1197,26 @@ window.labContent = {
       "title": "实验室迎来 24 届新生",
       "description": "新学期，新气象！StackFarm软件创新实验室迎来了24届新生的加入，为实验室注入了新的活力与创意！",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXyu8sMIqhZltYzvLJy2ZFrIZ5eRlcrUjYpFFIaPXc8L5PY7e68RWO8TskoTOqDEnL18!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=d71fc0722dac9e54d7bf77de041836a7&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXytrWKFF4Qw7uMSErz1N6VLAzOk*fNqMqWnyllj8NHBXi5oEQDkWNhcguYdP1UBYSoA!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=0a447dff02a822217ae79915ada96d20&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/800ea7e580bb5e11b919.webp",
+        "assets/images/qzone/6e51002ca02b69870bc8.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1730452044_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年11月01日 17:07"
     },
     {
       "id": "qzone-36",
       "title": "实验室成员参加第三届 Open Harmony 技术大会",
       "description": "2024年10月12日至13日，开放原子开源社三名成员黄紫妍、陈嵛峰与张忠祥，携手科技社成员秦梦瑶，前往上海，共同参与了备受瞩目的第三届Open Harmony技术大会。此次大会以“技术引领筑生态，万物智联创未来”为主题，汇聚了来自全球的开源操作系统技术领袖、前沿实践专家、广大开发者以及学术界大咖，共同展示了OpenH…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09x.bIpC1yLtxlWMdXQ.Y0DDv*C1iPH3koBKCGsE9f7dVqHffs.Q.PfZfPBomPq7M.k!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=949dcb4a6505c6278aeb3af9f45da4d5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09yJv*59uy6c.axU1xadSUBlS1AdDJbm10waPvhKXCH.ad861BVzOE0xgezkd1P5afs!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=0228ce75cc758e7e3c795cfc125287f0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09wbVCiv4yHSBMqGrPB0Mc.8koNaakbrp0A8Ihb45qqVIjV1wiay18Mq70lrFkQI2ms!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=45bceb091522535be552db17138305b8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEO6RFSL62IP4WetiNdEf09xmlqCAVHVy7yMCodDmYfPYaZIZJvKG4xE0hJ49rCayRlq1ysncSbUuYfhFDyLuz88!/m&ek=1&kp=1&pt=0&bo=dAhABnQIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=7547bb775cd2cfa52d8d380e5d7a7981&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsTciXkhwyrytjAw.vbXRteWDBDnanGl19RHLfHaCdG.x9*u1Z6x1QYsJHcqZY9lliw!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=d7fa43c091baa3ea2166c117f6f7bfdd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsSLNoiyM8E6HrfvDFYuVRQNdZNdIOmh43IKPsEnYNA9Qy2xVO06DkIbFTlg5JGmSCU!/m&ek=1&kp=1&pt=0&bo=awhABmsIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=6989b28cfae31886b47d8578571775e6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsTmawPT.Sbg4x.5caeaoyuQU.36YFi4oNHkrU.5d7bfUTH3CpbdO1UMTuAj5ZLnbSs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=0d30dde9ad689d7cb97e95a5ff9e91a4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEFa6s3eYTZv3eHM*mam3wsRNaDBdRX8Ha28J8d.hBsI54Hazs5t0cD1xAxpsqpCB87TLci.S2.aa6K9qoKOoL1o!/m&ek=1&kp=1&pt=0&bo=yw1ABssNQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066357&dis_k=0fb6146c1f6977d546cfe3322b5fc371&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWDlOt1NBYhX4rv*tX8.FyssbHVWquFbLty43cTSvy5ICempFQYRZigyvWvqKniGwkU!/m&ek=1&kp=1&pt=0&bo=uAZ0BLgGdAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=b04c284c2b3a671405e8edb461c8e1a2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWCPJorf42h8uNbwQ3ebdDrpp6C62dj9AUXki33U.bxsh1eB82iPtCM2WsA.oa58AJY!/m&ek=1&kp=1&pt=0&bo=6AT2BOgE9gQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=e6cb80ab2f82189e8c33605c9eb0df44&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOMJGamXgfdwUaQ1WpacKaogDnzUxczZgsxdsUnZPUPnqS9Btoes1ssNTgtrUhRKqZaduuUMN9ehPb05RHhWYVk!/m&cut=0_162_200_360&ek=1&kp=1&pt=0&bo=OARvDjgEbw4WECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=c0806a119c6212654ceaee5975e14e21&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPhNQrW84.GiZMyRLFULlsJ*Uv3oirXCXEGcLARj5mM0k.YE9CNuf9E1Myl6QyFRIPH4VFtoDSk8cK2TcsYsv7c!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=1750a7da209baabb6bd036ef78c8ba9f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWneB7m2pgsj7cgYCSJVSqmPEI8gsqkw5mE5qPuD5Oef.PnWzfWt3C4Y5BaooIqTFY!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9df3764aa805e8350b39ab4b7d5784a3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWXfuAG5UFEkz1oaNOnvUC8PeZL7RidofiTWQaLZs0aw4*EaxGMHgK8i*81MF0vGAw!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=a02c05600ddedc5d26a5061cfe87ea08&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUPH38YYCXSKDVxM9IJfWEuN8AZgwUisA*zzEkh2kSKl0XNkQKbcY7sMSUt3RJIDSc!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=2c5102dfec0f37e50e218280c158e8f0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUZpxZQtLm7HLwDRkIOye2Uil62KHHRnoPMGn3KJ9NHPsh8AqQ8TRfT27rZUtk9la8!/m&ek=1&kp=1&pt=0&bo=IAMWAiADFgIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=737cf1d23b156d263dcf4724ceedf283&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXys8PF6f7VtF6N900EKm9KgXdh9CA.ko3Ur2eA1fnTJwsUrAB2VcCOHJqYa7*Fb9MBQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=4a2dea27a7faf5eb093d71d1dc5c9980&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysRC0kjNVuGQtIVqg0UC1oRBSqDHeUwa0G0EgqZZxShULv3Fbs4CGrQc45EDYIWRBU!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=035ae8605fccf04dde3859a5cde21aa9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXytRpnjjtW4nOLhwu9hLkXLgmAPgmYFKAz7XzdxouZC28GPDvUQUSuv1XjMaNbBR2JU!/m&ek=1&kp=1&pt=0&bo=OATSAjgE0gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=c7261da892643f0c1dd1cb416f596f0c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysTUMeU9GzJOHRdwc8F3PEBG6NMxvx797AFFdaL61yNIKSUVUM3KHR5fFm22iJWEoU!/m&ek=1&kp=1&pt=0&bo=OAT2AjgE9gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9cc5e64c26cc98090cd04d2bde99c02e&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/566b814b1f783670624a.webp",
+        "assets/images/qzone/c662ab1e070be3cc902c.webp",
+        "assets/images/qzone/879928ff5eeb271c97d2.webp",
+        "assets/images/qzone/37f38742ff7415986479.webp",
+        "assets/images/qzone/55fc299e5237ab1ffa6b.webp",
+        "assets/images/qzone/bcb498dbeeb1348ecc94.webp",
+        "assets/images/qzone/22bfbc943334daeee26b.webp",
+        "assets/images/qzone/c098da7241a94e531c89.webp"
       ],
       "eventDate": "2024年10月12日至13日",
       "qzoneId": "fct_3597948372_311_0_1729176651_0_1",
@@ -1377,25 +1226,17 @@ window.labContent = {
         "在主会场上，与会者们聆听了多位行业大咖的精彩演讲，这些演讲不仅让他们对Open Harmony技术的应用及其未来发展有了更加深入的了解，更让他们受益匪浅收获满满。例如，OpenHarmony项目群工作委员会主席龚体分享了OpenHarmony开源四年来的显著进展，并对万物智联时代终端操作系统的发展趋势进行了深入探讨。华为终端BG软件部总裁龚体还详细介绍OpenHarmony的五大技术特征，并分享了元OS架构、高性能文件系统EROFS、AI原生智能架构等关键技术突破。",
         "大会还精心设置了14个分论坛，为社员们提供了丰富的实践交流平台。社员们积极参与其中，与来自不同领域的专家进行了深入的对话与交流。他们纷纷表示，通过这次交流，更加直观地感受到了Open Harmony所具备的“架构解耦、弹性扩展”“异构并行、全栈协同”“原生智能场景体验”“原生安全、生态纯净”“极简开发、多端部署”等独特优势。除了收获丰富的知识和技术体验外，社员们还与这些专家建立了宝贵的联系，增长了见识，获得了不少珍贵的指导和启迪。此次大会不仅展示了OpenHarmony在技术上的最新进展，还探讨了开源生态的未来发展方向以及万物智联时代下操作系统的演进趋势。与会者们一致认为，随着万物智联世界的加速到来，人们将迎来更沉浸的体验、更便捷的生活方式，以及整个社会的智能化全面升级，届时终端操作系统将面临新的机遇和挑战，朝着智能化、空间化方向发展。",
         "大会的成功举办不仅为OpenHarmony社区注入了新的活力，也为全球开源操作系统的发展指明了前进方向。未来，OpenHarmony将继续致力于技术创新和生态建设，推动开源操作系统的发展，为构建更加智能、安全、高效的数字世界贡献力量。"
-      ]
+      ],
+      "meta": "2024年10月17日 22:50"
     },
     {
       "id": "qzone-37",
       "title": "热烈庆祝！StackFarm软件创新实验室队伍荣获昇腾AI创新大赛上海赛区高校赛道三等奖！",
       "description": "自2024年8月启动以来，昇腾AI创新大赛上海赛区吸引了全国众多高校师生的热烈关注，共计37支精英队伍报名参赛。本次大赛由华为技术有限公司、上海昇腾人工智能生态创新中心、上海昇思生态创新中心及上海市漕河泾新兴技术开发区发展总公司强强联手，于9月27日在上海举行。\n在这场科技盛宴中，StackFarm软件创新实验室成员韩…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWDlOt1NBYhX4rv*tX8.FyssbHVWquFbLty43cTSvy5ICempFQYRZigyvWvqKniGwkU!/m&ek=1&kp=1&pt=0&bo=uAZ0BLgGdAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=70935a5bd6a62d788c63748ca417b215&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLg9i3FwFCuaLZkmlB4PWCPJorf42h8uNbwQ3ebdDrpp6C62dj9AUXki33U.bxsh1eB82iPtCM2WsA.oa58AJY!/m&ek=1&kp=1&pt=0&bo=6AT2BOgE9gQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=d26038f0b633086439dfa6953fceb74f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEOMJGamXgfdwUaQ1WpacKaogDnzUxczZgsxdsUnZPUPnqS9Btoes1ssNTgtrUhRKqZaduuUMN9ehPb05RHhWYVk!/m&cut=0_162_200_360&ek=1&kp=1&pt=0&bo=OARvDjgEbw4WECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=25da163f1b0ff9f87fb9e3ec1dd2977c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPhNQrW84.GiZMyRLFULlsJ*Uv3oirXCXEGcLARj5mM0k.YE9CNuf9E1Myl6QyFRIPH4VFtoDSk8cK2TcsYsv7c!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=1750a7da209baabb6bd036ef78c8ba9f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWneB7m2pgsj7cgYCSJVSqmPEI8gsqkw5mE5qPuD5Oef.PnWzfWt3C4Y5BaooIqTFY!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9df3764aa805e8350b39ab4b7d5784a3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWXfuAG5UFEkz1oaNOnvUC8PeZL7RidofiTWQaLZs0aw4*EaxGMHgK8i*81MF0vGAw!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=a02c05600ddedc5d26a5061cfe87ea08&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUPH38YYCXSKDVxM9IJfWEuN8AZgwUisA*zzEkh2kSKl0XNkQKbcY7sMSUt3RJIDSc!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=2c5102dfec0f37e50e218280c158e8f0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUZpxZQtLm7HLwDRkIOye2Uil62KHHRnoPMGn3KJ9NHPsh8AqQ8TRfT27rZUtk9la8!/m&ek=1&kp=1&pt=0&bo=IAMWAiADFgIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=737cf1d23b156d263dcf4724ceedf283&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXys8PF6f7VtF6N900EKm9KgXdh9CA.ko3Ur2eA1fnTJwsUrAB2VcCOHJqYa7*Fb9MBQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=4a2dea27a7faf5eb093d71d1dc5c9980&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysRC0kjNVuGQtIVqg0UC1oRBSqDHeUwa0G0EgqZZxShULv3Fbs4CGrQc45EDYIWRBU!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=035ae8605fccf04dde3859a5cde21aa9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXytRpnjjtW4nOLhwu9hLkXLgmAPgmYFKAz7XzdxouZC28GPDvUQUSuv1XjMaNbBR2JU!/m&ek=1&kp=1&pt=0&bo=OATSAjgE0gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=c7261da892643f0c1dd1cb416f596f0c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysTUMeU9GzJOHRdwc8F3PEBG6NMxvx797AFFdaL61yNIKSUVUM3KHR5fFm22iJWEoU!/m&ek=1&kp=1&pt=0&bo=OAT2AjgE9gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063400&dis_k=9cc5e64c26cc98090cd04d2bde99c02e&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/57454d9efd7362b1a1fc.webp",
+        "assets/images/qzone/ec400da629d3035fe36a.webp",
+        "assets/images/qzone/f80d3fdfa9b58e9cd25c.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1728374652_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
@@ -1403,66 +1244,26 @@ window.labContent = {
         "自2024年8月启动以来，昇腾AI创新大赛上海赛区吸引了全国众多高校师生的热烈关注，共计37支精英队伍报名参赛。本次大赛由华为技术有限公司、上海昇腾人工智能生态创新中心、上海昇思生态创新中心及上海市漕河泾新兴技术开发区发展总公司强强联手，于9月27日在上海举行。",
         "在这场科技盛宴中，StackFarm软件创新实验室成员韩悦、马奕晨、陈嘉伟、黄煜媚、郭玉恒、施瑞昭组成的“bug是永远改不完的队”凭借卓越的专业技能与非凡的创意，在众多参赛队伍中脱颖而出，荣获三等奖！他们在团队的精心准备与指导老师的悉心指导下，展现了出色的实力，赢得了评委的高度赞誉。",
         "我们衷心祝贺他们所取得的辉煌成绩，并期待StackFarm软件创新实验室的成员们在未来能够再创佳绩，续写辉煌篇章！"
-      ]
+      ],
+      "meta": "2024年10月08日 16:04"
     },
     {
       "id": "qzone-38",
       "title": "实验室队伍参加昇思 MindSpore 高校行",
       "description": "2024年9月27日，StackFarm软件创新实验室的一支队伍奔赴上海，参加了昇思MindSpore高校行走进同济大学暨第九届华为ICT大赛上海省赛启动仪式。\n仪式共分为华为ICT学院走进同济大学与昇腾大赛高校队伍答辩两个部分进行。在会议上，来自华为与同济大学的专家与领导们向参会者介绍并分享了最先进的人工智能软件技术…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEGLhsbdCDXHyxlU4iPBJvDWiQ8HplwG.bRaD6yLIXc9xkPkME*JIzqIq8BgejlDhVBdHc7sP5BmYOhvmi4FILf4!/m&ek=1&kp=1&pt=0&bo=vgaCBL4GggQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=7001797f24021bb3c95cea4f23d53875&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEL0oL88JPyWmKvKSeY4xb3aeiwbWnH4.sPyr79zf7tyD7Umfua0lZFQQwYZzRP9n0m4Bc8DzAiIqpQI4VsLpTJc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=5031cc8959b570b95e75dfa015d2ae9b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEL0oL88JPyWmKvKSeY4xb3a1E.0ZRR02tBD2F.RaghN8aFGPIMt4COarPrdbjTFmVmQ2ee9uVkeCyhfIThqr5XA!/m&ek=1&kp=1&pt=0&bo=uAZyBLgGcgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=ad35ccec7c6e84013a441bd8abfeac98&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEL0oL88JPyWmKvKSeY4xb3ZhMLhHjaoBVWwQM9kb6MbGZHAsXme707zA6LiOEwENdMc4YSkMXWCoswYVWFussVU!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=1897ee9e2c5cb63d281c3d71a9bf018c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEL0oL88JPyWmKvKSeY4xb3bFwr1CeH7eXglmGohP0cP6f8dcFAr2v7qka8.ODB*nUb*DLm1vBaNbtH.33CWXGPo!/m&ek=1&kp=1&pt=0&bo=vgZ2BL4GdgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=682d1b7b863903ea85cdb3f51ec4d2a1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR2EcmcCshwV5c9dZkJ7aUvlLbIx0xNYppO34rzByyvFqqZfknkXQBdl0r0sKKsxnn4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=415535eea703aee18c81429eb94a1ab6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR1hSwu8oiwamVVud739WTWWe0RVCdWuA1tTkKHp3rNDweY6IsG45y*jOfcBe63Wz*k!/m&ek=1&kp=1&pt=0&bo=tgZ0BLYGdAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=c8779a35d6d119aaacb2c34d2d62e352&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR0clny*bnQSjHGnP6BbSE21e6FGZw.xdEhBkrQYn76XMbTDeEMVRgsSprbCWWmxVZc!/m&ek=1&kp=1&pt=0&bo=tgYSBLYGEgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=7e9fa4de21f57bde27c6d4243aeabd8d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHLYheuO7OXNJBsuO3K4eR0INnPVczaILWVQHxH*6LwvIDjR5fOL.NliSrTdzwsxYSrSCkDUuVzayzvmPtBDwFQ!/m&ek=1&kp=1&pt=0&bo=wAZ8BMAGfAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=7008f53c3660239237b0f1f7ae0f89ff&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMODkAaVcTnQDehuHp.zAWoQtfsmLkJCGPkcOyBwr2p4YBwjj*D6kez96KaZ9Y00k8cR0s0jGPuCX.tEkpwdffE!/m&ek=1&kp=1&pt=0&bo=ogWAB6IFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=1be1ff4eecbd07e0b014c29bb8c69a63&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.i.spQ6Z.lhY.yU5nAwFE0XL1.ILXInZdq7eXGIWay6lYAT5SDoh7j*NE9ev32o9E!/m&ek=1&kp=1&pt=0&bo=QAb0B0AG9AcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=f477aa64149452c43e24b5736129865b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc998LgEkQhXXEXBq7jLIP6vWKSSt9VTBQtrmsnTI3mLKBBn2uqxkz7.HvedwTs2L5s!/m&ek=1&kp=1&pt=0&bo=ogWAB6IFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=63a40992b94660e919b71e6d5ff93dcb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc9LppEt7WaRIW2USUktKsSHUBasFGX4mUSvjP6y28SjLOSCt3CMC44yp732WrdR9g8!/m&ek=1&kp=1&pt=0&bo=5wPuAucD7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=1b94caa1955199de8584881f402304f9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc8B0PrB3emo9YkABUlWjKn9VTZfP6Ck5QSSmX4sWcGRiTLcMBBoeUUUOyA11LSq1Zk!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=a74ff0f6259d607175f5b59dff077de8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jR.cJRgLi3GAEigdQiGZ2lywwlS2CZwY3D7ybu*nikEJ23QscrK9bFUOv0P73GRpuQ!/m&ek=1&kp=1&pt=0&bo=6APuAugD7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=87da7666552c7c55f1a41938e609486b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jQ971ZugNzwL22VpuOdirpJWS8UwYRkB7eToyBTgAX3ZgyblpsjMmKPUG44pUye4x4!/m&ek=1&kp=1&pt=0&bo=7gLoA.4C6AMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=5fbef429c946bebcd9623ceca15e0fd1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSX7WCoWWwJRQzW7LAgHTC3TWcddyUgp1gDhUHCmPn2zKJE2Zr8fC3s7OavF11WfAA!/m&ek=1&kp=1&pt=0&bo=7gLnA.4C5wMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=7d3cbd898ad552e258e70e034d59da5c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSEFG08OJVnCDR*AH3douM5kNe*Tb4DCP15UdPJ1L.41G0GU6lJZMFSpiXihssKZq8!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063399&dis_k=6c52969a32645d9b304409cbb36c638b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mMGRcQP470JIo1aObn*ahkx.vqlsQEJuJuBge74sSy8.wFi4vIQ0Q.m76fZSBI3yeUF3KQGXIjvr1XGIDqpWaQ!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=58a8d9436d01b9e08acff45a69bfdede&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz*c4B2.J0WDnPHsGGNmfVh4WbHKkrJmcKZPZoBrW3OoCtO2bFZw28y*Pin3ogNcqJ8!/c&ek=1&kp=1&pt=0&bo=BgdEBQYHRAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=31c3c727f2b11b8946a9486307f00293&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5e*MqEmMvlAe8XAjWeJi5Yz39Ma29zQmE5uhrj.vksXhEugV82cOOSXoy4nuZEzL9Q!/c&ek=1&kp=1&pt=0&bo=XgHSAV4B0gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=bee7aecb7ac83816c8cdcdeb2ab71397&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpqfUnccI.H*N16cyNkHg43OWYRd5fc2SWu9ynVIjkMUR5qrByWTwJFnZe9QqkcoQYLECt98aLK28IVOxtcrmk!/c&ek=1&kp=1&pt=0&bo=*wSqBv8EqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=f258b3b5c96f163a17c2f45b54f267fb&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPq.jYqX7C2QsURWQAIDlyUsWgsI.av0**4QHSPdFrCbI5K5BTWwHXVmKN39JdfIFjk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063582&dis_k=69bdfa3ff2cda2074de0a676c7eff71e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPp3upfytWWx2390AP3IAVJ0ttTmzsC7K0EoKiMIWMb6brWHzdAoxgbywmdFJaeWgoQ!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063582&dis_k=28c2df559b76960d1ef4265b0244fccd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPrXS7y2YMpj3rKQC9nj1.8h3m5RD6Jm2CwIOPc4UmPNJAVUgovbcYp6cBNiB*1IDh8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063582&dis_k=f6d1888d9aa4c6324e842a631c43591d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8ECxtZkDupyK6mEindQvbuAGczbO21wwNSDGOfCrLXFhNHXguuYpLHFFuf8uvXQ3SM!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=eb3ddd00d6214e32e7cba9fa03da553a&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQudS.QIxbe.f3gPfyCuWLX52hJGeXwYx0NgaNp7oGA*wt41kAbLhXC03Cbuq2ZcAU!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=42e6814a4c55dfb39b47fad0381ecdaf&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQRpOL9B48eO0PQqnbwTciKG6ygKMvC*fA*7ZsOXcRqXdhLmaqRXlEek3ltm3hCpWQ!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=d651f0a1b5e430c215676e6f84cd2a96&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsR4U4CVet5Ai4tZxsb5c4ByoAc9B75ULCGPnfJuyDqarcyvIXYIFePKr8oILPe7sFM!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=cb4f53be0e8f0df1f4a85f2fe62c72c6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.Js0kUzGMERYtyCJfXSEZt9.4YK8xvEkF.Z2jASVI8gVpfzRNyfkTueP2eujp853Mk!/m&ek=1&kp=1&pt=0&bo=QAZgCUAGYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=75931962245462122dbca040509796fd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.JtYM9WeMWGeK0ghjSItPuCxFZCSUHgvWHaRl9ezs4ma5n5d5ejRYcc4haVcfP38PY!/m&ek=1&kp=1&pt=0&bo=TgdABk4HQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=182a9775f7187404d016816430093ae2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.LsPbB11fLZSd3H1V8.Q70jvqAlRND1iNMKyXwdsmVE9djpCldtxfIyiGDnDytvzTs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=fcf94f3ca930d307097aa8c218c209fd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.KA6o2iAXC3FYHX8AVs6NQAnZwQQom7*dOvftlMinJEMtDqidfw.G7QIJeolfKbOIs!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=aa4cb6a148c86ec63b2390386e85e1b6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdU4Gr.RuY5CQcT*zRAxy3N7jiylR6CBsMrekeMAbo.07WbReqedQGjpl4UFd6clCPg!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=3d8a392efb4347ec3e1d2cfae191f0b5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdVuN*3twyI1QJ.72DozvhP9lheU8JC6ZVxMoA0U2czt7Lab.Q7TN*b*SWulnB9IHRI!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=ad684df3619e01f1572de6d121906027&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oG9OTfwdrN6EuDJcWkvZu7.qi2fa*Q1AxrVYj.wDeQcdknu6RxNHFI7nySudjYfLD6CrGU8R5AuJUa4kET7PmQ!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=f790e47bed24a1998108f64d4e6842e7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oG9OTfwdrN6EuDJcWkvZu6fkXBgRNw7QCFg2hiEfDWNickzUA4ULjV0j3wN6CALCTev4P4LHl56l*G4flcfjdE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=8d94411776801f236945ff720f0098cb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsSu1N2sDZbF5gblOviEC7UUrhpVHX6K8nQjoa.Jeen9iPowEjEVSVr5ljx5HHZAPK0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=73f63f5199e0bf11df90200b44df1635&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQZ4l794cWPwWvyb6WWvEtHPlevvEVpn9cdrjGth57jhaPcU6CXYTKGxXV6tD24jH0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=15708329fd22c3529de12818cbbd8608&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsS5M4OBDSQXbZ6yqrdWC3gfqeC.qLZeEsYmUq1ZMLBxqvFtcx9.zu885fUOcJdJG5I!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=ddcd90e1fb46c0f01c9aa640a38cfa24&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsS5ut*MLnVsUOmi8e1tHHtEKaYX7PeZp.9Xnqz2jeb2qacuzEau..ncxGHo.nHzr34!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=55b0289fa96c73423d701c1e27b6a36a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3xioI6o52PuKVca8GZONSnmcm354PBIzX*3wxFvvTTfsSCBIFphZnooUiKxVfQJauI!/m&ek=1&kp=1&pt=0&bo=gATHA4AExwMWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=5385fcef36488e32aedebf4d5d107ff2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3z*QbhS1ITjdHGEbYEkNUFSp8kEV260.oyGX6k96uhSh1xGgyLnNoTEik8dK5MPTwo!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=b9fab2b8940a0383a963e37d081abc05&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3wSsgsbWQRlHcWt8MSZE6FexoVhsApscm36ynWxlDLPlSBK7Tl1Rs*i.zGCZmfAfNY!/m&ek=1&kp=1&pt=0&bo=nwU4BJ8FOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=20f766669ffd37dfb2122a765f976281&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3yq*amzKPzAjh.cRim.KfdhZQCmGZWjjV*Li9TOAvXaGwhj67uaS1pVqmicw0PZON8!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=608b0302a049d2ac12cd97b0adab9cea&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05VtIpXkUNRRjlWsyzU.3q.E961SDSvrJw2eVhGsrEo.bOLBRwygo3WAOp9seV3ftX0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=56b04fcb7b8c4c38f4799a7197d1bd6a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05UWQTqkZeO8Kz1mUiopfkPDfSjvNbsOAnSA9p5hb4MggPcmnRsXhJCyoA95Y2FaAsw!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=945a979bd66adf76bc86e904000d4469&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05UDvM1Y10sMI9DNpi6h0NBB3pi*L47iisMSJ1bVRUCOO23l*SsmPtJucpK56TH*KbY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=620a63f6846163f1ed9671b3ae1a2f60&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05VkWWipVFZ.Kfr.ivdyW8nM3kqEycVM9C5Dw4JUsqGrEDAPfmbbPWsIo9eARESbDEE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=6f43c7a71d8de5ff154070fbdd58310d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ0WJO4tpExc6cgZ4nFzj.gyV1atAO95HZAzST*mUUCTSc0qd08elyas3mgJh6TMz4c!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=f7eabcd1f79e70066f3ec47249f09462&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/0e4d8238e089f551eda1.webp",
+        "assets/images/qzone/0cc4c90eadc715eb5362.webp",
+        "assets/images/qzone/055310877eb96b5f002d.webp",
+        "assets/images/qzone/97096e1476ce2c865241.webp",
+        "assets/images/qzone/94d0dae0cf12a3919627.webp",
+        "assets/images/qzone/46c4d7fc6aeaa4ad0aff.webp",
+        "assets/images/qzone/ee5a407ed732c15aa4df.webp",
+        "assets/images/qzone/23bb4d1bd817f567fde2.webp",
+        "assets/images/qzone/de96e03820a2a8fbbc98.webp"
       ],
       "eventDate": "2024年9月27日",
-      "meta": "2024年5月18日 19:43",
+      "meta": "2024年09月30日 12:50",
       "qzoneId": "fct_3597948372_311_0_1727671813_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "body": [
@@ -1477,15 +1278,15 @@ window.labContent = {
       "title": "开放原子开源社成员参加华为全联接大会",
       "description": "2024年9月21日，开放原子开源社的两位成员黄紫妍和徐晨璐踏上了前往上海的旅程，参加了备受瞩目的华为全联接大会。\n会场内，来自世界各地的技术专家、行业领袖和创新者汇聚一堂，共同探讨最新的技术趋势和发展方向。社团成员们在现场聆听了多位行业大咖的精彩演讲，深入了解了Open Harmony技术的应用及其未来发展，受益匪浅…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEMODkAaVcTnQDehuHp.zAWoQtfsmLkJCGPkcOyBwr2p4YBwjj*D6kez96KaZ9Y00k8cR0s0jGPuCX.tEkpwdffE!/m&ek=1&kp=1&pt=0&bo=ogWAB6IFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=bf6b54307080db5dd2972ee22ad63912&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc.i.spQ6Z.lhY.yU5nAwFE0XL1.ILXInZdq7eXGIWay6lYAT5SDoh7j*NE9ev32o9E!/m&ek=1&kp=1&pt=0&bo=QAb0B0AG9AcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=f85b890e24b4f4ddddfacadb92e05789&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc998LgEkQhXXEXBq7jLIP6vWKSSt9VTBQtrmsnTI3mLKBBn2uqxkz7.HvedwTs2L5s!/m&ek=1&kp=1&pt=0&bo=ogWAB6IFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=8f0cfb4dfacb13cf65ad7e7a011aad2d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc9LppEt7WaRIW2USUktKsSHUBasFGX4mUSvjP6y28SjLOSCt3CMC44yp732WrdR9g8!/m&ek=1&kp=1&pt=0&bo=5wPuAucD7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=77f6e929f44e7afb226eeaa4fb089a44&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEHn2ZnRxW0iKmaCe8YjHxc8B0PrB3emo9YkABUlWjKn9VTZfP6Ck5QSSmX4sWcGRiTLcMBBoeUUUOyA11LSq1Zk!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=5dc4d24c7697460dba1dee41e439ffd3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jR.cJRgLi3GAEigdQiGZ2lywwlS2CZwY3D7ybu*nikEJ23QscrK9bFUOv0P73GRpuQ!/m&ek=1&kp=1&pt=0&bo=6APuAugD7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=5040f44aabe169e4b17c55edfaf959c5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jQ971ZugNzwL22VpuOdirpJWS8UwYRkB7eToyBTgAX3ZgyblpsjMmKPUG44pUye4x4!/m&ek=1&kp=1&pt=0&bo=7gLoA.4C6AMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=7ae3ab4b9bc64d4f7b047263d28f4d99&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSX7WCoWWwJRQzW7LAgHTC3TWcddyUgp1gDhUHCmPn2zKJE2Zr8fC3s7OavF11WfAA!/m&ek=1&kp=1&pt=0&bo=7gLnA.4C5wMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=90e49331ebaf8e0204b43c464b87fa1a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEG1VSnx8cR9GnBZ7PzAf5jSEFG08OJVnCDR*AH3douM5kNe*Tb4DCP15UdPJ1L.41G0GU6lJZMFSpiXihssKZq8!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066358&dis_k=b089c0d251cb9acebbbbc2178bd4d018&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/4b916642c0d1311aa903.webp",
+        "assets/images/qzone/9bf5a505db5a121b08dc.webp",
+        "assets/images/qzone/acc9948cbdb8787b74e5.webp",
+        "assets/images/qzone/209a3979ab3e36669cf8.webp",
+        "assets/images/qzone/e248c58e0aaac3ce4a8e.webp",
+        "assets/images/qzone/0e49605b8031274f8a7c.webp",
+        "assets/images/qzone/b45e9ebae9e6b88ee750.webp",
+        "assets/images/qzone/13d5bd1d2d0babcb9749.webp",
+        "assets/images/qzone/0ce6099ef80435ff74cc.webp"
       ],
       "eventDate": "2024年9月21日",
       "qzoneId": "fct_3597948372_311_0_1727449386_0_1",
@@ -1495,22 +1296,23 @@ window.labContent = {
         "会场内，来自世界各地的技术专家、行业领袖和创新者汇聚一堂，共同探讨最新的技术趋势和发展方向。社团成员们在现场聆听了多位行业大咖的精彩演讲，深入了解了Open Harmony技术的应用及其未来发展，受益匪浅。",
         "大会还设置了多个互动体验区，社团成员积极参与，亲身体验了虚拟现实（VR）及运用国产技术实现高度计算模拟真实环境等前沿技术。成员们纷纷表示：“这让我们更加直观地感受到了科技的魅力。”除了丰富的知识和技术体验，社团成员们还与来自不同背景的专业人士进行了交流，拓宽了视野，获得了许多宝贵的建议和灵感。",
         "此次华为全联接大会为开放原子开源社的黄紫妍和徐晨璐带来了丰厚的知识和技术体验，让他们对未来充满了无限憧憬。开源社成员们期待未来能有更多机会参与这样的高水平活动，同时感谢社团的支持和华为提供的宝贵平台，开放原子开源社的成员将继续努力，争取在未来为科技领域的发展贡献更多力量。"
-      ]
+      ],
+      "meta": "2024年09月27日 23:03"
     },
     {
       "id": "qzone-40",
       "title": "热烈祝贺StackFarm软件创新实验室一支队伍斩获第十三届软件杯大学生软件设计大赛国家二等奖！",
       "description": "2024年第十三届软件杯大学生软件设计大赛自四月份赛题发布以来，全国各高校师生广泛关注，约8000多支队伍，20000多名大学生参加本次大赛。本次软件杯设计大赛决赛由江苏省工业和信息化部、教育部、江苏省人民政府主办，多高校、多企业、多部门积极承办、执行。于2024年8月20日-23日在南京市南京航空航天大学成功举办。\n…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEPhNQrW84.GiZMyRLFULlsJ*Uv3oirXCXEGcLARj5mM0k.YE9CNuf9E1Myl6QyFRIPH4VFtoDSk8cK2TcsYsv7c!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=9b5673cb750125fc135b9abd729dedfe&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWneB7m2pgsj7cgYCSJVSqmPEI8gsqkw5mE5qPuD5Oef.PnWzfWt3C4Y5BaooIqTFY!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=a4e779222193b6c4c8304aabd2f8878b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSWXfuAG5UFEkz1oaNOnvUC8PeZL7RidofiTWQaLZs0aw4*EaxGMHgK8i*81MF0vGAw!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=99ae5a8665a161c657884d5e5843a96b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUPH38YYCXSKDVxM9IJfWEuN8AZgwUisA*zzEkh2kSKl0XNkQKbcY7sMSUt3RJIDSc!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=53a9e7d637d5c0f5617cda0091f9ca3f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEJFLjh8xdiqVNlnL66KEoSUZpxZQtLm7HLwDRkIOye2Uil62KHHRnoPMGn3KJ9NHPsh8AqQ8TRfT27rZUtk9la8!/m&ek=1&kp=1&pt=0&bo=IAMWAiADFgIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=ff050bc4b2da04056808c7e00637e74e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXys8PF6f7VtF6N900EKm9KgXdh9CA.ko3Ur2eA1fnTJwsUrAB2VcCOHJqYa7*Fb9MBQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=cf7fd5d46d49774d2f1c074925fc2ea4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysRC0kjNVuGQtIVqg0UC1oRBSqDHeUwa0G0EgqZZxShULv3Fbs4CGrQc45EDYIWRBU!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=fda768a4e71e8339f0408d9b32733126&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXytRpnjjtW4nOLhwu9hLkXLgmAPgmYFKAz7XzdxouZC28GPDvUQUSuv1XjMaNbBR2JU!/m&ek=1&kp=1&pt=0&bo=OATSAjgE0gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=b604beefea2775787da3ee45ae0e62ad&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/TmEUgtj9EK6.7V8ajmQrEEcoGB7pI3BOCR.oDr1IXysTUMeU9GzJOHRdwc8F3PEBG6NMxvx797AFFdaL61yNIKSUVUM3KHR5fFm22iJWEoU!/m&ek=1&kp=1&pt=0&bo=OAT2AjgE9gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=bfc990dd3ab3ec302d12e59946186d52&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/99acca785d9daf90bbdd.webp",
+        "assets/images/qzone/e90398b6a4fe4420b0eb.webp",
+        "assets/images/qzone/7113899a8c1f17249a11.webp",
+        "assets/images/qzone/949cb0aee58930af4b67.webp",
+        "assets/images/qzone/7f40e8352dbe08d9a020.webp",
+        "assets/images/qzone/a9ab53a63a6927eb9e9f.webp",
+        "assets/images/qzone/172836ffaee09861ba39.webp",
+        "assets/images/qzone/a917bce24f17e553f2ce.webp",
+        "assets/images/qzone/2aa28f8edee460281519.webp"
       ],
       "eventDate": "2024年",
       "sourceUrl": "https://soft.jit.edu.cn/info/1033/9392.htm",
@@ -1519,25 +1321,25 @@ window.labContent = {
         "在本次第十三届软件杯大学生软件设计大赛中，学校获得优秀组织学校奖，本校软件工程学院共三支队伍获奖，其中由实验室成员岳金戈、吴芝瑢、秦梦瑶组成的团队凭借作品《界联》在基于国产操作系统的应用融合软件赛道中取得了国家二等奖的好成绩。在新的学期，实验室的学生们继续在软件行业奋斗着，不断朝着未来努力着。",
         "在这个充满创新与变革的时代，软件行业如同璀璨的星河，照亮了科技进步的征途。实验室的成员们将再接再厉，在不远的未来创造更加喜人的成绩。以代码为笔、智慧为墨，我们将继续努力！"
       ],
-      "meta": "2024年3月10日 20:57",
+      "meta": "2024年08月23日 18:20",
       "qzoneId": "fct_3597948372_311_0_1724408403_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
     {
       "id": "qzone-41",
       "title": "实验室举行 2024 年度总结表彰大会",
-      "meta": "2024年7月4日 20:25",
+      "meta": "2024年07月04日 20:04",
       "description": "7月4日，StackFarm软件创新实验室在科技楼2-311举行了年度总结表彰大会，上海杉达学院副教授兼院长助理祝欣蓉、江苏恒为信息科技有限公司CTO崔春生、软件工程学院党委副书记徐斌、教务处副处张文妍、软件工程学院副院长徐永华、软件工程系主任以及StackFarm软件创新实验室的指导老师洪蕾、沈维燕老师受…",
       "images": [
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPpuw1fmXpMYqmvduy5dZxpTNS*8EEBf0ba198pTeiLzeh*nWrD52xbNknKVRkLLOLM!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPrdCLGKMHtX06OKjcnTYoPocBVtdG6XB44nYfOJ3ebUJX6HEtin2y6ks3x1Tnf8ou8!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPqrpJn2Vw3yjp1Bn3xlMNXVQ9cSVzdDOFiiWg1illt3XhV6WfRagStUExxE85dQGBA!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03dwemQzTb.gPSXUYbojLhb6EajnA1SB.fWkGGdASTeAJZWH69yltukrD1RtIRPNTl4!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03ew.beY*xdjVYjjydMgEQEb9j*5aTjyBOZ48EGftjXP5k7inPNO2YJl.ftx*VHDaVg!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03cHEZWp3d3aHQT8nQstn4iXP0zX93uptuz1*IW3lkjqvlwzkbRMCCdMpSIZ8GGPaDM!/b&bo=CgVAAgoFQAIWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03egTEvLe3mFPMhjs7uKBELCce6wQ45eDBWICfvYuv7.QsJyjiZ.qCY32KbpLZFL59U!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sGKj0svd1QVuPVmfE8Cs1xhX03v9FT2HSFS*WRN7cyasSkRy*LaXNQXpXl*rdFdyLHA722a22um842Kx5Nhv.w!/b&bo=YAlABmAJQAYWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sGKj0svd1QVuPVmfE8Cs1wiweHKM9Zkp40W0RlTmeQ0xpx6IVrngE8i8HBQ0vg5xOe0DePBrlnL3Q7EEznBgcg!/b&bo=YAlABmAJQAYWECA!"
+        "assets/images/qzone/626bc67d8913a023b655.webp",
+        "assets/images/qzone/adc5c575834157669ce3.webp",
+        "assets/images/qzone/96a5febeb5bc338a0e8f.webp",
+        "assets/images/qzone/3ff79d93245249cfef11.webp",
+        "assets/images/qzone/faefd34689cda8b40c22.webp",
+        "assets/images/qzone/20e85dfa8f140036572a.webp",
+        "assets/images/qzone/da0ec81bb312ea060c8e.webp",
+        "assets/images/qzone/ead822ed87d3a80ab69a.webp",
+        "assets/images/qzone/a1d71246bcb03507fba7.webp"
       ],
       "excerptOnly": true,
       "qzoneId": "fct_3597948372_311_0_1720094690_0_1",
@@ -1548,44 +1350,47 @@ window.labContent = {
       "title": "2024 年度总结表彰大会提醒",
       "description": "StackFarm软件创新实验室2024年度总结表彰大会明天将于下午13:30在科技楼2-311准时召开！\n欢迎大家的到来，感兴趣的同学也可以扫码观看。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPoCMVaj3CXQqtntjnO9aHET22t9.kvxy.os4vAGt6yFUof3jlzeggCeWeQ4bTMCXy4!/c&ek=1&kp=1&pt=0&bo=OASABzgEgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=ca499b68a785d771365a067bb6984aac&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPpdhgFjPQFFEWLJ9EXkWIUeYfHBg4NVAFzhl.vcDhKx.SSSqtGiVFSKhF8OxCnQLRw!/c&ek=1&kp=1&pt=0&bo=iAK6A4gCugMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=803b999143d6c499cd466ea2e41c3ac8&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/dd2dd4c2933649960516.webp",
+        "assets/images/qzone/db7b50f7e8640a6d1af6.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1720010459_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年07月03日 20:40"
     },
     {
       "id": "qzone-43",
       "title": "2024 年度总结表彰大会预告",
       "description": "StackFarm软件创新实验室2024年度总结表彰大会将于7月4日（下周四）13：30在科技楼2-311召开，路虽远，行则将至；事虽难，做则必成。让我们一起回顾过去的一年，感受我们团队的力量和凝聚力。\n感兴趣的同学可以进入腾讯会议，进行线上观看。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sGKj0svd1QVuPVmfE8Cs1z57uvNtP2EyD8SldvneAJaB0FvMbDPKn3yj0.bK2EwfKbYxilr*FFyh7pVqxuz7IE!/c&ek=1&kp=1&pt=0&bo=OASABzgEgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=fd9c055725f30358747637de0d5706e4&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sGKj0svd1QVuPVmfE8Cs1xpEC3sH5LXw*DiGodJOeJWzCxITKhxCiEiniGV9TcYT3DKproHEInkOG.OmD8RD.E!/c&ek=1&kp=1&pt=0&bo=FAXsBhQF7AYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=1f2486bfae7da73a0c4b92217607deb7&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/b3bef049a657a92ba15f.webp",
+        "assets/images/qzone/b38834b95a2ab5e6b04b.webp"
       ],
       "eventDate": "2024年7月4日",
       "qzoneId": "fct_3597948372_311_0_1719572180_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年06月28日 18:56"
     },
     {
       "id": "qzone-44",
       "title": "实验室收到电子证书",
       "description": "收到电子证书，感谢基金会的肯定，继续努力。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3w9hZ3BPsx.FtS6Itl1Ha6mMHEKDbnN.KgSdx*Z3SD2xwt8Rd*6U8vyXuPEXzJue14!/c&ek=1&kp=1&pt=0&bo=QAbWCEAG1ggWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=c8d08a2a18dedc404703a4182fb7cc53&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/4d0fb48a5441bf94142d.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1716867594_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月28日 11:39"
     },
     {
       "id": "qzone-45",
       "title": "实验室团队获服务外包大赛华东赛区一等奖及二等奖",
-      "meta": "2024年5月26日 10:37",
+      "meta": "2024年05月26日 10:35",
       "description": "喜报:中国大学生服务外包创新创业大赛华东赛区总决赛，实验室三个团队获得一等奖1项(成功晋级全国总决赛，无锡见)，二等奖2项。\n恭喜团队每一位成员。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jV.OCOuLvQipdCIRJR8RR20nKgoRiOi1N.24I1yIBJESaFQdCxJ1NsUOCQM7a5gBU0fdM6SCLiko1vHZZID.78!/b&ek=1&kp=1&pt=0&bo=gAc4BIAHOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=af001e2ecfc56d36c089a9d1392e4aa6&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3zENRwy2FfIvfMaQNWuu63qs3oJzSoEFRmy0rS4xIRLZRIAGPoMk.biKfj.v7JhXJU!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=5bac9ae18942b7f4e68fd0158b2b3b18&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3x9ZbBs5GscFmhqGGrp761XGlYEFzFpoExioHFb1kq5U42K9RYPRBhOiIW5gQU9Rjg!/c&ek=1&kp=1&pt=0&bo=VAhABlQIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=53df04486507040f0a18412498127a3f&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3zCr.ZIEU0bLfNvu*Ohpb.XnHgY7vqJdNRlBAVeyvBZUJj5uOubfwtbg8Y1OIoQS2w!/c&ek=1&kp=1&pt=0&bo=VghABlYIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=79a4bbab7acb8016f45d39b2e0522a09&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/ff381608e638ab1a20ed.webp",
+        "assets/images/qzone/38ba24d53bce4ccc348a.webp",
+        "assets/images/qzone/e57d03063e0268a50766.webp",
+        "assets/images/qzone/3e0856a68310cabb86eb.webp"
       ],
       "sourceUrl": "https://soft.jit.edu.cn/info/1032/7892.htm",
       "body": [
@@ -1600,18 +1405,19 @@ window.labContent = {
       "title": "享受过程",
       "description": "享受过程。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jlErVzeGfhXZbyhTp8CTZdEwKMckq4tFwoFGFOMGpzSiLYadeAvrAUxgjVdMta55Ul00EkWiJYd8LAd6Ei1.8Q!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=664cd29e15011bdd6b253a41a284a1b4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jlErVzeGfhXZbyhTp8CTZfq0kWpZmUU9VAOoNwXBHmrzJRg*hsR6M64sjEhlZOP37USAqATFzLyBkN7LuYPkC4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=cb215a5d14b56cabde4119ad9b870502&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jlErVzeGfhXZbyhTp8CTZeSVTbt0lNmQ8q7gPy8vzfCcaG1H086cLpZGJVUpm0QLwoYiZyo2e*bvb7.RuydxzY!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=6853ef5d89da7968fa6f94903880eb9c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5n9lvy.UhC.X3qU3tzaVsdHnaft7HUF6QRHu1*Vb9CiMDbT38J4EqJ4R5PFtLpahsCFmY7GGF4J5SMtj12skP8I!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=c4610f46401bd5c483d57ce24b192f1c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5n9lvy.UhC.X3qU3tzaVsdHGYWrZcFFWOyqdvpvKJt1LowXrfoLjEH2eAeHVBkUFo1njIEhhMmyVXi*jVTM65qE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=065bda8dcfb8f1a356ea5d165a75175d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5n9lvy.UhC.X3qU3tzaVsdFIWzgyJXgPIFbf0D*AYFgnCehbwaAKQnLsL1lqNMFE7degegL.7I73VpgFxP5Wsl0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=446a7115e5c248068c55023319d203ce&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5n9lvy.UhC.X3qU3tzaVsdF5cycnCYdoBOhZhqxim1Y62Ugkp2S7q0asgI0xxgzldUGT2e4X1cwHsgIktp7ocxM!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=077d1efc6515c846ddb477e55168596d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8FbS4KsUS9BVRrKZ*DDZPCk*ZKERaSq5bup9gE6Vvq.E.7Q4fT3bNMbRYDTLxI5xR4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=267ad7a1c930e41e7e2e9907f859d470&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8EQ39EnTVNDlrHoX21XouTN8TLk8Jdre03e1sRnPvBtK5mGjXcYdNZ.aYefCCjkUTQ!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=55b61f30555c242c74136b66019c5bd5&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/f74cd244ac8f59dbd70f.webp",
+        "assets/images/qzone/02e07cf51e5cea5fe644.webp",
+        "assets/images/qzone/9b649fe23b356947fd63.webp",
+        "assets/images/qzone/12b1fe290852f4a7351b.webp",
+        "assets/images/qzone/f697d9a84deba7680755.webp",
+        "assets/images/qzone/8905bea83bf90fa0420b.webp",
+        "assets/images/qzone/3694c34a4115865c1830.webp",
+        "assets/images/qzone/b5ffb3be87f89d672996.webp",
+        "assets/images/qzone/8b98e2417407f1cf5b9b.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1716606833_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月25日 11:13"
     },
     {
       "id": "qzone-954ee8769c92",
@@ -1636,15 +1442,16 @@ window.labContent = {
       "description": "2024年5月22日，StackFarm软件创新实验室成员岳金戈、顾王凯、李文权、张宇鸣再一次前往南京市江宁高新区中学，本次课堂，他们引导学生开拓思维，他们天马行空，构想了自己想要实现的场景以及功能。 期待学生们下节课带来的对于自己的想法的分享。期待着四位老师和同学们带来新的思想与活力。",
       "eventDate": "2024年5月22日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oUCFm.pPg5T1SaaAS9Tlvm3Ka3VKShlKJQqWcdjwWdBua5zLhg1DU1jInKUFklwxcLOZd6IxNg*yvW4YD1QsxE!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=b668e319d92389752df7ed7986d8b181&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oUCFm.pPg5T1SaaAS9TlvnOuMatgyGDeGNZQrwBlr8vnn2KG*Afy6z5syj7iNOr.IonisSw2qgKUq4ClwBWUIU!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=7338812cf8ca5e0d59625f6a94f2e4d5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPonF67MFH4IZsPHrFNd6y4*2Yv362ufKD*m7Yr5ecyGKEdrYKFba1WCMvLA8QRDCZM!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=c94fb5685f91be700759e1e4cbda7bba&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPoBaIzWYCc6NVCxtRatHzqtc2i5cgQiwjdMylavoyJ3jBvCsXSiJs5RNf26uAmHVAQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=17e64c5bff610166bcc747425a9feb17&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPocoe1Ny3JqCW*AaOYODrs.IAzu7Ita48BI6lfAV2WN2ybgWQGGQYisouNNujGPRTA!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=6ede7a14357c954fd779236a8322ce9c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPoG5itFoPAvJHOnfPMobl8sYyUACvA2WfPrTN2Vu3BBYJ.5ZRLcgk.vTSGKLZO*e.I!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=8be17507be644306144187698805e945&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/70edc964ff04e44e6352.webp",
+        "assets/images/qzone/9e0196ba2188d7972a96.webp",
+        "assets/images/qzone/c59116d9ef847fe0743b.webp",
+        "assets/images/qzone/5ab5b544303ce6c81480.webp",
+        "assets/images/qzone/ea8bd969e95462ca9072.webp",
+        "assets/images/qzone/410cc51ae3c4ff4f8d47.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1716430304_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月23日 10:11"
     },
     {
       "id": "qzone-9ec6646365ac",
@@ -1654,14 +1461,14 @@ window.labContent = {
       ],
       "description": "每一次的过程都是成长的经历，希望你们回首来时路不会遗憾。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.Jnw10NB2xkV6tFA4QcX2akbbG7cr8m8iB*Hqn3hBGQ81arsk70cLydvSXbixfQDXQ!/m&ek=1&kp=1&pt=0&bo=6ARaBugEWgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=346c22792dfeb3dc216b477beabaacbf&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.LszRW1SP9PYsfoZyJ6He77TVviJHg7XbBPVaYCFTpZiPwfLOgevhu0oQ6OIKiQrTQ!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=ae4bb30b51b2acb9438b71e88628a31e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.K*zLTBvuXkkMIFCIUm4DnP*3VdD3a63OZLdEUZ8HY.sKvAbR*qu0h9a4TTWhW*9n4!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=f6bd26e2726f01aca43ea125fc26793b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.JiH3ybZEYoO0e5DLkKe7pWKBLzG45q8svWYzl8Blflq2YRuTPKcddTAAf5s2D8yHA!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=b04cc08ee3e6f6f044052f2619a1141d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdVrDrPFs2IOKm7MAjE7hzAUDTQouEwhSCWILhRKhgN7d.47mKJBTLPMgp7E*dpcBfE!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=6052325ac764fa6bd782109da9f5dd2a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdWhlQiLv*w2h33Lv3vbi3w8bRv2eR8p7ovnlLncgcIDyZYI0IIC5z94yObrrwlIrb0!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066359&dis_k=13fb88a852ad5f47775c804cb4e6ab6c&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/74110bb537750eb9a594.webp",
+        "assets/images/qzone/3cccac4ca49184233a58.webp",
+        "assets/images/qzone/e7584cdf1355fb43f2af.webp",
+        "assets/images/qzone/dad91881fd5699807781.webp",
+        "assets/images/qzone/f1c36fd80d56cbed1a7a.webp",
+        "assets/images/qzone/0c696c165237e959f1d4.webp"
       ],
-      "meta": "2024年5月21日 06:55",
+      "meta": "2024年05月21日 06:54",
       "qzoneId": "fct_3597948372_311_0_1716245699_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -1673,18 +1480,19 @@ window.labContent = {
       ],
       "description": "积极主动参与的你们一定有美好的未来，继续加油。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmFNN.LUVZEbN82jVQHIr7spPk9sAOZ5c9hnRSwUdjp16cDd0tW9wn0ovGlZhbjuxm8!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=7d1f7cbf4283be4f2f96102a20b4b982&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmEeoFaOLrlRRcefuIR9HUJQQwDmKoqjbXFnfxpDpOhn.2b9xsT8qWh1iHO6zqBjpUA!/m&ek=1&kp=1&pt=0&bo=YAOAB2ADgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=36d59c7a53d3563c0cba30f58dbf9fc6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmGGo0HiD4JtTZkq9bAERBiwrr8h1wX6824P06J0DB24EjwN7GWtQlNWHqsV6MKnw8I!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=6e3d3040e14453155006f59d2a6e94f6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWw39X19tno8Ns0TZp*wRzIPzLtqVOLaWHXKd1vdTuqlTMHHZqAUST8*T6JswNa5xr8!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=5d0ccd0f030fc304cf9cbb69f4ea5818&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWw1vSWI9dOBwUzd3D8QySJhhCpXhiO3hH9NSbqJYbutujw8xCXhrBpiqinvGUvgWDM!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=79bb15b1aefc544c40335810f0417423&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWwd..mIXN6I48UrezEj6DdLZHu39Uar4xkGxMLzHRP39BNs75TiuekUQ3b0JkaoiWU!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=6164cfbddc85127c6a0c790645f07d6e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWywR2*UFIikvajy0OjWVgBNh8TGrJuGtfzriOCsg6WODURzBc*OOcqBxoSjEzAfjMQ!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=90397aebe449a4b685be43d7d8c7b3f5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQduLxcTjUr8kYWRxH0q1LurDW3VfkKvG.qWve6rN6oW2EhyUjT9KLOsgd7fXc.wTg!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=2c0cecf4e5fc2eb9bd1d3603039f73ed&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuRRe3O0UFFCuiFYzsNyaw2I2T5JUYm4inT1o0F6dw5.WQFXcrxOPz6BEa.7y6q5zMU!/m&ek=1&kp=1&pt=0&bo=VAY4BFQGOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=69bd344bd2aef533e61621843a28ab26&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/dae93bbaea76c2bdeb81.webp",
+        "assets/images/qzone/f789d81d25f3aa50e9ad.webp",
+        "assets/images/qzone/b434fce7a8b16a7f4964.webp",
+        "assets/images/qzone/ae0553dd4712af22578c.webp",
+        "assets/images/qzone/791346aa9a936e29f440.webp",
+        "assets/images/qzone/8e6b507df36cd93728bc.webp",
+        "assets/images/qzone/4c58995bba7016834a0b.webp",
+        "assets/images/qzone/a9611e6bc0437ee9423e.webp",
+        "assets/images/qzone/bbbbff3897057e922ff9.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1716062253_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月19日 03:57"
     },
     {
       "id": "qzone-177518d9cb0e",
@@ -1711,12 +1519,9 @@ window.labContent = {
       ],
       "description": "20软嵌4 张家乐\n2022年4月 第十三届蓝桥杯省级二等奖\n2022年8月 第十五届中国大学生计算机设计大赛全国赛三等奖\n2022年9月 第十三届全国大学生电子商务\"创新、创意及创业\"挑战赛江苏赛区二等奖\n2022年11月 全国大学生软件测试大赛省赛三等奖\n2023年5月 2023年IEEE Software Tes…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mMGRcQP470JIo1aObn*ahkx.vqlsQEJuJuBge74sSy8.wFi4vIQ0Q.m76fZSBI3yeUF3KQGXIjvr1XGIDqpWaQ!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=b9b9c031620e75e32beb908a507c8ec6&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz*c4B2.J0WDnPHsGGNmfVh4WbHKkrJmcKZPZoBrW3OoCtO2bFZw28y*Pin3ogNcqJ8!/c&ek=1&kp=1&pt=0&bo=BgdEBQYHRAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=31c3c727f2b11b8946a9486307f00293&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5e*MqEmMvlAe8XAjWeJi5Yz39Ma29zQmE5uhrj.vksXhEugV82cOOSXoy4nuZEzL9Q!/c&ek=1&kp=1&pt=0&bo=XgHSAV4B0gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=bee7aecb7ac83816c8cdcdeb2ab71397&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpqfUnccI.H*N16cyNkHg43OWYRd5fc2SWu9ynVIjkMUR5qrByWTwJFnZe9QqkcoQYLECt98aLK28IVOxtcrmk!/c&ek=1&kp=1&pt=0&bo=*wSqBv8EqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=f258b3b5c96f163a17c2f45b54f267fb&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/6609e5a5706f0d36a79b.webp"
       ],
-      "meta": "2024年5月18日 19:43",
+      "meta": "2024年05月17日 15:55",
       "qzoneId": "fct_3597948372_311_0_1715932553_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -1745,15 +1550,9 @@ window.labContent = {
       ],
       "description": "20软嵌5 黄耀萱\n2022年 蓝桥杯省级三等奖\n2022年 中国大学生服务外包创新创业大赛国家一等奖\n2022年 计算机设计大赛国家三等奖\n2022年 大学生创业大赛省重点成员\n初试成绩：英语55，政治61，专业课一81，专业课二79，总分276，一志愿无缘复试，调剂复试77.38，总分64.07，上岸浙江海洋大学\n…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz*c4B2.J0WDnPHsGGNmfVh4WbHKkrJmcKZPZoBrW3OoCtO2bFZw28y*Pin3ogNcqJ8!/c&ek=1&kp=1&pt=0&bo=BgdEBQYHRAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=7817c115c5acb6a48417462530563adc&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5e*MqEmMvlAe8XAjWeJi5Yz39Ma29zQmE5uhrj.vksXhEugV82cOOSXoy4nuZEzL9Q!/c&ek=1&kp=1&pt=0&bo=XgHSAV4B0gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=bee7aecb7ac83816c8cdcdeb2ab71397&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpqfUnccI.H*N16cyNkHg43OWYRd5fc2SWu9ynVIjkMUR5qrByWTwJFnZe9QqkcoQYLECt98aLK28IVOxtcrmk!/c&ek=1&kp=1&pt=0&bo=*wSqBv8EqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=f258b3b5c96f163a17c2f45b54f267fb&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsSWdtcJyEVk85Dw*MDJzPwP9.MZO.6BIdNXKvE5sxlsOI25MiioUbd4ag5T4xgH8OQ!/c&ek=1&kp=1&pt=0&bo=2AMABNgDAAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=38e3259abe02a6e548ccca5b771dc2f2&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.Ltzfcr3dgkk3Za78YJk1ZZ0eSIQ59ad2IDTyyNsIRaNfrifGunQJzIfADNd3XyTR0!/b&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=3654612df14fc933b5eebb0423c91924&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.L*Lfdsm1oHPONPeBFPADZqXLBH.oMISrLT4yigJ*NhUttk33xxxVv2mC9yKoe.rAU!/c&ek=1&kp=1&pt=0&bo=OASABzgEgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=9b8917b6feb1488732a11b1def232355&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.LMafDzeZBpbpZ6nLCAbo5AJOZHx4TrzF.uA6www54i18AVEhAV1SYahAj8E2jr1Qc!/b&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=eadf891e68b9715bf2ea4657caf0f11e&sce=60-1-1&rf=0-0-0"
+        "assets/images/qzone/ad1bfbe4935d8f4df746.webp"
       ],
-      "meta": "2023年11月5日 13:49",
+      "meta": "2024年05月16日 17:57",
       "qzoneId": "fct_3597948372_311_0_1715853475_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -1767,14 +1566,14 @@ window.labContent = {
       "excerptOnly": true,
       "eventDate": "2024年5月15日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05VQwpe5tBEWAhASQ.rTGBuOow2rQTkyGj2yiICTxIVIHm68IzPZ0cf0UZmXsDeOpKQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=1c11708a743e67bd42fb641f5c9fe86b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ2HNgT3XBse*ebEShh46LgiOKhz4rPZdfkNhO0E8fW9AiHqXiUcn2B115XJTqvY7QI!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=02a623edb1a89bb4855dfe14b4388a75&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ31SchIxScawPzNdrvwV18TCW7kdkSHbTvQaj20xj4ySbEbabzIWGd*dbQMrO4cpG8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=106639e86e28481893762dea7e7af4ae&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ3puUyBJ6twarX8jdoMWb1d258VbScOwI5XzXmht*OGbcHntapU5CvNc0DeqKcIxh4!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=06b65a6bd7792d378312e2f76160f74f&sce=60-4-3&rf=0-0-0",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ3W.5XRpS*5XA5RKh5a1iwhE40.WcWpM7YNgMOoAhtLwlzUflfrXS.JIFr9XnLdPlA!/c&bo=AAXQAgAF0AIBFzA!"
+        "assets/images/qzone/9a9c2e13fbaf51eaf1f9.webp",
+        "assets/images/qzone/d3f7957d58505d73a368.webp",
+        "assets/images/qzone/63da1f4784d88339af1a.webp",
+        "assets/images/qzone/797728c8ea13fab5090e.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1715780107_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月15日 21:35"
     },
     {
       "id": "qzone-824ba5b83158",
@@ -1808,11 +1607,11 @@ window.labContent = {
       ],
       "description": "20软1 沈翔\n2021年 第十二届中国大学生服务外包创新创业大赛东部区域赛 省一等奖\n2021年 第十二届中国大学生服务外包创新创业大赛 国家二等奖\n2021年 第一届词达人杯全国大学生英语词汇能力大赛 省二等奖\n2022年 第十三届中国大学生服务外包创新创业大赛东部区域赛 省二等奖\n2022年 第十三届中国大学生服…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5e*MqEmMvlAe8XAjWeJi5Yz39Ma29zQmE5uhrj.vksXhEugV82cOOSXoy4nuZEzL9Q!/c&ek=1&kp=1&pt=0&bo=XgHSAV4B0gEWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=9aee886d5ff9fb60b8f1c019aa9ecacf&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpqfUnccI.H*N16cyNkHg43OWYRd5fc2SWu9ynVIjkMUR5qrByWTwJFnZe9QqkcoQYLECt98aLK28IVOxtcrmk!/c&ek=1&kp=1&pt=0&bo=*wSqBv8EqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063403&dis_k=f258b3b5c96f163a17c2f45b54f267fb&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/5c329edfec7c216c7639.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1715665460_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月14日 13:44"
     },
     {
       "id": "qzone-b4514f15c7ff",
@@ -1840,10 +1639,11 @@ window.labContent = {
       ],
       "description": "20软4 项卢忆\n2023年8月 第十四届服务外包创新创业大赛国奖二等奖\n2023年4月 江苏省优秀学生干部\n2022年11月 国家奖学金\n2022年8月 第15届中国大学生计算机设计大赛-人工智能挑战赛国家二等奖\n2022年8月 第15届中国大学生计算机设计大赛-物联网赛道国家三等奖\n2022年5月 大学生创新创业大…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpqfUnccI.H*N16cyNkHg43OWYRd5fc2SWu9ynVIjkMUR5qrByWTwJFnZe9QqkcoQYLECt98aLK28IVOxtcrmk!/c&ek=1&kp=1&pt=0&bo=*wSqBv8EqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=7672748a6823cf540e21cab0cedd1938&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/43eb64d1219c470cdb7f.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1715586639_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年05月13日 15:50"
     },
     {
       "id": "qzone-00af92536674",
@@ -1870,14 +1670,13 @@ window.labContent = {
       "excerptOnly": true,
       "eventDate": "2024年5月8日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5m4ry5Tyg8CLV7RSnmtm8Yy*OYjMiipCwf8y4w6ghC7SbMfG34oIwx7MYAHPYQzPjuvlh6Mt7x6J36PMiap1kcY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=d812eac75debd100966dc430e69590eb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5m4ry5Tyg8CLV7RSnmtm8YyweOn7ImUyDjaLd22tnxu.AblOth82Tu5r6QVDOtk7KgpyvjDvDlACLTvn4*qBEW4!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=9cde251127cdb5de065714606d9cda5d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5m4ry5Tyg8CLV7RSnmtm8YwOSslGMoSLa*8oBbZsVE3db890V6v.DVe8GDG1Ulo27ruofJk03KPO79xCqmQtQ74!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=c14aad3c95870ecf0f07d9374cdf59d9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si1bD3.qsbbWcLU7LhLEG4auwvKlDnig9TMRHYBqQSA3b3d8Jv9TSH*Jgp9U5afiSxA!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=741ccec18520ab55ec631de84ca830e6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si03vdw6K4Po8l3zV1A9S*rFhTZ7CqgI0AwXDdbVV.sHXLOybjyuq5qyNKrVw6ejcF8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=c4b62955907885632b0f6bb48d0f477b&sce=60-4-3&rf=0-0-0",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si1ys.syfX3t72fY5VkDoIQhlb4AnEwXmsLLHcUPsoHj2975km9.oH3aSHQYpULiR50!/c&bo=AAXQAgAF0AIBFzA!"
+        "assets/images/qzone/ee007638ee7a4310a82f.webp",
+        "assets/images/qzone/af2198befcec197e985c.webp",
+        "assets/images/qzone/3fd60322fd9b6a590800.webp",
+        "assets/images/qzone/8e123f7eda8e99b2230a.webp",
+        "assets/images/qzone/561606c098f4301effed.webp"
       ],
-      "meta": "2024年5月8日 21:23",
+      "meta": "2024年05月08日 21:18",
       "qzoneId": "fct_3597948372_311_0_1715174286_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -1890,15 +1689,16 @@ window.labContent = {
       "description": "金科开放原子开源社  ： 开放原子开源大赛旨在联合开源组织、企事业单位、高等院校、科研院所、行业组织、投融资机构等多方资源，搭建面向全球开源领域的对接交流合作平台，以赛促教、以赛促学、以赛促用、以赛促创，加快传播普及开源文化，培育选拔优秀开源人才，促进开源技术工程化及开源成果产业化，推动国际交流互鉴。2024 \n\n来自…",
       "excerptOnly": true,
       "images": [
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRynzYGs9EUSCiQ7sinnJ0cllCljOvxlPNLcPOKoSp.QYZbFoxvRwJSL.CUlUrsC.tpE.4UyO5WAWnlGSRgrDZ65Y!/m&ek=1&kp=1&pt=0&bo=OASgBTgEoAUWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=e66e7164bd1229ceee6ff36870ddcb10&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRyvgtl8bvHVSu*Do0dQGgs.vBMMna*JXc7mCN6T9GyYyjS5jqUsPhvM4udjx7By5xvisJz07*lh4LT1D10UzD.ds!/m&ek=1&kp=1&pt=0&bo=KwRABisEQAYWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=551738bc3b1d80f9bedf269669f5877b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRyvfPdGko5ZQL2c2IJLJaqYnCIJ.Gx9qS8DgLlMxa8QMtvL4rH4fl75.h8fE8XeFN.Zqm57RWpjH1RHM9YTT0w*g!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=05461c6e69a8433d5afc8056eb437fb3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRyjDBn*T5Cn5OkYClz3FJy1KP*gEBaBWI2dwK*9TGvujErfkQa7F8yR5EHyTZgyISRe.FnI46xu31T8i3J2OS2gs!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=ac54e24c17ac55075caf1cd82bdd48c4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRyv96yBaDmrsqvslNPHITRu6zSm9lmeNIk5ENWTnvi*JuHAkwCY8iOcKu48Z.vzwDcavqX*5UxZ61vJmu*JS1hp8!/m&ek=1&kp=1&pt=0&bo=QAaEA0AGhAMWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=795bed11a8b541f6c6f6aca6c3a93b00&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/8v1c6OdZLSE3kzDE6fnRyq73pIr2iJMTboCS9JTL*tyFnSWpdk584pfS2L2fLvBB8WnhvZinqIJVl2F8N6Xwa.ZsqHpYljlpV2V8v32bwjc!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWADA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=89ce4a70e0ea819b46d76638b3445c61&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/67d037d477ed76325551.webp",
+        "assets/images/qzone/6ed293326623e719c8a9.webp",
+        "assets/images/qzone/c391e1ece6c36a20a28e.webp",
+        "assets/images/qzone/d2aad78eb5442eaa9bcd.webp",
+        "assets/images/qzone/7ea98c7e8c48ea86cee7.webp",
+        "assets/images/qzone/d2afade86e5b21e89ce0.webp"
       ],
       "qzoneId": "fct_3597948372_311_5_1713673456_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年04月21日 12:24"
     },
     {
       "id": "qzone-3ef46cb7a612",
@@ -1909,15 +1709,15 @@ window.labContent = {
       "description": "2024年4月3日，StackFarm软件创新实验室成员张梓轩、顾泉、顾王凯、岳金戈继续前往南京市江宁高新区中学，与兴趣班同学共同学习智慧家居内容，带领孩子们开启一个又一个创新思路，期待课程顺利完成。",
       "eventDate": "2024年4月3日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5vjWji9t9RZ1PcY7q7O.kdA4qSd0YL1Rqs7wggQ17EIZ8SUVg9J9*b0gh2apFzund02LPAF1prdq9Q5nj5Ia9GY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=75273e6938bf57fe1d735515306d208b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5vjWji9t9RZ1PcY7q7O.kdA.Vzi68cX9XMU89XPP492Xq2wpoqj.SmIAKpqo3GUXNPqSGk.cnvydoK3rKlerd4g!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=f5e50977293ecd836c7443d73d266a08&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz*8MN0udQuZjn64SqJqUoCgNGhKweXkCMPnnq5*RD9zM3XZSLvRP2BQxrjwZ7d9KU8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=aecbe477abd8cf3913d2b6679d1711da&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz.QFRWBQldW.hPOrUchvjH.coGDSZJ2ek*G3HTgvAhXzvnyv.598vsYXCqmIchcP1g!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=04589391183fe9a4e2869efc73033c65&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jpgZ3bpjawO67bHv0M2Hz*Wg3uFiqH35qghRMGaJPAmpQW8y6FPy6ajqTiscom4tyiTbZiQqYIqHGP8.mLmu38!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066435&dis_k=739620e446d6528ac4dd2015a9e931fa&sce=60-4-3&rf=0-0-0",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5vjWji9t9RZ1PcY7q7O.kdDq1VtT0cbv2Cdw9SJ2LwKddtBJzWxFJzEh0hSCMiaSJlIX21Khnm2arsc8Nr5TPQo!/c&bo=AAUgAgAFIAIBFzA!"
+        "assets/images/qzone/9c83e084e7aed2fd905c.webp",
+        "assets/images/qzone/65d173f6cbd1b0aeec28.webp",
+        "assets/images/qzone/9da55a1bb8f1644cf794.webp",
+        "assets/images/qzone/41aca81859f80549f5aa.webp",
+        "assets/images/qzone/3463037c3e81cb67d5f5.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1712140496_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年04月03日 18:34"
     },
     {
       "id": "qzone-5b1989912bc0",
@@ -1927,18 +1727,19 @@ window.labContent = {
       ],
       "description": "调研小分队的幕府之旅，感谢园艺学院两位老师的帮忙。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oUCFm.pPg5T1SaaAS9TlvmuCBKmJUTL2SUQ78CfC84qcp2C3hY3ubU7HujS6lhlWAas2I.r7SC5pxtlEmNIJEs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=f251dffb6ba22f628ae31ca406ff299a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPotGtSoraRf*OhXZ4YPSSG*q6pH46EUj8P5S1mvi4VJa5uzR6bAVaJbrZFMR.DYbHg!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=291c06ac9bcc6ac9188a337a69130fb7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPq6jeDGAgI6om61NzQo42zPhjRBhLCgS1IUSQOduuZfqaAOzpICaNejIRl57d2wWLE!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=143f2f244897eebc57f5e0a2d5722849&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPrbQvitYZLxoXROr7wwFVPxOK15z9fCwYic6BeBdKyJ.5Z4mDDZuC.v*lpTfzqTj7Q!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=c21ab3f7110c30acfd56e48f2bd4ec64&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPo*LM1SijRcjzIQ7Q3sdPQHKpP3Qy6KehpvbrD0WUjtykNW0bOo8ggcwIJ7u6gnS38!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=d4b84e706b27b577c5aaccf96478f479&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03fq*5UUts.xivHb*RVpP5xXTOSN.biGl.R.2qqZ91o0g8bpmhIPzfCcVY6JDuCya1A!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=1d99f38cc8a7dba1df091d2bf16b0daf&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03ddbGcsoJJU1S10rULd474k3ZYE.XktVJIFrI9iY8sgwoNpFk32CM7IJeNdvqgTHxA!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=43aed419ce13949b378d75e509ccea8b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03fvDmujZMDtaM4I*Sonx7ReDHq9BcorZsC*tXWNHGrUAHqJbDVGH0g0HjiARZ*9q24!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=c7d89872a4e11a2bcfb103d3ea75f616&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tTtbxzz0XuHVMShNAjq03fKhRsHZPvDa.RLh0TKVOYKiW1aFf*Q2j.ngZMqxCt*j9*F4Asee9nO4cZDrW877aw!/m&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=d438cd0794c340c5095314d4b39fb212&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/2e159b4e002335199f18.webp",
+        "assets/images/qzone/78517c2dc7e8485d0bec.webp",
+        "assets/images/qzone/6795ecb89b8f9ba2bf25.webp",
+        "assets/images/qzone/269480abd6de58d085a7.webp",
+        "assets/images/qzone/ce4e78e2c6537b02a8b6.webp",
+        "assets/images/qzone/efedb7ad322bf5688dec.webp",
+        "assets/images/qzone/f5110920a29e13d56985.webp",
+        "assets/images/qzone/65afa48b5cc4ffa618cf.webp",
+        "assets/images/qzone/486b5532dcaaa86d72e2.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1712058595_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年04月02日 19:49"
     },
     {
       "id": "qzone-366453c423ad",
@@ -1948,18 +1749,19 @@ window.labContent = {
       ],
       "description": "“2024开源春耕计划”金科院系列活动二——开源系列讲座。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5f6Dhd7dcTaPyWB9HjyRlfYKwi1Ahh1FcTjx.EO1J3TkWhAi4WVJqhu9NJD0lLf22E!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=94dee45a0baae38dcfb64b938b7216a6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB5pke4jJ4duJ*esSHh9ZGKFmqhlrqoabg6NcY*9183hHL1u563kPwuT2EgI81.87Y8!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=e7164a68ffc037a3bf1d233ac04d778f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB5ee03OVFcmR136WI*lWQykGhmNCKoKrKhWhjP7gOSw53SSeGL2wV49ZbXpOfAOCrQ!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=539493c7f6b795e5f550a38f11bd7628&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB6DGlMejERxUR2rEDI.8aWbSleZoOHVGRJAmL4swYn0r1zz55t4uiSsY16Y9WOQzlY!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=faa1af6eb450ff0bd53ec9dbb58ae39b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB6XUXTd1Qkx1mYA78baNvDqflt6dWNz1G9FvoGs0V8*KrFCt2XBaWZBiIFDPilJLxQ!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=fbc589702ffd44903ab8dd2bb129fc4f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmHMJddNmOSvFLNSQIFqexXmvLGDoGm1bgSWBttghOcB*APFCLlz.8vrnBBBBM*bPQA!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=ee6014b09b6001f0103cc084b26c54f2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmHIMkoMzYwwHzfeL*XFrlOUG.*J.wGVFoZgTkppiCyMVAG3tyzVoXfwfNkBXQr6v18!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=6b96c70826d08ea9420f49745880a27c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmEuigx1Vv9mlKmV91mbXmee*WqRhRNBstOzq3fZykOOjvTjKVpomZdPmbyozNQgh98!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=df9f1855d8a3ec0f6a2f657ceb4f0252&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmEOC0IY99f.KEDZW0EXHA.i7w6wGTlIjfGYnmBDye855jdP8xuXWXxZM9JpjU1nZis!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=5c70b971ae3c736f057d38e193696b83&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/4baf89763ad7b2260200.webp",
+        "assets/images/qzone/da77c318c50bf21a192e.webp",
+        "assets/images/qzone/de81c6f71e1b9cd73545.webp",
+        "assets/images/qzone/d4f15782cfd34bc20741.webp",
+        "assets/images/qzone/3cc8823610daa21cfa56.webp",
+        "assets/images/qzone/3f409fda27f643c2d3b9.webp",
+        "assets/images/qzone/257738f78710fce9b7dc.webp",
+        "assets/images/qzone/74bb9f5e71907a2039b7.webp",
+        "assets/images/qzone/ba4baaff71d3457c6709.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1710994998_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年03月21日 12:23"
     },
     {
       "id": "qzone-e9d694b31746",
@@ -1969,10 +1771,11 @@ window.labContent = {
       ],
       "description": "风中百合  ： 欢迎感兴趣的师生参与活动，届时有开源大赛宣讲，也可以积极参赛。\n\n来自   V2164A",
       "images": [
-        "https://a1.qpic.cn/psc?/V12sX7oE1BXYQL/6tCTPh7N*X6CBkvkDvKlZbRigY1FDT0dtrGZWsHGI.duDxExLSkenkgLVJl.N5OM1KRZeVbXQxTmPnS763XVOZcLwIV85k0AbRbf7Efqzl8!/c&ek=1&kp=1&pt=0&bo=QAb8EEAG*BAWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=6bbeb10035a4ff3eadd07a95e13cf92d&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/cdfc2212068fa59703c0.webp"
       ],
       "qzoneId": "fct_3597948372_311_5_1710753350_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年03月18日 17:15"
     },
     {
       "id": "qzone-f228e8a738e8",
@@ -1983,15 +1786,15 @@ window.labContent = {
       "description": "2024年3月13日，StackFarm软件创新实验室成员张梓轩、顾泉、顾王凯、岳金戈再次前往南京市江宁高新区中学，此次他们为初一级同学分享了如何使用开源大师兄开发板，深入的讲解与“手把手”的指导让学生们收获颇多，本次走进中学活动圆满成功，期待他们的后续进展",
       "eventDate": "2024年3月13日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGRK0b5UXTqbf1rwmwUw4cC*g4wKr49md2BHDbV*3QxvyV933enXtQ4AbOKFmNTJkMU!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=17b6c7f00a9ab38fe8f9217781e2dfb9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGTSgEYTcW.RLFozZQ*2Oq6wmu6uUvNKi.qwBioHoK8zuT6AlGsMLblGuZi.H*6KR*4!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=f948a8b916dd2f9dcac99b0b93e0826b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGTlTXg.CSTBU0YPUn39SvHFS.TOUsiPrqdkREy88Wfk.ltypYHc9levo2ctYIYtiEg!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=ead70218809fe1dc46164c6a1949eed6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5h.u4dqSzKdIVNuXjGwRHiWsOk0hSXwwHqCaHVicu3ngesj7pmUDkBws4gMijW00m2wXT9CMifjCWxb.u7VGHrs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=10da4cf579cdf4675ec5fcae46eea9e9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5h.u4dqSzKdIVNuXjGwRHiUOarwu110c8wksLRUON8q07F6K*u9WY3MoyYP2mAe35KwSxAmJ*C2I9N987S2ERgY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=e77168d2079b37139095839f4f226b8d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5h.u4dqSzKdIVNuXjGwRHiVMTnsLdx3EilEUCVR1LsKaLDcT6Bz9gmSY2nzYjQ5sWiGY7PuevN3qpkJRXPEnDIY!/m&ek=1&kp=1&pt=0&bo=lAJAApQCQAIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=fe57e3791d6787d119cdeb67351da31d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5h.u4dqSzKdIVNuXjGwRHiWfVnNYVP.dYXgBwtAUkjhxn8fqGawZBbOUoFTRXpciEJ.asWq.k3RnNwmeEfNNaxg!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=e7b2d512b4521721f539e85785073c08&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/82645ffbcef25d614dfe.webp",
+        "assets/images/qzone/c53dfbca1e12dc6e7f83.webp",
+        "assets/images/qzone/57f427f994a1c069b947.webp",
+        "assets/images/qzone/5dcd31679be0268c0db8.webp",
+        "assets/images/qzone/94ae1d2f44cbea00bcd9.webp",
+        "assets/images/qzone/118a8e50ac95652c3cfa.webp",
+        "assets/images/qzone/00224c44c99c5d20f1d9.webp"
       ],
-      "meta": "2024年3月14日 09:19",
+      "meta": "2024年03月13日 22:21",
       "qzoneId": "fct_3597948372_311_0_1710339718_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2004,9 +1807,9 @@ window.labContent = {
       ],
       "description": "开放原子校源行——“2024开源春耕计划”(金陵科技学院站)\n第一次线下活动启航。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mOgvbi7PWsEShNde4.SLNMqq.sksyxAVNLd30JWxGQiMsAVMsxRkvEorUwooX2pHB7esBZzT2ZbGlL2pT8fWlY!/c&ek=1&kp=1&pt=0&bo=NwT3BTcE9wUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=ab8114f5aafecd0bd0d4e891f7600db3&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/eb452a1ab4d661fe4e10.webp"
       ],
-      "meta": "2024年3月12日 22:02",
+      "meta": "2024年03月12日 21:59",
       "qzoneId": "fct_3597948372_311_0_1710251985_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2019,16 +1822,15 @@ window.labContent = {
       "description": "2024年3月6日，StackFarm软件创新实验室的成员张梓轩、顾泉和顾王凯前往南京市江宁高新区中学，为初一级同学讲解智能家居相关课程，并收获了学生们积极的反响，实现了让智能家居走进中学的开端，为他们点赞！",
       "eventDate": "2024年3月6日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5iySf3fCdSmapYlGNt4rAwxBv1q0S6sL87Dn3O7dRl0N3sPn2vAB7geKCa6e9r9mALV.4kVxwi77kvY4i*0YC0g!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=dabc5be3afe2791d9effd877d4d82349&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5iySf3fCdSmapYlGNt4rAwy8S8*QTOT24hF3iLJeR5Zb22xQ2b9fe8PYbMk.NPECg8PEOy.bErHSNRHkJeDcemE!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=64b1336469c2440ffec13f8016d72bcb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gZGUs6OPkBsOhgdhF7ymceCmwphk*U12s1pwK9NErVSni7SABgtRSRGx8Mw7Q9IaZT0qV7FLPfYso4oePkPTgc!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=e621409256abf0177a23d91ac3bd44fa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gZGUs6OPkBsOhgdhF7ymceUuK73KKEO5WnLvuyXAUiJpZV2C6te6HbrcU0pVYwR4btV6UpeC3Eb2w746GWDIHI!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=a30381609b566c29ccc809c0b29ca603&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mVGAZzpWCe6qxW8ziEKK6w1AlypsTJ6Eym4a7XsLo11ShoR*7axNMpT56G8Sk9hrqOhxhVMyHpKV*oTip1FmUA!/m&ek=1&kp=1&pt=0&bo=Gwk4BBsJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=02c15bc0779a5b9d15f6414b64008501&sce=60-4-3&rf=0-0-0",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gZGUs6OPkBsOhgdhF7ymcc6CAGW9OmAz7QZtTsPCygRf.0OEDJK6GQd4Rh8YgnL2W7ar9sOd4N0*FfbiXiVF4o!/c&bo=EAbQAhAG0AIBFzA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gZGUs6OPkBsOhgdhF7ymcdEabMeoTjL9d9UNg6s0goRlS0Q4MRKsdVw1yL6bKiW1i4tdxABVHh7xQjkn6RUnDk!/c&bo=EAbQAhAG0AIBFzA!"
+        "assets/images/qzone/9fa7677a62f3c85af147.webp",
+        "assets/images/qzone/bd1caf9ccc93799d33c0.webp",
+        "assets/images/qzone/cf4559ae0a4791856209.webp",
+        "assets/images/qzone/b5dc72733755a3f6346c.webp",
+        "assets/images/qzone/65a1979d94382557cb4d.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1710120488_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年03月11日 09:28"
     },
     {
       "id": "qzone-d535184301cc",
@@ -2039,10 +1841,10 @@ window.labContent = {
       "description": "2024年3月10日晚，StackFarm软件创新实验室开展了一场交流会，本次活动邀请到余舒沁学姐为大家分享制作ppt和视频的相关经验，整理并指导了独家思路，并为有问题的同学答疑解惑，相信在学姐的帮助下，大家对此也拥有了更加系统化的认识与更加开阔的视野，希望接下来同学们都能记住今天的感悟，并在未来的比赛中展现出更好的一…",
       "eventDate": "2024年3月10日",
       "images": [
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmFb*slPLXub2z6NLrG1jKOXRXWpFfTexvot293hjgjw8ViDDNn7xibJDk1nXf5RobE!/b&bo=gAegBYAHoAUWECA!",
-        "https://photonj.photo.store.qq.com/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmH21p0klZQmDsz9kUeiLbL4Kq9cjUuuYQZwvG8W*PHcJa3YtGd21BS4t235QQQxDdk!/b&bo=gAeiBYAHogUWECA!"
+        "assets/images/qzone/126b7be7f66b2ef54481.webp",
+        "assets/images/qzone/74116f115de826352fb3.webp"
       ],
-      "meta": "2024年3月10日 20:57",
+      "meta": "2024年03月10日 20:48",
       "qzoneId": "fct_3597948372_311_0_1710074924_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2054,11 +1856,12 @@ window.labContent = {
       ],
       "description": "实验室精神传承，互帮互助。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5fINGPtoYOmLUExrUuFpUAfKsxvfMP7lB9*puhk.k8YtZgfyPn26nFhh4x.AHju3Qs!/c&ek=1&kp=1&pt=0&bo=YAk4BGAJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=ddc7a41165f65ef31ced01bf588e62ad&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5cfawmHtp6tnvmoX94W3m.ERkVkHmB3raCPcGHDgyF2.2Iu3vtRdNeJ0geXdxzR4Ik!/c&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=b76601b82686a7e93c07adb25db0af7e&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/bb224ddd4b9686afa904.webp",
+        "assets/images/qzone/79383b24cf66548ae158.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1709467699_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年03月03日 20:08"
     },
     {
       "id": "qzone-2b5469fdadf6",
@@ -2068,12 +1871,13 @@ window.labContent = {
       ],
       "description": "新学期开始了，这是一个春耕的学期，加油！",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5iF*t5Gl2IugEG1ZxdyUxetBbhxczjdC4QitCDU6JvjK.AZ4nvcBU.WZt3SwyOTv3c0EV1o78G5Hk9BnkwsbCks!/m&ek=1&kp=1&pt=0&bo=YAk4BGAJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=c9cd6a4d4ada0558ab1789a742e675b2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5iF*t5Gl2IugEG1ZxdyUxeuKNErsEdRZZVgD*54.dbY*Q889GotxaSEDLBksumabDeHkFB.OT8BqhOWkwFhUMwE!/m&ek=1&kp=1&pt=0&bo=YAk4BGAJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=31158f8ca89acf613749422c904aa4a5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oG9OTfwdrN6EuDJcWkvZu4Lc3xIzkUXzNQdKGiXHinKDyi*jxWKxwV*NqDskUu7TlvI5boe1oieuiAmkxX1ki4!/m&ek=1&kp=1&pt=0&bo=YAk4BGAJOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=343e9b2a92836a48653e80324e206f13&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/b19fee0e4d4f5da14bc4.webp",
+        "assets/images/qzone/53b36ddc5558e5dfb361.webp",
+        "assets/images/qzone/6a1dc10b973b58396398.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1709117388_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年02月28日 18:49"
     },
     {
       "id": "qzone-a3181761578a",
@@ -2083,15 +1887,16 @@ window.labContent = {
       ],
       "description": "AI辅助编程小组牺牲假期休息时间，努力学习新技能，为他们加油。为科技社点赞。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r18tQy9VJmLHc*3Mk9tkiK4qfD.z09nQE5U28THk5LxP2UPYCe7*eCnthllqFgQWx3GeT4Kaw1QIaajWjFJg64!/m&ek=1&kp=1&pt=0&bo=gAd5A4AHeQMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=b0b9c1c6c6b6b3fb39cbcb204f3ba097&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r18tQy9VJmLHc*3Mk9tkiJibhjsznTYwgeuMnN2HPapbS91vJdN70FYxyn3siYECsKlWfYrxoML50Y678VAaDQ!/m&ek=1&kp=1&pt=0&bo=oArsBKAK7AQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=d2a83f07f0a453fb97e5df57551342c4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r18tQy9VJmLHc*3Mk9tkiItjVJdQ4N5EcS17dMYXSkbE5Y0Pvza47tYatob*0Cpl6cp8TaEpMQ*dwSsq6kms1k!/m&cut=0_159_200_360&ek=1&kp=1&pt=0&bo=7ASxEOwEsRAWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=14bcc40c38e458b97ac3ead4fa838de7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jX.3pnb2I4D9SI6hiGhc8FNrZan51kbl8QPnJkmolFl*sjlrPMtaPWHj5HQa5F0Q7K9vVqCqpgSPMJSdcqt0rA!/m&cut=0_313_200_360&ek=1&kp=1&pt=0&bo=7ARFGOwERRgWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=4a7f7bc9682e45f9522fd3a79730c8fb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jX.3pnb2I4D9SI6hiGhc8H16MZL7HfDNvKjVtndoJeu8tmkdWmZozwtADJel9URmTvgWnetBYpPy0b6ut7Gohs!/m&ek=1&kp=1&pt=0&bo=eQOAB3kDgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=b9993e70b4ba9ab6aa74a32bf4ef2933&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jX.3pnb2I4D9SI6hiGhc8HlM3VyR1jpehhtr5Cp1BfNDDn7HiCm6sq7G5ssReForpij8ENx.OC8x4aIo8XYLKU!/m&ek=1&kp=1&pt=0&bo=eQOAB3kDgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066440&dis_k=9d0eb9f223869c6e6b491e94b85d2e8d&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/3064c0c0ac614da81759.webp",
+        "assets/images/qzone/7489ec74ce7e66366768.webp",
+        "assets/images/qzone/b887f9f169f65755fb2f.webp",
+        "assets/images/qzone/c61a2cf6d14209461c31.webp",
+        "assets/images/qzone/a7a4eb2181cb7435f004.webp",
+        "assets/images/qzone/64f9abc3a935079db2a6.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1706952256_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年02月03日 17:24"
     },
     {
       "id": "qzone-4e7cb660fc8b",
@@ -2101,12 +1906,13 @@ window.labContent = {
       ],
       "description": "金科开放原子开源社  ： 开源社，下学期再见啦~\n\n来自   V2164A",
       "images": [
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5kWVvpv9j6xGdaIxG6Ejsm3BifjzoYELN5EPsWsFJUq724JzHmwz65QZ2B*kjPw4H4d9.cLya8P3L6rKyRN9OpY!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=3fbeb4b343158f1c31cdd3327558f614&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5kWVvpv9j6xGdaIxG6Ejsm2f8bDYpuWKOUCFqyWpQK0Z5*eEfc6xLXZp*LlTdpcHpc044uNozVSkvZWIXniQsFc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=bcd302f335b2d9ad050e8a3515fa503b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5kWVvpv9j6xGdaIxG6Ejsm1pdMQuRlk1Y3phWTqUU.9btLjTp2jALyhRuwxvlkJ.wWkbn.WXvsPRbd6saXhwYDc!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=dee552b0f4210089e5aa55ec28436994&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/3d1965f7feb43b138afd.webp",
+        "assets/images/qzone/5dea076c0e76265fdc19.webp",
+        "assets/images/qzone/0997c173af947736eead.webp"
       ],
       "qzoneId": "fct_3597948372_311_5_1705726707_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2024年01月20日 12:58"
     },
     {
       "id": "qzone-063457c5da83",
@@ -2117,12 +1923,11 @@ window.labContent = {
       "description": "紫气东来辞旧岁，龙飞凤舞贺新春2024年1月3日晚，StackFarm软件创新实验室的成员们齐聚一堂，共同参与新年活动，凝聚团队力量。走过千山万水仍需拔山涉水，现在我们仍处于一个充满挑战也充满期待的时代，最慢的步伐，不是跬步，而是徘徊，最快的脚步，不是冲刺，而是坚持，路虽远，行则将至，事虽难，做则必成，2024让我们，…",
       "eventDate": "2024年1月3日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5piLtHOKl2XiQGEdpZceRBd5kpGadnfr.CF9p2JgZqyBgvW16TcBvXOQlaynvgaai.0S7DomKuA92kMtOshs8fY!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=151646303123aa5e712728774780fbf6&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5piLtHOKl2XiQGEdpZceRBfVdDQc2YFNt4QwxIcejcyD1*ODWpseO.CKPSY2dlp..aUebNiEu.JZnIJCDfXX.Sc!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=6db28a0ebb3882d3fd2e95f2e19f4421&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5ieDmsjfMhWRx*LfgbjH0f7WkcwqvdWilEQiyZ3RtMdaYnrJm1luAOWQ61zwV2HNaSw3qAHd2vfcqc2mkrDDt*s!/m&ek=1&kp=1&pt=0&bo=ZQTuAmUE7gIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=42b18f119e9754368e0f686743c43fd2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lLeqHmUj0TwiDAZ3YVXZWnBcral4aO3*qJ8lnvHAiBViTAr*L1GO7Rd.5jiesj*e9.bXOEnCRiwuiqLNGctDms!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063579&dis_k=0b095be07c80b236340a0152873423fd&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/4e1e6a3d47b924a70b55.webp",
+        "assets/images/qzone/e0ad0c25e76667ef294c.webp",
+        "assets/images/qzone/6b26d49c89dfa7334581.webp"
       ],
-      "meta": "2024年1月4日 07:54",
+      "meta": "2024年01月03日 23:00",
       "qzoneId": "fct_3597948372_311_0_1704294036_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2137,21 +1942,22 @@ window.labContent = {
       "description": "金科开放原子开源社 ：添加时光轴记录：2023年12月15日，智能输液监测小组抵达无锡参加2023开放原子开发者大会进行OH RISV-V决赛路演。\n开放原子开发者大会作为开放原子开源基金会的年度盛典，以\"一切为了开发者\"为主题，聚焦开发者感兴趣的内容，让参与者洞悉行业机遇，把握产业脉动，领略技术跃迁，聆听生态蝶变。\n…",
       "eventDate": "2023年12月15日",
       "images": [
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5vc1S4bmGiZpIfwO11Z5CZ632*phLRGxHw5mP5gl.cD7F0CRHAxLO9dgaVKpyoyI4AP4U.F*R.puox9NNcn2wkA!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=c9f704ae73c016dc917c0677337ae0bb&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5vc1S4bmGiZpIfwO11Z5CZ7v8cljQiegWu18KOPfqUYhcphL7VA8oBiXah5LCxAAdTY*8kdAHymxcpMoDoeaXY0!/m&ek=1&kp=1&pt=0&bo=QAYABEAGAAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=7ed78b13676f6657e5c8dd678eacef55&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5vc1S4bmGiZpIfwO11Z5CZ6RVDLu9lgNEkfW7P1KnHydr70TlHubRiUumKq8a20joIg.8P8A0UpqzbubXr6DvbE!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=0e1a4207abefde953f4e22057b08600e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5iOa7T.bXaMfYgj.bMu0uMlMzZduj2J.rpJAWhJA*1ILGXSmMIFR3nogjm0515V92Wt.K7rO9kQYs.MxqUM.kmg!/m&ek=1&kp=1&pt=0&bo=qgYABaoGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=0bdde15b0517d5d502f436d406e2374d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5iOa7T.bXaMfYgj.bMu0uMlNRckj0dRmrl5*82HKX0HJlJR7jzQliOowHFGmgt8NhRXhqDHHFu8PAwqzxqGIbTQ!/m&ek=1&kp=1&pt=0&bo=gAfDBIAHwwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=7da0bd8d2571a1ac2b43c0e73e26698c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5iOa7T.bXaMfYgj.bMu0uMkpO1JndawSJmrhx7in5.tKVTmPbdMFm5WoN9m*.d2ZqlyeFZBBjHdLhi26zM1GrSg!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=93fe35c7a07160c0d383a8a71774f70e&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5iOa7T.bXaMfYgj.bMu0uMnRvh47zMmivieG52lDutbzSOgpdkux0jXqYrL2KGlfJkpXap5SjSkMrXjRtiInnnQ!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=5dfc1d6fb2d542e3e79d37ea786e7164&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5k45TIk0U0qQ07OUj2AoLHgRaioQwQh1x*H6gQT3l2wbpeUwHeSdSogZ88q3j*lULH3IK8OKlaTAFzlL628IJz8!/m&ek=1&kp=1&pt=0&bo=QAYqBEAGKgQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=9b79d458f1797d50347e0c9c58c5669d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V502TuSn179Mpa3AYhNU0L3m8w1hAcSp/ruAMsa53pVQWN7FLK88i5k45TIk0U0qQ07OUj2AoLHi266xrcWEIDziEled1K7HDnHz17gVRsxplyntqDvdE6gP3VWx01*huTXkBeywv0VI!/m&ek=1&kp=1&pt=0&bo=QAYrBEAGKwQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=3bdafbe7e019070e132b33d95326736d&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/620bcce13c35f91cd30b.webp",
+        "assets/images/qzone/ffc654ca9075508e083a.webp",
+        "assets/images/qzone/85b151aa87d8bdf7eeab.webp",
+        "assets/images/qzone/cd49aa28d61c37002840.webp",
+        "assets/images/qzone/a09169a89f4a630af8fc.webp",
+        "assets/images/qzone/897323a14aa26d99a444.webp",
+        "assets/images/qzone/a2c6a5d6d8831db4f62f.webp",
+        "assets/images/qzone/03138712a6d702e93c51.webp",
+        "assets/images/qzone/d437986b213e42281315.webp"
       ],
       "qzoneId": "fct_3597948372_311_5_1702867450_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
       "projects": [
         "infusion-monitor"
-      ]
+      ],
+      "meta": "2023年12月18日 10:44"
     },
     {
       "id": "qzone-dde1c07bcd18",
@@ -2183,11 +1989,12 @@ window.labContent = {
       ],
       "description": "努力了就好，国二棒棒哒，继续加油。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oUCFm.pPg5T1SaaAS9Tlvnfhs8t114M4h7ta6cmp3qj77lMuAbu5NDV3AlQdLBSVyI2zt.*M7VAahYl2DVtuoA!/c&ek=1&kp=1&pt=0&bo=qgYABaoGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=e634f5a8b495b0d3b5c8dfbce59bc4d0&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPr33IU3bX4FL0DO*uEK3u08kl3lXZiNrSwGYGeIbUvJsrrYYUNHdRLD.9LvRKhKxbA!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=d175b8b130a18f1583b45c777f19a4dc&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/49b9fbacbcccabb403df.webp",
+        "assets/images/qzone/782b3e72f079ab4622a1.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1702635743_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年12月15日 18:22"
     },
     {
       "id": "qzone-d94be66e7236",
@@ -2197,11 +2004,12 @@ window.labContent = {
       ],
       "description": "国赛一等奖，恭喜。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGSaJvb5lXigGlZVgtJq9.6OqLEgLHlYHbnwu3ZEEy*zZWZSOg908sRboKvgUTlWbaA!/c&ek=1&kp=1&pt=0&bo=7ASgCuwEoAoWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=7241023a229dafe3617c24f915619527&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGTx0mDIjFZ*zBwqeNcaWRgykwbTS544H0vgaRmjATlmLJfhRGNadj5fMqZW*v0IJ1Y!/c&ek=1&kp=1&pt=0&bo=8wKpAvMCqQIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=49f1df1a57e5a5f09bee75692b367c55&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/72ac6f0551ee693b0372.webp",
+        "assets/images/qzone/65eac73b0526ae312b91.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1702447236_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年12月13日 14:00"
     },
     {
       "id": "qzone-019263ad1d88",
@@ -2212,9 +2020,9 @@ window.labContent = {
       ],
       "description": "恭喜输液监测小组进入OH RISC-V决赛!!，周末无锡继续加油！\n各位参赛者晚上好，经过专家们的评审，恭喜以上队伍入围决赛，即将参与开放原子开源基金会开发者大会线下路演。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gZGUs6OPkBsOhgdhF7ymcfuFw.ao8AymtmO9TyL3lzFzbbMZZVypVYIC0V1FTgLDcKtXW2PseP38kNCfOdUgco!/c&ek=1&kp=1&pt=0&bo=5gKGAuYChgIWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066445&dis_k=89a1b0a7b2c43ffff032d0209651a077&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/43683fc32f1f5c28a6c1.webp"
       ],
-      "meta": "2023年12月13日 07:28",
+      "meta": "2023年12月13日 07:17",
       "qzoneId": "fct_3597948372_311_0_1702423066_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2231,15 +2039,16 @@ window.labContent = {
       "description": "2023年12月9号，开放原子开源社成员组织前往润和参加HarmonyOS人才赋能大会与企业进行交流和研讨。从2023年12月1日起，以“走进HarmonyOS”为主题的HDD城市站人才赋能交流会陆续在青岛、深圳、南京、太原、武汉、天津开展。\n本次南京站活动，HarmonyOS行业专家聚焦HarmonyOS的开发特性、…",
       "eventDate": "2023年12月1日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8EDvGoxXenMbDMzlH*qPDcJPT8zbTI0R2FKeeZHMzle3PSsVvp9qZgBgFdQn98VzR4!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=f1bb6dcaee69dd49d4f7092e587c6d69&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8HbSmrrm7oL78VzfAEt18bnwaOXLlnyr3tIXULXj2SmTU22dndiQrW3gqXG3acyBnY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=1a02c3b8ffb9826432aaae57b504d9c2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVFZWm4lQGMMtnyqPSflT8wAzTkadhVj*hyfwmkVTzDFjFURcX6.qL6Bg.ipEtp9ek!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=3c622f4cdd02f15bd268ddea4ceca8b3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAWdYxaJ3Oy*oT1QY3NvUjJrJDWFodIkXtiypNST8Dyh7Avpxm4DVzidaEK8meVh0cQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=591026ced898b4892b34235e0a04b3e5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVEJHkevpsB7*OGrq4SK3X9V4acC95gKa994euqWgK47kqg4APrDXRFFr1SqTaLFMU!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=c8a41d9277512adb8b365f2c728a0486&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAVIdFGMZIrh73GOzXnlPMAmo7nODJatlwWc*0xSeg4Kc93qx0An1QWQ8RczEv5TXME!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=1006f98b8cf3b9d94be17774920c6e5c&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/1e61ec75bc6b0584815d.webp",
+        "assets/images/qzone/d1028d4e2a17c8a88dc9.webp",
+        "assets/images/qzone/a3c0e1cf3e94b42c3383.webp",
+        "assets/images/qzone/d64c27a787502c4d9c9f.webp",
+        "assets/images/qzone/502cf1904384676371ea.webp",
+        "assets/images/qzone/65c4d38fd05749b706d0.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1702190692_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年12月10日 14:44"
     },
     {
       "id": "qzone-eee9eb9ce1e2",
@@ -2249,10 +2058,10 @@ window.labContent = {
       ],
       "description": "新鲜到位，还说什么，加油便好。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsS1txm83xlH3sMLRmL.e75T5K9Ammu8q6Z0DyCurgHFCKWsgBBp59NQRRq2apsyjm8!/c&ek=1&kp=1&pt=0&bo=7ASgCuwEoAoWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=8e04ad1d0d62bebc2b08933ee71cad96&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsRsnCumXlgMI09tfobnfINXbeEIqFpL7VYV8qWnI435YDe7S3oDKDPIR1T.vo5ZzU0!/c&ek=1&kp=1&pt=0&bo=eQOAB3kDgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=486f95b830cd828a6294477417dc0759&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/7e8fa657f842917f362e.webp",
+        "assets/images/qzone/dcf5466a0e9fb7469249.webp"
       ],
-      "meta": "2023年12月6日 22:28",
+      "meta": "2023年12月06日 22:27",
       "qzoneId": "fct_3597948372_311_0_1701872836_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2266,15 +2075,15 @@ window.labContent = {
       ],
       "description": "2023年第十一届全国大学生数字媒体科技作品及创意竞赛自3月份启动以来，受到全国各高校师生广泛关注，全国共计七万余支队伍参与大赛。本届数媒全国总决赛由中国人工智能学会、全国大学生数字媒体科技作品及创意竞赛组委会主办，中国人工智能学会科普工作委员、中国计算机学会虚拟现实与可视化专委会协办、江苏理工学院等高校联合承办，于2…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3xioI6o52PuKVca8GZONSnmcm354PBIzX*3wxFvvTTfsSCBIFphZnooUiKxVfQJauI!/m&ek=1&kp=1&pt=0&bo=gATHA4AExwMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=dabbbb4532ff4f12333ebb4b103b1226&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3z*QbhS1ITjdHGEbYEkNUFSp8kEV260.oyGX6k96uhSh1xGgyLnNoTEik8dK5MPTwo!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=0e92e9ab53362c011ebabca1a556eea5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3wSsgsbWQRlHcWt8MSZE6FexoVhsApscm36ynWxlDLPlSBK7Tl1Rs*i.zGCZmfAfNY!/m&ek=1&kp=1&pt=0&bo=nwU4BJ8FOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=92ead15e789aa49dbc78039edb9e8f85&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5soM37PDw2FdFnOavQscM3yq*amzKPzAjh.cRim.KfdhZQCmGZWjjV*Li9TOAvXaGwhj67uaS1pVqmicw0PZON8!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=9ce892c5b822bf7c315595907fb43abf&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05VtIpXkUNRRjlWsyzU.3q.E961SDSvrJw2eVhGsrEo.bOLBRwygo3WAOp9seV3ftX0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=bd715c83ee6482fe064ed7665514c87a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05UWQTqkZeO8Kz1mUiopfkPDfSjvNbsOAnSA9p5hb4MggPcmnRsXhJCyoA95Y2FaAsw!/m&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=23ed08f9568a828dd7ca6a7b3a49c982&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05UDvM1Y10sMI9DNpi6h0NBB3pi*L47iisMSJ1bVRUCOO23l*SsmPtJucpK56TH*KbY!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=c03380af1056a61ea873f25aa496d225&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uQlmyq8VZwcauSX2Dxl05VkWWipVFZ.Kfr.ivdyW8nM3kqEycVM9C5Dw4JUsqGrEDAPfmbbPWsIo9eARESbDEE!/m&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=3371d535fc38952240c3b30ffdde9712&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5jRlrEH8ba4XW076.H3iMJ0WJO4tpExc6cgZ4nFzj.gyV1atAO95HZAzST*mUUCTSc0qd08elyas3mgJh6TMz4c!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=f08335f2b58368e1c5ff74b2ff221649&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/a3dd5f96c42a0e87784a.webp",
+        "assets/images/qzone/6511dbdbc48f11a8b707.webp",
+        "assets/images/qzone/b24000f39c2d96199515.webp",
+        "assets/images/qzone/03aa0919627580f211fe.webp",
+        "assets/images/qzone/5a16e4ee0d36f18cb69b.webp",
+        "assets/images/qzone/07c1a239080f2184b060.webp",
+        "assets/images/qzone/8aa10ff1aab50c6ca0a1.webp",
+        "assets/images/qzone/652a33ed84c4970374d3.webp",
+        "assets/images/qzone/8c9f46239f92b885e783.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1701044236_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z",
@@ -2282,7 +2091,8 @@ window.labContent = {
       "projects": [
         "smart-home",
         "element-code-review"
-      ]
+      ],
+      "meta": "2023年11月27日 08:17"
     },
     {
       "id": "qzone-7018a6b85f5e",
@@ -2292,15 +2102,16 @@ window.labContent = {
       ],
       "description": "每一位成员都带着饱满的热情和责任心，认真打扫着实验室的每一个角落。在这个过程中，大家不仅体会到了劳动的乐趣，还增强了团队合作的精神。我们彼此关心、互相帮助，共同为实验室的整洁和美观贡献力量。希望大家能够继续保持这份美好，在这样的环境中更加努力学习，共同进步",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oG9OTfwdrN6EuDJcWkvZu7.qi2fa*Q1AxrVYj.wDeQcdknu6RxNHFI7nySudjYfLD6CrGU8R5AuJUa4kET7PmQ!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=eb9a8c2e8330b5d31c698a191103e6b7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oG9OTfwdrN6EuDJcWkvZu6fkXBgRNw7QCFg2hiEfDWNickzUA4ULjV0j3wN6CALCTev4P4LHl56l*G4flcfjdE!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=6c7885896211281b0d5faf0f5782763d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsSu1N2sDZbF5gblOviEC7UUrhpVHX6K8nQjoa.Jeen9iPowEjEVSVr5ljx5HHZAPK0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=9b1edfb5dcc53d244961bc2be88eaea8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQZ4l794cWPwWvyb6WWvEtHPlevvEVpn9cdrjGth57jhaPcU6CXYTKGxXV6tD24jH0!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=f5e50da5bd974a847db718784272c9da&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsS5M4OBDSQXbZ6yqrdWC3gfqeC.qLZeEsYmUq1ZMLBxqvFtcx9.zu885fUOcJdJG5I!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=555186f931603e48f38f2e5d694d67aa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsS5ut*MLnVsUOmi8e1tHHtEKaYX7PeZp.9Xnqz2jeb2qacuzEau..ncxGHo.nHzr34!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=6f76edb8365b75fb335223cc951aec01&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/bf17c6dcb16891229e68.webp",
+        "assets/images/qzone/89ce03130c7f3453ead8.webp",
+        "assets/images/qzone/69642a7406ec1b99abd7.webp",
+        "assets/images/qzone/c5cdb3118108133d1a19.webp",
+        "assets/images/qzone/92a5a13ab74cefab734c.webp",
+        "assets/images/qzone/d1f6161f0fe9df71fe47.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1700654283_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月22日 19:58"
     },
     {
       "id": "qzone-4aacea6c0f03",
@@ -2312,18 +2123,19 @@ window.labContent = {
       "description": "上午10点半，成员们齐聚绿博园并集体合影留念，紧接着依次游览见义勇为广场、太阳宫、荷兰风车、荷兰园、左岸花海、米菲的森林等著名景点，共同领略了这片美丽园区的独特之处。随后，成员们在消防主题公园内草坪上进行野炊并展开了多种富有创意的游戏活动，最后在建邺区万达广场小菜园餐厅举行聚餐。\n整个团建活动中，大家积极参与，互相配合…",
       "eventDate": "2023年11月19日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQudS.QIxbe.f3gPfyCuWLX52hJGeXwYx0NgaNp7oGA*wt41kAbLhXC03Cbuq2ZcAU!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=3728034def87c7bbb6bd8cc1e10b9e0a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsQRpOL9B48eO0PQqnbwTciKG6ygKMvC*fA*7ZsOXcRqXdhLmaqRXlEek3ltm3hCpWQ!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=e7ca4f34eef28bca0820b8a4d9e353b7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsR4U4CVet5Ai4tZxsb5c4ByoAc9B75ULCGPnfJuyDqarcyvIXYIFePKr8oILPe7sFM!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=3386d5a92d7ab0ca48d2ffbb2dfec31a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.Js0kUzGMERYtyCJfXSEZt9.4YK8xvEkF.Z2jASVI8gVpfzRNyfkTueP2eujp853Mk!/m&ek=1&kp=1&pt=0&bo=QAZgCUAGYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=db92673199faaf0816c615418169dbf2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.JtYM9WeMWGeK0ghjSItPuCxFZCSUHgvWHaRl9ezs4ma5n5d5ejRYcc4haVcfP38PY!/m&ek=1&kp=1&pt=0&bo=TgdABk4HQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=08e830e5007251eb6ea81033894d997d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.LsPbB11fLZSd3H1V8.Q70jvqAlRND1iNMKyXwdsmVE9djpCldtxfIyiGDnDytvzTs!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=61a2a1aa5f4fd61f2f0ae95b69f18c8b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.KA6o2iAXC3FYHX8AVs6NQAnZwQQom7*dOvftlMinJEMtDqidfw.G7QIJeolfKbOIs!/m&ek=1&kp=1&pt=0&bo=YAlABmAJQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=698488b881d821602005292af2805938&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdU4Gr.RuY5CQcT*zRAxy3N7jiylR6CBsMrekeMAbo.07WbReqedQGjpl4UFd6clCPg!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=a10c3f3cae331edacdbf967dcc65c8f2&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5owj8IFrrxFVCKnwZYKWwdVuN*3twyI1QJ.72DozvhP9lheU8JC6ZVxMoA0U2czt7Lab.Q7TN*b*SWulnB9IHRI!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=ab6cd742ac2f3e2b4fbfd85b35c8af20&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/850278a680ed7611c60c.webp",
+        "assets/images/qzone/0f658b586610d6aec26e.webp",
+        "assets/images/qzone/c88f5c732e51186a361d.webp",
+        "assets/images/qzone/7f459e5af77ae0d1e72b.webp",
+        "assets/images/qzone/aa377fc2a512efbb1c29.webp",
+        "assets/images/qzone/0e422a06a24e6b8a55f6.webp",
+        "assets/images/qzone/c8dc5ae358f9c2c724a2.webp",
+        "assets/images/qzone/3e4bf407295099f8e21e.webp",
+        "assets/images/qzone/e08fb9fbb4325c3052bb.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1700439499_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月20日 08:18"
     },
     {
       "id": "qzone-314b7cff6fb0",
@@ -2334,10 +2146,11 @@ window.labContent = {
       "description": "2023年11月17日晚，StackFarm软件创新实验室，Taffiet科技社开展了本学年第三次学长学姐授课活动，本次活动依然是由夏金伟学长和施瑞昭学姐进行知识讲解，包括递归算法，分治思想以及数组与字符串问题的处理，同时也为部分同学进行了答疑解惑。在学长学姐的热心帮助下，同学们C语言的学习已经取得了优异的进展，希望大…",
       "eventDate": "2023年11月17日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lLeqHmUj0TwiDAZ3YVXZWnBcral4aO3*qJ8lnvHAiBViTAr*L1GO7Rd.5jiesj*e9.bXOEnCRiwuiqLNGctDms!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=608643eefb5d0e4c690c86c00b92398d&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/88355546e37a543e9a9c.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1700234217_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月17日 23:16"
     },
     {
       "id": "qzone-0e1e1f7ff846",
@@ -2348,10 +2161,11 @@ window.labContent = {
       "description": "2023年11月10日晚，StackFarm软件创新实验室，Taffiet科技社开展了本学年第二次学长学姐授课活动，夏金伟学长和施瑞昭学姐为大一同学深入讲解了字符串的具体使用，例如C语言中的字符数组类问题，除此之外，同学们积极提问，学长学姐也同样热情地帮助他们解决了PTA中尚未理解的难题。希望同学们能继续保持积极学习的…",
       "eventDate": "2023年11月10日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5kZNwCby3XaIqGjeHYYxw8ECxtZkDupyK6mEindQvbuAGczbO21wwNSDGOfCrLXFhNHXguuYpLHFFuf8uvXQ3SM!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&tl=1&tm=1795064400&dis_t=1795066482&dis_k=73d9c9b2bb435bcb5cfe61f274d926a3&sce=0-12-12&rf=0-0-18"
+        "assets/images/qzone/2bba467823ac5c405369.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1699799396_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月12日 22:29"
     },
     {
       "id": "qzone-bf29ecafba65",
@@ -2361,12 +2175,12 @@ window.labContent = {
       ],
       "description": "秋韵悠悠，弦歌绵绵，历时一天半的百团大战落下帷幕。回顾整个过程，前期准备分工合理，社团成员积极配合，有着十足的团队凝聚力。活动中每位社员按时值班、热心地为23级学弟和学妹解决疑惑、指明学习的方向。社团节目展示时也毫不逊色，虽然与其他社团展示形式和内容迥然不同，但是展现出了开源社的特点和活力，也赢得了大家热烈的掌声。＂社…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsSWdtcJyEVk85Dw*MDJzPwP9.MZO.6BIdNXKvE5sxlsOI25MiioUbd4ag5T4xgH8OQ!/c&ek=1&kp=1&pt=0&bo=2AMABNgDAAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=6c18b88d9b891ba8b446f86bcef8f9ea&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.Ltzfcr3dgkk3Za78YJk1ZZ0eSIQ59ad2IDTyyNsIRaNfrifGunQJzIfADNd3XyTR0!/b&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=b89c9158ec22125ac7fd49611e85a051&sce=60-1-1&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.L*Lfdsm1oHPONPeBFPADZqXLBH.oMISrLT4yigJ*NhUttk33xxxVv2mC9yKoe.rAU!/c&ek=1&kp=1&pt=0&bo=OASABzgEgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=2901a06698e0b09bbcb202754fa9f3cc&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mJLOZLXZaoYBJm*3v38r.LMafDzeZBpbpZ6nLCAbo5AJOZHx4TrzF.uA6www54i18AVEhAV1SYahAj8E2jr1Qc!/b&ek=1&kp=1&pt=0&bo=gAcABYAHAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=a942509b312d7b5c5b58045fa077883d&sce=60-1-1&rf=0-0-0"
+        "assets/images/qzone/a884339d2f5fb45aea87.webp",
+        "assets/images/qzone/c62a3277c6fc3f21924a.webp",
+        "assets/images/qzone/904f73631f9ce108514c.webp",
+        "assets/images/qzone/225579b712b88b4bc51e.webp"
       ],
-      "meta": "2023年11月5日 13:49",
+      "meta": "2023年11月05日 13:44",
       "qzoneId": "fct_3597948372_311_0_1699163075_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2378,10 +2192,10 @@ window.labContent = {
       ],
       "description": "开放原子开源社第一份大礼，恭喜团队，辛苦各位老师和同学。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5s2TxslQeLXr2itRC86rm2mqVjqsFZX3Zw6Cff.N3FndJysABPrzYzLFvtFQCjRLJM1aj3x.o7C1t3It30lwGIY!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=436f16624eb64eb6b4550cee260b4e36&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5s2TxslQeLXr2itRC86rm2kopsnAKZGRtry*UT8tcu.EgZb7uTagmxRSk8fSVH2fxaMD65OxfAvyGKQoFr3yi5U!/c&ek=1&kp=1&pt=0&bo=OARgCTgEYAkWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066447&dis_k=7aa1d9ea242e93023593d3f9a4454fbc&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/bf36d25e618261b9d102.webp",
+        "assets/images/qzone/c69b48f817b28342c41e.webp"
       ],
-      "meta": "2023年11月4日 12:22",
+      "meta": "2023年11月04日 12:20",
       "qzoneId": "fct_3597948372_311_0_1699071648_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2394,12 +2208,13 @@ window.labContent = {
       "description": "2023年11月3日晚，StackFarm软件创新实验室，Taffiet科技社开展了本学年第一次学长学姐授课活动，本次活动邀请到夏金伟学长和施瑞昭学姐，为大一同学讲解了C语言中的数组、函数、字符串以及典型的冒泡排序算法。本次活动的开展加深了同学们对C语言的理解，解决了同学们学习中的疑惑，希望后续的学长学姐开课活动能够越…",
       "eventDate": "2023年11月3日",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPq.jYqX7C2QsURWQAIDlyUsWgsI.av0**4QHSPdFrCbI5K5BTWwHXVmKN39JdfIFjk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=9728ecdcefde81111a2495f9dab7d2d9&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPp3upfytWWx2390AP3IAVJ0ttTmzsC7K0EoKiMIWMb6brWHzdAoxgbywmdFJaeWgoQ!/m&ek=1&kp=1&pt=0&bo=oAU4BKAFOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=2e1dfcef2a7bc6f69b5f93a6374778e7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rQOY5pioA.vuT2CEWvGOPrXS7y2YMpj3rKQC9nj1.8h3m5RD6Jm2CwIOPc4UmPNJAVUgovbcYp6cBNiB*1IDh8!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=82db2d850fd27ddc567855d97e6c2953&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/02c2121dbd3fb3b9ee60.webp",
+        "assets/images/qzone/21bcba5c30a88052e0d4.webp",
+        "assets/images/qzone/01e7145ab0993aebee58.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1699023836_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月03日 23:03"
     },
     {
       "id": "qzone-60f535b15d55",
@@ -2409,12 +2224,13 @@ window.labContent = {
       ],
       "description": "今天，开放原子开源社成员参加了学校百团大战！大家团结一致，展现出开源社的优秀气质和团队精神，向全校展示了我们的风采。感谢每一位参与的社员，让我们一起努力，带领更多的人迈入开源",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5nVqd1usKTeQdR24lv4Nvh2q9UXJom0YNyNrXlHpVO7q7lMjonzLRHE2HNLdCHUvGsEoDxsgyxKBjIbUguEBl1I!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=f27f7bb69d91af41e2c5ff86f63c49fa&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5nVqd1usKTeQdR24lv4Nvh1eVeWJImeotCZjMfzKcFG0F8sk2GGA0XkddjPVV.sJpDSSFF5gFw.FLbBEnK12j70!/m&ek=1&kp=1&pt=0&bo=qgYABaoGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=1d4878fbe27b293e4e57701bf9a2ea0c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5nVqd1usKTeQdR24lv4Nvh2zqTwMopzG*ojN4xERovna9bxgNoFxAOf5tU5v045eesiJ7D1biLmCx6GeaBUCmpQ!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=374bd5e2e2dac5d86fb6e280fcbad164&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/3267eecc721ba0936fb0.webp",
+        "assets/images/qzone/84b0aa2001263fdfd74c.webp",
+        "assets/images/qzone/3731b0b52d1ca96f10d1.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1699009373_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月03日 19:02"
     },
     {
       "id": "qzone-1b11d4fe4757",
@@ -2424,9 +2240,9 @@ window.labContent = {
       ],
       "description": "春种秋收，恭喜文杰入围十佳。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5iySf3fCdSmapYlGNt4rAwxdm1YfCfHnK2XxibsVGxp3P8ezqKgUnsRf8Oxj3dYsbm5b6BccmRfwWZG0QuZaLio!/b&ek=1&kp=1&pt=0&bo=kgRVA5IEVQMDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=3fe8d28458384b3f5045d59cf8cee563&sce=60-1-1&rf=0-0-0"
+        "assets/images/qzone/a897830c81903557402e.webp"
       ],
-      "meta": "2023年11月3日 12:34",
+      "meta": "2023年11月03日 12:33",
       "qzoneId": "fct_3597948372_311_0_1698986007_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2438,11 +2254,12 @@ window.labContent = {
       ],
       "description": "科技社提高班，热心的学长，认真的同学，怎么会学不好，加油。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsRGhLgN2gRKOVptXKiaQ5QMSJJh3tPZuPLaM.FZps2bZzOvJKb9TaBHKz3CUK7N3y0!/c&ek=1&kp=1&pt=0&bo=gAdgA4AHYAMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=4e7d7db43afb71c186e17e31aa0e7a16&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r6v5.5zR2yLazxM3rD5jsT.oxhnxxiAhAL2R8tumAZmjIY4fWMu6kxmss13D359R9cWCGLtYSSrhHK7*0pfS00!/c&ek=1&kp=1&pt=0&bo=VQhABlUIQAYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=6ba5bb206ffbdc6b30905257f817edda&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/4e6aa249449217e84dd7.webp",
+        "assets/images/qzone/6b29bcfcbd97600d40d5.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1698848967_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年11月01日 22:29"
     },
     {
       "id": "qzone-136e57231462",
@@ -2454,10 +2271,10 @@ window.labContent = {
       ],
       "description": "由中国人工智能学会、全国大学生数字媒体科技作品及创意竞赛组委会主办的“2023 年第三届‘智能+’时代背景下智能媒体类人才高质量培养创新论坛”暨 2023第十一届全国大学生数字媒体技术科技作品及创意竞赛全国现场总决赛将于 2023 年11 月 24 日-26 日在中国·常州举行。\n同期，还将举办“‘创新中国·万企千校·…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAWL8479cv6qID5VJS6*z4*UNwVIsNg2qL7T6XCu8mn4SIIqIjbcstPWG1PnoeZqj3c!/m&ek=1&kp=1&pt=0&bo=.Ap4APgKeAAWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=2b00a69da3e91615b71063b7cdece644&sce=60-3-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q9yRxMhwaUYXNErQHAOoAV2zrEf*l7hPM8mqMaj9ccqvfCEYzt.PJjWloU3S0Rh0ugeqv4sFhYgkIMhycMDGiI!/m&ek=1&kp=1&pt=0&bo=LwtLAC8LSwAWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=b387375017a90a9acc8de2eeb9a3cb48&sce=60-3-3&rf=0-0-0"
+        "assets/images/qzone/9016579688254fdb893b.webp",
+        "assets/images/qzone/6cb02cddcdc90569d493.webp"
       ],
-      "meta": "2023年10月31日 08:09",
+      "meta": "2023年10月31日 08:03",
       "qzoneId": "fct_3597948372_311_0_1698710624_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2469,10 +2286,11 @@ window.labContent = {
       ],
       "description": "恭喜开源社第一个入围决赛队伍，继续加油，祝愿越来越好。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5q0ak77ZzbwWOPD7Hj3EcNsmD42u4eCVU5M0JRY0zCJUhN58jOMhwoxhSdAC1sOu8hWWLr0NpVgfEAFEXO81cjo!/c&ek=1&kp=1&pt=0&bo=9AP8A*QD*AMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=7fe70d278f378ad2e317ea148b14a4ba&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/28cdbc6cc8744fe13569.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1698402484_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年10月27日 18:28"
     },
     {
       "id": "qzone-51cf3c35de40",
@@ -2482,10 +2300,11 @@ window.labContent = {
       ],
       "description": "社团活动密集开展，越办越好，祝你们都学有所成。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lJsjfqz2gKQuW5kmMODqgx6uL3B3QUVKExVeW3HY0Ya4e.RIjQyzYNzGn7ImnUARKPkBEZfqolTzFRxw**MPyo!/c&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=bbbe83b52b48da3293b8e89beffc6ee9&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/14bfaa7df8a85f5d71ba.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1698156915_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年10月24日 22:15"
     },
     {
       "id": "qzone-6dc3e7c2c0b9",
@@ -2499,26 +2318,17 @@ window.labContent = {
       ],
       "description": "会上，余舒沁对2022-2023年度的各项竞赛与科创成果进行了汇报，展示了StackFarm创新实验室在过去一年里取得的骄人成绩。在这一时期内，实验室共获得了12项国家级奖项，同时还获得了10余项省级奖项，并成功立项了4项大学生创新创业项目，取得了20余项软件著作权。\n科技社负责人苏宁、开放原子开源社负责人刘张豪以及实…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si1xBlscp0Kf1dnQG9UF35oxHknzTaqZaqyi*eCIEKbDE6f*NNOzUVqRzkgv13WLu4M!/m&ek=1&kp=1&pt=0&bo=VQhABhASjA0WELg!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=c0d0510764f1ec956a10646feddd9804&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si2Py4Ul99Lhhf71Gr7yzp5S4389xUj2tmMANGYtknzg5ED.m1.YgI1kd0lTGGyeALY!/m&ek=1&kp=1&pt=0&bo=VQg.BuAIqAYWEAM!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=aea00fb0702d370e460e0fc8535383fd&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lgdvxAR43xTNsAg*Hl6si3myFuqy6kDH4tEDl4OBpQPmdKfb3goLjzfQnUnduB8qU9poZbZYp2t.Ju9QutoV4o!/m&ek=1&kp=1&pt=0&bo=VQhABgcKhQcWELQ!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=44c0018bd562b9b06156ddab4f14cec0&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lJsjfqz2gKQuW5kmMODqgyEmGa4GK7NnAbeW6uVsusDZvVUp9UvJTcv*EBUszbA9dps4xRJv3.WICHQdX9XcKo!/m&ek=1&kp=1&pt=0&bo=jgeqBY4HqgUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=2f363e467bb538b2750e85b5869bef18&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lJsjfqz2gKQuW5kmMODqgwmrZNNu0ghq.5WnsfOFHfSZqVbizheINBTW6d.6KupewpFhYgSaUe3GCOetH*aSmA!/m&ek=1&kp=1&pt=0&bo=cAegBXAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=0fbb9a288b24ea08f24b3c663b181689&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lJsjfqz2gKQuW5kmMODqgxohiThLyXiTpkYGJb0xCIo9w0.QU9vD*DuR7WmlW2Hz5XKwOSkgoZtq3Wf5.ppUsM!/m&ek=1&kp=1&pt=0&bo=QQgxBkEIMQYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=c650120e2d97c7b8a8b2728154446385&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5lJsjfqz2gKQuW5kmMODqgxo.183qhw.NAuSOyoRzW1Eh1QJKd.Xk3E77xIxr6OqURTFnZdaR*y3DZ3Wa5Tdm6o!/m&ek=1&kp=1&pt=0&bo=VQg*Bs4JWgcWEN4!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=df73ff594a6a11ff5fa3c6ad74a67316&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gP7I6IWniW5.mOrbGhgPFE42CZ9E6tL1GN1QrA406qHadoioTVskg.pzUmXUkRRfzhAuvmebqVE8pxbgVQieLc!/m&ek=1&kp=1&pt=0&bo=KAgeBigIHgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=15182910c71f7669ddba79d41fdda304&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5gP7I6IWniW5.mOrbGhgPFFo9f6SpXcBuRPvBCFDtIrjahgeclIg1DHL9C8J.BbUKv7SCp8MCkL1YzYn6Ky*GV4!/m&ek=1&kp=1&pt=0&bo=KAdeBSgHXgUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=e7e120dbc515422c8c0516321f314013&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWy2s5bQKjQSJ782eCqrDDiRvqzFxfjZH45oS1Ey4zls4pi2wW8sjAJoj4FpBaXqBV8!/m&ek=1&kp=1&pt=0&bo=kgSXApIElwIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=d7a7f8c31eac2b553e5903f42dfea677&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWxUmmCzlzXE84PqCNN3qBc836STfwgNuQwCqq81jUmzeAovDY.icCEeHkHRNPLgbOY!/m&ek=1&kp=1&pt=0&bo=qAYABagGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=b0860cd9210b0b122d1974988b9ecaa1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWy4lTGDVphFqPUx4JsVWRyMRrhDCs9vxGrWbG0QLkt*neOdQqujf58OrGan9DMEiKc!/m&ek=1&kp=1&pt=0&bo=OAS5BDgEuQQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=44483b58465e359407a9aaac8088acc4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQuKLRdtq367FZteLDX4mtLwImk7kdE8pZcLZtT1ZelnNxhoKvawRGAo8UryYgtAAM!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=cc1ba524e5f60eba38bbda7cc758889f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuT.b*po71S.gsfwcIZfaY7xkSBhoo9RNf9DwEOyZItDuRU77Y2LvOa7esUq3HSpMbE!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=aeeb931a66cef70ae80cfa863df5154d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQVTRTidrC.fgwi4RIVckqo*5ZzEbbi.6iDr9OTGdz8CGf8qpL41usRiUtI6.cOhgo!/m&ek=1&kp=1&pt=0&bo=PgZVCNALwA8WEFE!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=cb3d564d9c200ed7913c04a5510a336d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQX.KlY3uE4S.7*Wn0NR88DH*AWaIPDbtPssxYIEW7FCpMc9sZOnVX0*P*MR3w5CBk!/m&ek=1&kp=1&pt=0&bo=qAYABagGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=076ae4290a4fc83bb93432cf2cb8a8a7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rmfDq7qhauc0jCr9Lp*Ws*GasiuxmjCBYb2jWdeA9kxsMQkRWf0ODskp.esWOldeLo3k8K.BZlYuGODIqNPJ*4!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=8499e5ff85f1bb5cddeffc0c731b350c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rmfDq7qhauc0jCr9Lp*Ws8CApHqVmFH9nJFhVMPwZ1wJWYu877eQhD844M0ocIAuyBzkg4NDapqbTUVh0o6KHY!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=6c469a2ac89e198c402547e69bf716f5&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/eef6641275d1761ac17f.webp",
+        "assets/images/qzone/0151556c014cbd7cb661.webp",
+        "assets/images/qzone/953a8627d5facb12434c.webp",
+        "assets/images/qzone/9d9353d1882eaa8b0e7c.webp",
+        "assets/images/qzone/32308de676e583254195.webp",
+        "assets/images/qzone/21eb0f608b406eac5c20.webp",
+        "assets/images/qzone/84e52febb2d8da0692db.webp",
+        "assets/images/qzone/4048caa73f6b742462b0.webp",
+        "assets/images/qzone/4935f52313e5efc844e3.webp"
       ],
-      "meta": "2023年10月17日 20:16",
+      "meta": "2023年10月17日 20:13",
       "qzoneId": "fct_3597948372_311_0_1697544827_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2531,11 +2341,12 @@ window.labContent = {
       ],
       "description": "StackFarm软件创新实验室2023年度总结表彰大会将于10月17日（下周二）12：30在科技楼2-311召开，让我们一起回顾过去的一年，感受我们团队的力量和凝聚力。\n感兴趣的同学可以进入腾讯会议，进行线上观看。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5ieDmsjfMhWRx*LfgbjH0f4J7EHPHClBiqG0rJHGPzlynLJ.l2LGe6AKlH1hN9*ch15DKVQBfyxdo.72Izl*6XI!/c&ek=1&kp=1&pt=0&bo=sQJYBLECWAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=8f3541add59cddcce410fe28012cb866&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5ieDmsjfMhWRx*LfgbjH0f4rBCKMKusx7BGLuNCmVr9F*vVrrfm0bDAZ*rtYlYHNGOc9fKoPwwXWzXuPam8xxtA!/c&ek=1&kp=1&pt=0&bo=MgTNBTIEzQUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=82a96abce46529356fc3bb3b89a4c602&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/b0a6a32c1d412c6f36ca.webp",
+        "assets/images/qzone/43af9b369e4698b7459b.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1697168016_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年10月13日 11:33"
     },
     {
       "id": "qzone-33fae709bd13",
@@ -2545,15 +2356,16 @@ window.labContent = {
       ],
       "description": "开放原子开源社团项目汇报。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmHO2uE*Iri2lrrGMkgLv.tTN3bGFMfr7*Xhjw6HWvl.E3H4YZDtqfhFambQEsrXt3A!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=df5a50f2fd0c1adf09cdbaa5e68f1a6c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmG.TAEpGXAtUFxfpmwBUNG3bi9VKiZAwodxfNVtmFksUt4DYuSKrFtN58ZP53rtt*4!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=eb7b758763737ac47e76f4f4381dffe1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmGD1Rrv4T69Dj6qrRYSy9PI.i8XJEm4bVhqJrvL0mZKChsXv0wkEePOJqKMJmIes6g!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=e615c893f0907f7517a541673027061d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5sfbQ4KsrVbEoWC4m.9MPmGT77AVWrXn*IMArDuOXnhU.SdTlbe9ZEdCf*yN3UfaAVDggI1Pbj2epdC1jYnN2Mk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=61baa86c3eb9f385f66049e0d72c95c3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWynjIVYuuv*L2.XsaIBo5i.3Px*Jlz3qcZgMCtrN6H73l7C5MPiAh*Xo30v1UUeZ0c!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=beee32511ec475dbd216def543f52dc8&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWwT2HQx9ycbbVnCyLzH35x9tJ89S6J*1guYjQzCz.wzcCJ5q4jl8fEVmhhrXOlgoag!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066449&dis_k=316e90ff4fbc07043e353959f3d348b9&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/55fe2ec8ebedf612abc9.webp",
+        "assets/images/qzone/e8d2fcb1ae94c25b8fc2.webp",
+        "assets/images/qzone/f7e62a8dbf936cb59b0b.webp",
+        "assets/images/qzone/726f05a05cf817b2ed4d.webp",
+        "assets/images/qzone/e2a604ca4ab8ddd165f8.webp",
+        "assets/images/qzone/32aed6e56b9677c3b5a5.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1695815725_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年09月27日 19:55"
     },
     {
       "id": "qzone-5ce9ce83c14c",
@@ -2564,10 +2376,11 @@ window.labContent = {
       ],
       "description": "StackFarm实验室-Taffeit科技社欢迎你加入，我们一起研讨学习新技术。\n社团本学期将开设多次免费研讨和沙龙活动，共同提高技术能力，诚邀志同道合的你参与。要求只有一个，肯花时间学习，肯花时间学习，肯花时间学习，由于本社团学习任务重，不建议重复加入，谢谢你的配合。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5r19vrmwKWYK6L3vqO9eiGRH6FRCoU6.2ms04khFCt2*dVN9KvgYndKtHGTt7I77VRmneCZL4rgAD70*TWI5gwU!/b&ek=1&kp=1&pt=0&bo=MwbFCDMGxQgDEDU!&tl=1&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=26eaaa7b76e43c4c2a8abd722385065e&sce=60-1-1&rf=0-0-0"
+        "assets/images/qzone/f50694d01da29337480a.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1695472519_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年09月23日 20:35"
     },
     {
       "id": "qzone-50e33f79d295",
@@ -2577,18 +2390,9 @@ window.labContent = {
       ],
       "description": "金陵科技学院开放原子开源社将面向全校学生开展主题为《探索Linux：发展历史、特点与开源世界》的公开课！在本次课程中，我们将与大家深入探讨Linux操作系统的发展历史、独特特点以及开源的概念，除此之外还将为大家介绍主流发行版本的开发过程和设计理念，以及如何进入开源社区。本次活动是我们为大家精心准备的免费公开课，诚挚欢迎…",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5oUCFm.pPg5T1SaaAS9Tlvmzn9RjF3jaj4DTdXKV3DiEbr5ptY8xfjxqIPovQSwVJg0qCjLzflk.7SxFQo8LUC8!/c&ek=1&kp=1&pt=0&bo=oAWAB6AFgAcWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=81d4dcf65c5f3b182f9d5a260780b242&sce=60-2-2&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWy2s5bQKjQSJ782eCqrDDiRvqzFxfjZH45oS1Ey4zls4pi2wW8sjAJoj4FpBaXqBV8!/m&ek=1&kp=1&pt=0&bo=kgSXApIElwIWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=d7a7f8c31eac2b553e5903f42dfea677&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWxUmmCzlzXE84PqCNN3qBc836STfwgNuQwCqq81jUmzeAovDY.icCEeHkHRNPLgbOY!/m&ek=1&kp=1&pt=0&bo=qAYABagGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=b0860cd9210b0b122d1974988b9ecaa1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5prPD0y1UFDwABADfHZYJWy4lTGDVphFqPUx4JsVWRyMRrhDCs9vxGrWbG0QLkt*neOdQqujf58OrGan9DMEiKc!/m&ek=1&kp=1&pt=0&bo=OAS5BDgEuQQWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=44483b58465e359407a9aaac8088acc4&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQuKLRdtq367FZteLDX4mtLwImk7kdE8pZcLZtT1ZelnNxhoKvawRGAo8UryYgtAAM!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=cc1ba524e5f60eba38bbda7cc758889f&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuT.b*po71S.gsfwcIZfaY7xkSBhoo9RNf9DwEOyZItDuRU77Y2LvOa7esUq3HSpMbE!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=aeeb931a66cef70ae80cfa863df5154d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQVTRTidrC.fgwi4RIVckqo*5ZzEbbi.6iDr9OTGdz8CGf8qpL41usRiUtI6.cOhgo!/m&ek=1&kp=1&pt=0&bo=PgZVCNALwA8WEFE!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=cb3d564d9c200ed7913c04a5510a336d&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5qns12LA4n2OWPAM9N*4tuQX.KlY3uE4S.7*Wn0NR88DH*AWaIPDbtPssxYIEW7FCpMc9sZOnVX0*P*MR3w5CBk!/m&ek=1&kp=1&pt=0&bo=qAYABagGAAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=076ae4290a4fc83bb93432cf2cb8a8a7&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rmfDq7qhauc0jCr9Lp*Ws*GasiuxmjCBYb2jWdeA9kxsMQkRWf0ODskp.esWOldeLo3k8K.BZlYuGODIqNPJ*4!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=8499e5ff85f1bb5cddeffc0c731b350c&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5rmfDq7qhauc0jCr9Lp*Ws8CApHqVmFH9nJFhVMPwZ1wJWYu877eQhD844M0ocIAuyBzkg4NDapqbTUVh0o6KHY!/m&ek=1&kp=1&pt=0&bo=VQhABsAP0AsWEC8!&t=5&tl=3&vuin=2927949337&tm=1795060800&dis_t=1795063586&dis_k=6c469a2ac89e198c402547e69bf716f5&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/ad3e0d7e9b8d570aa0f4.webp"
       ],
-      "meta": "2023年9月22日 21:53",
+      "meta": "2023年09月22日 21:42",
       "qzoneId": "fct_3597948372_311_0_1695390172_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2600,9 +2404,9 @@ window.labContent = {
       ],
       "description": "实验室三位同学参加2023融交会“XR+文旅”论坛活动。",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5n8NmXDzzwsY2Emj5dIxc9FqDS.u9Bnngb5wEK4C1ShWHYg4Ql*n2kdLrv2GSs2NVfUp3ndcE6JPjmTjyS6t0.E!/c&ek=1&kp=1&pt=0&bo=gAc4BIAHOAQWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=6a6967cd7df11824267e4c5a1e6da042&sce=60-2-2&rf=0-0-0"
+        "assets/images/qzone/8d21417759a578c13835.webp"
       ],
-      "meta": "2023年9月22日 17:30",
+      "meta": "2023年09月22日 17:15",
       "qzoneId": "fct_3597948372_311_0_1695374150_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },
@@ -2614,15 +2418,16 @@ window.labContent = {
       ],
       "description": "开源社团学习成果交流汇报，",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5eg.9U5QerXI7wm397AxdVaxOQT48poVpZ6ZULXe3fBj*HGFIS0IHuQ043cu.8H7AI!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=38d475aa57845110e165128084c41b7b&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5dH.szm1IWkMStLEKdLB7QulQ0Hc72Y2w1BkHdQaiDqjuXGOJYs6zUz.NzM2ce0Dgw!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=31e5ff02434b01d1128cb474e9c4f6f3&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5d28cTVgekw9EzIME6*CUP3v*tqoOksacI6DkHr*6LflrmSZ9uoLjLEUo8J2v0pVEU!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=5d8f42965fe283e9425e5f00ed42408a&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5tLiSfOlqUmI4uNk.S*Bn5fi0DXI1oFMb85ygIi0qH8OJgi5UkbknxRCbd9QjxweVYOphcSvTtLluv507TD.5mA!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=f23df970bf4f42afc9049242fc0cc538&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB5tu0KJ6a7oIrcGxGrjrcsKwNGJJkEPi1MTWmHMjHJ5MrZCUlROq9g0SjoOdpk7wOk!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=9210b9cc2d34bbb816d15b8022b7d3d5&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5t68SCqr7vX9r6Rph6KlaB4nfViL6a0aJtJDOrDau2AvyjfB4wDKWGMfFCTjV5oJdZjFKNddaZVbcuW0TdTn8Ic!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=08561bd81d6c1dd4babd1bae9ce509fd&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/61f55d5861d085086d6a.webp",
+        "assets/images/qzone/2cf3e64488d796171206.webp",
+        "assets/images/qzone/452ecb8ae96c88cde85a.webp",
+        "assets/images/qzone/579b42f74da8432e332b.webp",
+        "assets/images/qzone/fe0cbce1cd99d8355bb2.webp",
+        "assets/images/qzone/635c0a0e2d65d0cadb22.webp"
       ],
       "qzoneId": "fct_3597948372_311_0_1695295798_0_1",
-      "capturedAt": "2026-11-19T05:39:56.733Z"
+      "capturedAt": "2026-11-19T05:39:56.733Z",
+      "meta": "2023年09月21日 19:29"
     },
     {
       "id": "qzone-66c8562bec4e",
@@ -2632,11 +2437,11 @@ window.labContent = {
       ],
       "description": "恭喜张伊睿同学成为51CTO 开源基础软件社区8月社区明星！让我们给予她衷心的祝贺，也希望其他同学也能够向她看齐，携手共创繁荣开源社区！",
       "images": [
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5uGx2Z.nM8earqlujmYqPXwodx4jGe2w89aXTHvqNgXn7fL*5kMmCSeEg3Co1lzQ1SPLvdBPrI6bi.Stq2a2f2Y!/m&ek=1&kp=1&pt=0&bo=DgdmAw4HZgMWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=c3f7b321ff827f1a088523b780495955&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mMGRcQP470JIo1aObn*ahls3crdYZgPpr7Drnwtj906cN4.yFtHU97H1XW*EQHvXsd4KarOrhH3HjAG1sC.Tts!/m&ek=1&kp=1&pt=0&bo=gAegBYAHoAUWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=7382070e47052d8641bc4f1950b453b1&sce=60-4-3&rf=0-0-0",
-        "https://a1.qpic.cn/psc?/V11SnNW51cLZxQ/ruAMsa53pVQWN7FLK88i5mMGRcQP470JIo1aObn*ahkIsJdBwiYNf1*CCRSYTvTuPk4XzMcSO74rRdsS4rrgxolYE9raiJf2*V3hYJ7I.OQ!/m&ek=1&kp=1&pt=0&bo=AAWqBgAFqgYWECA!&t=5&tl=3&vuin=2927949337&tm=1795064400&dis_t=1795066451&dis_k=d124000a2fa2503bf193540a79e7bd67&sce=60-4-3&rf=0-0-0"
+        "assets/images/qzone/c190e7208e09fc1b0eaf.webp",
+        "assets/images/qzone/aa2923881a56c0027e7a.webp",
+        "assets/images/qzone/5c66f5251c276b99d04e.webp"
       ],
-      "meta": "2023年9月14日 11:05",
+      "meta": "2023年09月14日 08:44",
       "qzoneId": "fct_3597948372_311_0_1694652295_0_1",
       "capturedAt": "2026-11-19T05:39:56.733Z"
     },

@@ -137,8 +137,12 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
 }
 .theme-ripple-overlay { position: fixed; inset: 0; z-index: 2147483647; pointer-events: none; background: var(--ripple-color); clip-path: circle(0 at var(--theme-origin)); }
 
+main[data-page^="news/"] {
+  width: min(100% - clamp(32px, 6vw, 104px), 1280px);
+}
+
 .news-body {
-  max-width: 720px;
+  width: 100%;
   margin: 0 auto 42px;
   white-space: pre-wrap;
   overflow-wrap: anywhere;

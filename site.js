@@ -150,7 +150,6 @@ const carouselPosts = {
   software: [["qzone-10", "多项目研发研讨会"], ["qzone-11", "智能科技项目研讨"], ["qzone-12", "学生团队汇报项目进展"]],
   team: [["qzone-2", "新学期第一次组会"], ["qzone-33", "科技社与开放原子开源社团建"], ["qzone-41", "实验室年度总结表彰大会"]]
 };
-const cupPhoto = "https://soft.jit.edu.cn/__local/8/37/C8/E76CD0B7F09B1BDEB65A2A8A256_1F6B85D3_42683.jpg";
 
 function featureCarousel(title, category) {
   const carousel = element("figure", "", "feature-art carousel");
@@ -170,7 +169,6 @@ function featureCarousel(title, category) {
   const slides = carouselPosts[category].map(([id, caption]) => {
     const post = lab.news.find(item => item.id === id);
     const urls = (post?.images || []).slice(0, 3);
-    if (id === "qzone-40") urls.unshift(cupPhoto);
     return {id, caption, urls};
   });
   let current = 0;
