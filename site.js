@@ -278,7 +278,12 @@ function render() {
     }
     for (const [title, entries] of Object.values(collections)) {
       const related = entries.filter(entry => entry.projects?.includes(project.id));
-      if (related.length) indexSection(title, list(related, "", entries === lab.news));
+      if (related.length) {
+        const projectEntries = entries === lab.people
+          ? related.map(entry => ({ ...entry, description: undefined }))
+          : related;
+        indexSection(title, list(projectEntries, "", entries === lab.news));
+      }
     }
   } else if (route === "research") {
     heading("研发项目", "浏览实验室的项目方向、研发计划与相关组会。");
