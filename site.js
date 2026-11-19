@@ -296,6 +296,12 @@ function render() {
   } else {
     const hero = heading(lab.name, lab.intro);
     hero.className += " home-hero";
+    if (lab.name.startsWith("StackFarm")) {
+      hero.querySelector("h1").replaceChildren(
+        element("span", "StackFarm"),
+        element("span", lab.name.slice("StackFarm".length))
+      );
+    }
     const actions = element("div", "", "hero-actions");
     actions.append(
       link("探索研发项目", "#research", "hero-action primary"),
@@ -349,12 +355,15 @@ function applyTheme() {
   document.documentElement.dataset.theme = dark ? "dark" : "light";
   theme.textContent = dark ? "☾" : "☀";
   theme.setAttribute("aria-pressed", String(dark));
+  theme.setAttribute("aria-label", dark ? "切换到浅色模式" : "切换到深色模式");
 }
-theme.addEventListener("click", () => {
+theme.addEventListener("click", async () => {
+  theme.disabled = true;
   saved = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
   try { localStorage.setItem(key, saved); } catch {}
-  if (!document.startViewTransition || matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
     applyTheme();
+    theme.disabled = false;
     return;
   }
 
@@ -365,7 +374,31 @@ theme.addEventListener("click", () => {
   const root = document.documentElement;
   root.style.setProperty("--theme-origin", x + "px " + y + "px");
   root.style.setProperty("--theme-radius", radius + "px");
-  document.startViewTransition(applyTheme);
+  try {
+    if (document.startViewTransition) {
+      const transition = document.startViewTransition(applyTheme);
+      await transition.finished;
+    } else {
+      const overlay = element("div", "", "theme-ripple-overlay");
+      overlay.setAttribute("aria-hidden", "true");
+      root.style.setProperty("--ripple-color", saved === "dark" ? "#122033" : "#f7fafc");
+      document.body.append(overlay);
+      try {
+        await overlay.animate([
+          { clipPath: `circle(0px at ${x}px ${y}px)` },
+          { clipPath: `circle(${radius}px at ${x}px ${y}px)` }
+        ], { duration: 560, easing: "cubic-bezier(.22,.65,.28,1)", fill: "forwards" }).finished;
+        applyTheme();
+        await overlay.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 180, fill: "forwards" }).finished;
+      } finally {
+        overlay.remove();
+      }
+    }
+  } catch {
+    applyTheme();
+  } finally {
+    theme.disabled = false;
+  }
 });
 applyTheme();
 theme.hidden = false;

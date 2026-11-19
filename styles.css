@@ -40,8 +40,8 @@ main:focus { outline: none; }
   --fade-direction: to top;
   padding-bottom: var(--banner-fade);
 }
-.masthead { width: min(100% - 52px, 1270px); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 18px 40px; min-height: 80px; padding-block: 14px; }
-.identity { display: flex; align-items: center; gap: 14px; line-height: 1.35; }
+.masthead { width: calc(100% - clamp(32px, 5vw, 96px)); display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 18px 40px; min-height: 80px; padding-block: 14px; }
+.identity { display: flex; align-items: center; gap: 14px; line-height: 1.35; max-width: 100%; min-width: 0; }
 .identity strong, .identity small { display: block; }
 .identity strong { font-size: clamp(.98rem, 2.3vw, 1.25rem); }
 .identity small { margin-top: 5px; color: var(--muted); }
@@ -58,7 +58,8 @@ h1, h2, h3 { line-height: 1.3; }
 .page-heading p { max-width: 44em; margin: 16px auto 0; color: var(--muted); }
 main[data-page="home"] { width: min(94%, 1440px); }
 .home-hero { padding: clamp(28px, 5vw, 72px) 12px clamp(28px, 5vw, 72px); }
-.home-hero h1 { font-size: clamp(2.15rem, 6.8vw, 5.5rem); line-height: 1.13; }
+.home-hero h1 { display: flex; justify-content: center; flex-wrap: wrap; column-gap: .12em; font-size: clamp(2rem, 5.5vw, 5rem); line-height: 1.2; overflow-wrap: normal; }
+.home-hero h1 span { display: inline-block; }
 .home-hero p { max-width: 48em; font-size: clamp(1rem, 1.7vw, 1.28rem); }
 .hero-actions { display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
 .hero-action { display: inline-block; border: 1px solid var(--accent); border-radius: 999px; padding: 8px 19px; text-decoration: none; font-weight: 650; }
@@ -119,8 +120,13 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
   .highlights, .feature:first-child, .project-grid, main[data-page="home"] .entries { grid-template-columns: 1fr; }
   .feature .feature-art { height: auto; }
   .home-hero { padding-inline: 0; }
+  .home-hero h1 { font-size: clamp(1.65rem, 7.1vw, 3rem); }
+  .home-hero h1 span { flex-basis: 100%; }
+  .lab-mark { width: 44px; height: 44px; flex-basis: 44px; }
 }
 ::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+::view-transition-old(root) { z-index: 1; }
+::view-transition-new(root) { z-index: 2; }
 ::view-transition-new(root) { animation: theme-ripple 560ms cubic-bezier(.22,.65,.28,1) both; }
 @keyframes theme-ripple {
   from { clip-path: circle(0 at var(--theme-origin)); }
@@ -129,6 +135,7 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
 @media (prefers-reduced-motion: reduce) {
   ::view-transition-new(root) { animation: none; }
 }
+.theme-ripple-overlay { position: fixed; inset: 0; z-index: 2147483647; pointer-events: none; background: var(--ripple-color); clip-path: circle(0 at var(--theme-origin)); }
 
 .news-body {
   max-width: 720px;
@@ -170,7 +177,8 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
     .hero-content {
       animation: hero-scroll-out linear both;
       animation-timeline: --home-intro;
-      animation-range: exit 0% exit 85%;
+      animation-range: exit 0% exit 75%;
+      transform-origin: 50% 35%;
     }
     :where(
       .masthead,
@@ -182,8 +190,6 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
       .entries > .entry,
       .entries > .empty,
       .archive-toolbar,
-      .project-image,
-      .project-body,
       .news-body > p,
       .news-body > a,
       .news-gallery > figure
@@ -191,21 +197,54 @@ main[data-page="home"] .entry p:not(.news-date) { display: -webkit-box; -webkit-
       animation: content-scroll linear both;
       animation-timeline: view();
       animation-range: cover;
+      transform-origin: center;
+    }
+    .highlights > .feature {
+      animation-name: feature-scroll;
+    }
+    .feature .carousel-slide img {
+      animation: image-scroll linear both;
+      animation-timeline: view();
+      animation-range: cover;
     }
     .home-hero:has(:focus-visible) .hero-content,
     :where(.masthead, .footer, .highlights > .feature, .project-grid > .project, .entries > .entry, .section-heading, .archive-toolbar, .news-body > a):is(:focus-visible, :has(:focus-visible)) {
       animation-name: none;
+      filter: none;
     }
   }
 }
 @keyframes hero-scroll-out {
-  from { opacity: 1; transform: translateY(0) scale(1); }
-  to { opacity: .12; transform: translateY(-56px) scale(.89); }
+  0% { opacity: 1; transform: translateY(0) scale(1); filter: blur(0) brightness(1); }
+  35% { opacity: .8; transform: translateY(-36px) scale(.96); filter: blur(0) brightness(.9); }
+  100% { opacity: .04; transform: translateY(-130px) scale(.8); filter: blur(5px) brightness(.55); }
 }
 @keyframes content-scroll {
-  entry 0% { opacity: .26; transform: translateY(32px) scale(.968); }
-  entry 70%, exit 25% { opacity: 1; transform: translateY(0) scale(1); }
-  exit 100% { opacity: .24; transform: translateY(-28px) scale(.974); }
+  entry 0% { opacity: .08; transform: translateY(76px) scale(.91); filter: blur(3px) brightness(.75); }
+  entry 85%, exit 10% { opacity: 1; transform: translateY(0) scale(1); filter: blur(0) brightness(1); }
+  exit 100% { opacity: .08; transform: translateY(-64px) scale(.92); filter: blur(3px) brightness(.65); }
+}
+@keyframes feature-scroll {
+  entry 0% { opacity: .06; transform: translateY(100px) scale(.87) perspective(1200px) rotateX(7deg); filter: brightness(.65); }
+  entry 90%, exit 5% { opacity: 1; transform: translateY(0) scale(1) perspective(1200px) rotateX(0deg); filter: brightness(1); }
+  exit 100% { opacity: .06; transform: translateY(-84px) scale(.9) perspective(1200px) rotateX(-5deg); filter: brightness(.6); }
+}
+@keyframes image-scroll {
+  entry 0% { transform: scale(1.14) translateY(2%); }
+  entry 100%, exit 0% { transform: scale(1.03) translateY(0); }
+  exit 100% { transform: scale(1.12) translateY(-2%); }
+}
+@media (max-width: 680px) {
+  @keyframes content-scroll {
+    entry 0% { opacity: .12; transform: translateY(48px) scale(.94); }
+    entry 85%, exit 10% { opacity: 1; transform: translateY(0) scale(1); }
+    exit 100% { opacity: .12; transform: translateY(-40px) scale(.95); }
+  }
+  @keyframes feature-scroll {
+    entry 0% { opacity: .1; transform: translateY(64px) scale(.91); filter: brightness(.75); }
+    entry 90%, exit 5% { opacity: 1; transform: translateY(0) scale(1); filter: brightness(1); }
+    exit 100% { opacity: .1; transform: translateY(-52px) scale(.93); filter: brightness(.7); }
+  }
 }
 
 .achievement-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
