@@ -209,9 +209,8 @@ function featureCarousel(title, category) {
   return carousel;
 }
 
-function render() {
+function render(route = location.hash.slice(1) || "home") {
   for (const timer of carouselTimers.splice(0)) clearInterval(timer);
-  const route = location.hash.slice(1) || "home";
   const project = lab.projects.find(item => route === "project/" + encodeURIComponent(item.id));
   const newsDetail = route.startsWith("news/");
   const post = newsDetail && lab.news.find(entry => route === "news/" + encodeURIComponent(entry.id));
@@ -352,10 +351,55 @@ if (siteHeader && typeof ResizeObserver === "function") {
   new ResizeObserver(resizeHeader).observe(siteHeader);
 }
 render();
+const navRoutes = navLinks.map(item => item.hash.slice(1));
+let navigationOverlay;
 window.addEventListener("hashchange", () => {
   if (location.hash === "#main") return;
-  render();
+  navigationOverlay?.remove();
+  const route = location.hash.slice(1) || "home";
+  const from = navRoutes.indexOf(main.dataset.page);
+  const to = navRoutes.indexOf(route);
+  const slide = from >= 0 && to >= 0 && from !== to && !reducedMotion.matches && typeof main.animate === "function";
+  if (slide) {
+    const overlay = element("div", "", "navigation-overlay");
+    overlay.inert = true;
+    overlay.setAttribute("aria-hidden", "true");
+    const track = element("div", "", "navigation-track");
+    const direction = Math.sign(to - from);
+    const distance = Math.abs(to - from);
+    const addPanel = (offset = 0) => {
+      const panel = element("div", "", "navigation-panel");
+      const snapshot = main.cloneNode(true);
+      snapshot.removeAttribute("id");
+      snapshot.style.marginTop = offset + "px";
+      panel.append(snapshot);
+      track.append(panel);
+    };
+    const headerBottom = siteHeader?.getBoundingClientRect().bottom ?? 0;
+    addPanel(main.getBoundingClientRect().top - Math.max(0, headerBottom));
+    for (let index = from + direction; index !== to; index += direction) {
+      render(navRoutes[index]);
+      addPanel();
+    }
+    render(route);
+    addPanel();
+    if (direction < 0) track.replaceChildren(...Array.from(track.children).reverse());
+    overlay.append(track);
+    document.body.append(overlay);
+    navigationOverlay = overlay;
+    const positions = ["translateX(0)", `translateX(-${distance * 100}%)`];
+    if (direction < 0) positions.reverse();
+    const animation = track.animate(positions.map(transform => ({ transform })), {
+      duration: Math.min(850, 360 + (distance - 1) * 130),
+      easing: "cubic-bezier(.45,0,.25,1)",
+      fill: "both"
+    });
+    animation.finished.then(() => overlay.remove(), () => overlay.remove());
+  } else {
+    render(route);
+  }
   window.scrollTo(0, 0);
+  if (slide) navigationOverlay.style.top = Math.max(0, siteHeader?.getBoundingClientRect().bottom ?? 0) + "px";
   main.focus({ preventScroll: true });
 });
 
