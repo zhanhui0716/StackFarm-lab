@@ -4,7 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>StackFarm软件创新实验室</title>
+<link rel="preload" href="assets/fonts/HarmonyOS_Sans_SC_Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="assets/fonts/HarmonyOS_Sans_SC_Bold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="styles.css">
+<script>
+  if (document.fonts) {
+    document.documentElement.classList.add("fonts-loading");
+    Promise.allSettled([
+      document.fonts.load('400 16px "HarmonyOS Sans SC"', "StackFarm 实验室"),
+      document.fonts.load('700 16px "HarmonyOS Sans SC"', "StackFarm 实验室")
+    ]).then(() => document.documentElement.classList.remove("fonts-loading"));
+  }
+</script>
 <script defer src="content.js"></script>
 <script defer src="site.js"></script>
 </head>
