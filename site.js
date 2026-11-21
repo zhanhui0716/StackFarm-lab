@@ -76,7 +76,7 @@ function list(entries, emptyMessage, newsLinks = false) {
   return container;
 }
 
-function achievements() {
+function achievements(previewLimit) {
   const categories = [["all", "全部"], ["copyright", "软著"], ["project", "项目"], ["competition", "竞赛"]];
   const projectEntries = lab.projects.map(project => ({
     ...project,
@@ -94,7 +94,8 @@ function achievements() {
     for (const [key, button] of buttons) {
       button.setAttribute("aria-pressed", String(key === category));
     }
-    const visible = category === "all" ? entries : entries.filter(entry => entry.category === category);
+    const matching = category === "all" ? entries : entries.filter(entry => entry.category === category);
+    const visible = previewLimit ? matching.slice(0, previewLimit) : matching;
     results.replaceChildren(list(visible, category === "copyright" ? "暂无已收录的软著。" : "暂无相关成果。"));
   }
 
@@ -109,7 +110,8 @@ function achievements() {
   select("all");
 }
 
-function newsArchive() {
+let newsSearchIndex;
+function newsArchive(previewLimit) {
   const toolbar = element("div", "", "archive-toolbar");
   const label = element("label", "搜索动态");
   const input = element("input");
@@ -122,15 +124,33 @@ function newsArchive() {
   toolbar.append(label, count);
   main.append(toolbar, results);
 
+  if (previewLimit) {
+    count.textContent = lab.news.length + " 条动态";
+    results.append(list(lab.news.slice(0, previewLimit), "", true));
+    return;
+  }
+
+  let previousQuery;
+  let pendingFilter;
   function filter() {
     const query = input.value.trim().toLocaleLowerCase();
-    const entries = lab.news.filter(entry =>
-      [entry.title, entry.meta, entry.eventDate, entry.description, ...(entry.body || [])].join(" ").toLocaleLowerCase().includes(query)
-    );
+    if (query === previousQuery) return;
+    previousQuery = query;
+    let entries = lab.news;
+    if (query) {
+      newsSearchIndex ??= lab.news.map(entry => ({
+        entry,
+        text: [entry.title, entry.meta, entry.eventDate, entry.description, ...(entry.body || [])].join(" ").toLocaleLowerCase()
+      }));
+      entries = newsSearchIndex.filter(item => item.text.includes(query)).map(item => item.entry);
+    }
     count.textContent = entries.length + " 条动态";
     results.replaceChildren(list(entries, "没有找到匹配的动态。", true));
   }
-  input.addEventListener("input", filter);
+  input.addEventListener("input", () => {
+    cancelAnimationFrame(pendingFilter);
+    pendingFilter = requestAnimationFrame(filter);
+  });
   filter();
 }
 
@@ -209,7 +229,7 @@ function featureCarousel(title, category) {
   return carousel;
 }
 
-function render(route = location.hash.slice(1) || "home") {
+function render(route = location.hash.slice(1) || "home", previewLimit) {
   for (const timer of carouselTimers.splice(0)) clearInterval(timer);
   const project = lab.projects.find(item => route === "project/" + encodeURIComponent(item.id));
   const newsDetail = route.startsWith("news/");
@@ -286,25 +306,27 @@ function render(route = location.hash.slice(1) || "home") {
     }
   } else if (route === "research") {
     heading("研发项目", "浏览实验室的项目方向、研发计划与相关组会。");
-    const featured = lab.projects.filter(project => project.featured);
+    const projects = previewLimit ? lab.projects.slice(0, previewLimit) : lab.projects;
+    const featured = projects.filter(project => project.featured);
     if (featured.length) {
       indexSection("核心研发项目", projectGrid(featured));
-      const otherProjects = lab.projects.filter(project => !project.featured);
+      const otherProjects = projects.filter(project => !project.featured);
       if (otherProjects.length) indexSection("其他研发与历史项目", projectGrid(otherProjects));
     } else {
-      main.append(projectGrid());
+      main.append(projectGrid(projects));
     }
   } else if (Object.hasOwn(collections, route)) {
     const [title, entries] = collections[route];
     heading(title, route === "news" ? "整理自实验室官方 QQ 空间及金陵科技学院官网。部分动态为原帖摘要。" : undefined);
     document.title = title + " · " + lab.name;
-    if (route === "news") newsArchive();
-    else if (route === "publications") achievements();
-    else main.append(list(entries, "暂无条目。"));
+    if (route === "news") newsArchive(previewLimit);
+    else if (route === "publications") achievements(previewLimit);
+    else main.append(list(previewLimit ? entries.slice(0, previewLimit) : entries, "暂无条目。"));
   } else if (route === "about") {
     heading("关于实验室", lab.intro);
     indexSection("发展与实践", list(lab.about));
     if (lab.contact) indexSection("联系", element("p", lab.contact));
+    indexSection("字体许可", link("本站使用鸿蒙黑体（HarmonyOS Sans）", "assets/fonts/LICENSE.txt"));
   } else {
     const hero = heading(lab.name, lab.intro);
     hero.className += " home-hero";
@@ -378,7 +400,7 @@ window.addEventListener("hashchange", () => {
     const headerBottom = siteHeader?.getBoundingClientRect().bottom ?? 0;
     addPanel(main.getBoundingClientRect().top - Math.max(0, headerBottom));
     for (let index = from + direction; index !== to; index += direction) {
-      render(navRoutes[index]);
+      render(navRoutes[index], 8);
       addPanel();
     }
     render(route);
@@ -394,7 +416,11 @@ window.addEventListener("hashchange", () => {
       easing: "cubic-bezier(.45,0,.25,1)",
       fill: "both"
     });
-    animation.finished.then(() => overlay.remove(), () => overlay.remove());
+    const removeOverlay = () => {
+      overlay.remove();
+      if (navigationOverlay === overlay) navigationOverlay = undefined;
+    };
+    animation.finished.then(removeOverlay, removeOverlay);
   } else {
     render(route);
   }
