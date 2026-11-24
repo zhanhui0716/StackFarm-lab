@@ -147,10 +147,16 @@ function newsArchive(previewLimit) {
     count.textContent = entries.length + " 条动态";
     results.replaceChildren(list(entries, "没有找到匹配的动态。", true));
   }
-  input.addEventListener("input", () => {
+  function scheduleFilter() {
     cancelAnimationFrame(pendingFilter);
-    pendingFilter = requestAnimationFrame(filter);
+    pendingFilter = requestAnimationFrame(() => {
+      if (input.isConnected) filter();
+    });
+  }
+  input.addEventListener("input", event => {
+    if (!event.isComposing) scheduleFilter();
   });
+  input.addEventListener("compositionend", scheduleFilter);
   filter();
 }
 
@@ -326,7 +332,9 @@ function render(route = location.hash.slice(1) || "home", previewLimit) {
     heading("关于实验室", lab.intro);
     indexSection("发展与实践", list(lab.about));
     if (lab.contact) indexSection("联系", element("p", lab.contact));
-    indexSection("字体许可", link("本站使用鸿蒙黑体（HarmonyOS Sans）", "assets/fonts/LICENSE.txt"));
+    const fontCredit = element("p", "本站使用鸿蒙黑体（HarmonyOS Sans）。");
+    fontCredit.append(" © 2021 Huawei Device Co., Ltd. ", link("查看字体许可全文", "assets/fonts/LICENSE.txt"));
+    indexSection("字体许可", fontCredit);
   } else {
     const hero = heading(lab.name, lab.intro);
     hero.className += " home-hero";
@@ -375,8 +383,10 @@ if (siteHeader && typeof ResizeObserver === "function") {
 render();
 const navRoutes = navLinks.map(item => item.hash.slice(1));
 let navigationOverlay;
+let navigationAnimation;
 window.addEventListener("hashchange", () => {
   if (location.hash === "#main") return;
+  navigationAnimation?.cancel();
   navigationOverlay?.remove();
   const route = location.hash.slice(1) || "home";
   const from = navRoutes.indexOf(main.dataset.page);
@@ -416,9 +426,11 @@ window.addEventListener("hashchange", () => {
       easing: "cubic-bezier(.45,0,.25,1)",
       fill: "both"
     });
+    navigationAnimation = animation;
     const removeOverlay = () => {
       overlay.remove();
       if (navigationOverlay === overlay) navigationOverlay = undefined;
+      if (navigationAnimation === animation) navigationAnimation = undefined;
     };
     animation.finished.then(removeOverlay, removeOverlay);
   } else {
