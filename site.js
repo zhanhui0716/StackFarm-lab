@@ -235,6 +235,94 @@ function featureCarousel(title, category) {
   return carousel;
 }
 
+function createNewsViewer(images) {
+  const dialog = element("dialog", "", "news-viewer");
+  dialog.setAttribute("aria-label", "动态图片查看器");
+  const stage = element("div", "", "news-viewer-stage");
+  const feedback = element("p", "", "news-viewer-feedback");
+  feedback.setAttribute("role", "status");
+  const preloaded = new Map();
+  const status = element("p");
+  status.setAttribute("aria-live", "polite");
+  let index = 0;
+  function show(nextIndex) {
+    index = (nextIndex + images.length) % images.length;
+    const photo = element("img");
+    photo.referrerPolicy = "no-referrer";
+    photo.alt = "动态配图 " + (index + 1);
+    feedback.textContent = "正在加载图片…";
+    stage.replaceChildren(photo, feedback);
+    photo.addEventListener("load", () => {
+      if (photo.parentNode !== stage || !dialog.open) return;
+      feedback.textContent = "";
+      const neighbors = new Set([(index + 1) % images.length, (index + images.length - 1) % images.length]);
+      neighbors.delete(index);
+      for (const key of preloaded.keys()) if (!neighbors.has(key)) preloaded.delete(key);
+      for (const key of neighbors) {
+        if (preloaded.has(key)) continue;
+        const preview = new Image();
+        preview.referrerPolicy = "no-referrer";
+        preview.fetchPriority = "low";
+        preview.src = images[key];
+        preloaded.set(key, preview);
+      }
+    });
+    photo.addEventListener("error", () => {
+      if (photo.parentNode !== stage) return;
+      photo.hidden = true;
+      feedback.textContent = "图片暂无法加载";
+    });
+    photo.src = images[index];
+    status.textContent = (index + 1) + " / " + images.length;
+  }
+  function control(text, label, action) {
+    const button = element("button", text);
+    button.type = "button";
+    button.setAttribute("aria-label", label);
+    button.addEventListener("click", action);
+    return button;
+  }
+  const controls = element("div", "", "news-viewer-controls");
+  if (images.length > 1) controls.append(control("‹", "上一张", () => show(index - 1)));
+  controls.append(status);
+  if (images.length > 1) controls.append(control("›", "下一张", () => show(index + 1)));
+  controls.append(control("×", "关闭图片", () => dialog.close()));
+  dialog.append(stage, controls);
+  let swipe;
+  stage.addEventListener("pointerdown", event => {
+    if (event.pointerType !== "touch" || !event.isPrimary || images.length < 2) return;
+    swipe = { id: event.pointerId, x: event.clientX, y: event.clientY };
+    stage.setPointerCapture(event.pointerId);
+  });
+  stage.addEventListener("pointercancel", () => { swipe = undefined; });
+  stage.addEventListener("pointerup", event => {
+    if (swipe?.id !== event.pointerId) return;
+    const dx = event.clientX - swipe.x;
+    const dy = event.clientY - swipe.y;
+    swipe = undefined;
+    if (Math.abs(dx) >= 45 && Math.abs(dx) > Math.abs(dy) * 1.4) show(index + (dx < 0 ? 1 : -1));
+  });
+  dialog.addEventListener("keydown", event => {
+    if (event.key !== "ArrowLeft" && event.key !== "ArrowRight") return;
+    event.preventDefault();
+    show(index + (event.key === "ArrowLeft" ? -1 : 1));
+  });
+  dialog.addEventListener("click", event => {
+    if (event.target === dialog) dialog.close();
+  });
+  dialog.addEventListener("close", () => {
+    preloaded.clear();
+    swipe = undefined;
+    stage.replaceChildren();
+    dialog.remove();
+  });
+  return nextIndex => {
+    document.body.append(dialog);
+    dialog.showModal();
+    show(nextIndex);
+  };
+}
+
 function render(route = location.hash.slice(1) || "home", previewLimit) {
   for (const timer of carouselTimers.splice(0)) clearInterval(timer);
   const project = lab.projects.find(item => route === "project/" + encodeURIComponent(item.id));
@@ -265,19 +353,25 @@ function render(route = location.hash.slice(1) || "home", previewLimit) {
       }
       if (post.images?.length) {
         const gallery = element("div", "", "news-gallery");
+        const openViewer = createNewsViewer(post.images);
         for (const [index, url] of post.images.entries()) {
           const figure = element("figure");
           const image = element("img");
           image.alt = "动态原帖配图 " + (index + 1);
           image.loading = "lazy";
           image.referrerPolicy = "no-referrer";
+          const thumbnail = element("button", "", "news-thumbnail");
+          thumbnail.type = "button";
+          thumbnail.setAttribute("aria-label", "放大查看配图 " + (index + 1));
+          thumbnail.addEventListener("click", () => openViewer(index));
+          thumbnail.append(image);
           const unavailable = element("figcaption", "原帖配图 " + (index + 1) + " 暂无法加载");
           unavailable.hidden = true;
           image.addEventListener("error", () => {
-            image.hidden = true;
+            thumbnail.hidden = true;
             unavailable.hidden = false;
           });
-          figure.append(image, unavailable);
+          figure.append(thumbnail, unavailable);
           gallery.append(figure);
           image.src = url;
         }
@@ -386,6 +480,7 @@ let navigationOverlay;
 let navigationAnimation;
 window.addEventListener("hashchange", () => {
   if (location.hash === "#main") return;
+  document.querySelector(".news-viewer[open]")?.close();
   navigationAnimation?.cancel();
   navigationOverlay?.remove();
   const route = location.hash.slice(1) || "home";
@@ -468,32 +563,113 @@ theme.addEventListener("click", async () => {
   const radius = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
   const root = document.documentElement;
   root.style.setProperty("--theme-origin", x + "px " + y + "px");
-  root.style.setProperty("--theme-radius", radius + "px");
+  navigationAnimation?.cancel();
+  navigationOverlay?.remove();
+  const background = element("div", "", "theme-ripple-overlay");
+  const content = element("div", "", "theme-ripple-content");
+  const sources = [siteHeader, main, document.querySelector(".site-footer")].filter(Boolean);
+  let ripple;
   try {
-    if (document.startViewTransition) {
-      const transition = document.startViewTransition(applyTheme);
-      await transition.finished;
-    } else {
-      const overlay = element("div", "", "theme-ripple-overlay");
-      overlay.setAttribute("aria-hidden", "true");
-      root.style.setProperty("--ripple-color", saved === "dark" ? "#122033" : "#f7fafc");
-      document.body.append(overlay);
-      try {
-        await overlay.animate([
-          { clipPath: `circle(0px at ${x}px ${y}px)` },
-          { clipPath: `circle(${radius}px at ${x}px ${y}px)` }
-        ], { duration: 560, easing: "cubic-bezier(.22,.65,.28,1)", fill: "forwards" }).finished;
-        applyTheme();
-        await overlay.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 180, fill: "forwards" }).finished;
-      } finally {
-        overlay.remove();
-      }
+    background.dataset.theme = content.dataset.theme = saved;
+    background.setAttribute("aria-hidden", "true");
+    content.setAttribute("aria-hidden", "true");
+    content.inert = true;
+    for (const source of sources) {
+      const rect = source.getBoundingClientRect();
+      const copy = source.cloneNode(true);
+      copy.removeAttribute("id");
+      Object.assign(copy.style, {
+        position: "absolute", margin: "0",
+        left: rect.left + "px", top: rect.top + "px", width: rect.width + "px"
+      });
+      content.append(copy);
+      source.style.setProperty("--ripple-local-origin", `${x - rect.left}px ${y - rect.top}px`);
+      source.classList.add("theme-ripple-source");
     }
-  } catch {
-    applyTheme();
+    document.body.append(background, content);
+    ripple = root.animate([
+      { "--theme-ripple-size": "0px" },
+      { "--theme-ripple-size": radius + "px" }
+    ], { duration: 560, easing: "cubic-bezier(.22,.65,.28,1)", fill: "forwards" });
+    await ripple.finished;
   } finally {
+    applyTheme();
+    ripple?.cancel();
+    background.remove();
+    content.remove();
+    for (const source of sources) {
+      source.classList.remove("theme-ripple-source");
+      source.style.removeProperty("--ripple-local-origin");
+    }
     theme.disabled = false;
   }
 });
 applyTheme();
 theme.hidden = false;
+
+const starfield = element("canvas", "", "theme-particles");
+starfield.setAttribute("aria-hidden", "true");
+if (window.THREE) {
+  let renderer;
+  try {
+      renderer = new THREE.WebGLRenderer({ canvas: starfield, alpha: true });
+  } catch {
+    // The theme background remains visible when WebGL is unavailable.
+  }
+  if (renderer) {
+    document.body.prepend(starfield);
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(70, 1, 0.1, 1800);
+    camera.position.z = 220;
+
+    const positions = new Float32Array(6000 * 3);
+    for (let index = 0; index < positions.length; index++) {
+      positions[index] = (Math.random() - 0.5) * 1200;
+    }
+    const geometry = new THREE.BufferGeometry();
+    geometry.setAttribute("position", new THREE.BufferAttribute(positions, 3));
+    const dot = document.createElement("canvas");
+    dot.width = dot.height = 32;
+    const dotContext = dot.getContext("2d");
+    dotContext.fillStyle = "#fff";
+    dotContext.beginPath();
+    dotContext.arc(16, 16, 15, 0, Math.PI * 2);
+    dotContext.fill();
+    const dotTexture = new THREE.CanvasTexture(dot);
+    const material = new THREE.PointsMaterial({
+      color: 0xffffff, map: dotTexture, size: 1.4, transparent: true, opacity: 0.68, depthWrite: false
+    });
+    const stars = new THREE.Points(geometry, material);
+    scene.add(stars);
+
+    let frame;
+    let previousFrame;
+    function animate(time) {
+      const elapsed = previousFrame === undefined ? 0 : Math.min(time - previousFrame, 50);
+      previousFrame = time;
+      stars.rotation.y += 0.0012 * elapsed * 60 / 1000;
+      stars.rotation.x += 0.0004 * elapsed * 60 / 1000;
+      renderer.render(scene, camera);
+      frame = requestAnimationFrame(animate);
+    }
+    function syncAnimation() {
+      cancelAnimationFrame(frame);
+      previousFrame = undefined;
+      renderer.render(scene, camera);
+      if (!reducedMotion.matches && !document.hidden) frame = requestAnimationFrame(animate);
+    }
+    function resizeStarfield() {
+      const width = Math.max(1, starfield.clientWidth);
+      const height = Math.max(1, starfield.clientHeight);
+      camera.aspect = width / height;
+      camera.updateProjectionMatrix();
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 1.5));
+      renderer.setSize(width, height, false);
+      syncAnimation();
+    }
+    window.addEventListener("resize", resizeStarfield);
+    document.addEventListener("visibilitychange", syncAnimation);
+    reducedMotion.addEventListener("change", syncAnimation);
+    resizeStarfield();
+  }
+}
